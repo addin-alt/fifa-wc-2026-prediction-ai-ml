@@ -1,0 +1,3270 @@
+date,home_team,away_team,home_score,away_score,home_elo,away_elo,Elo_Diff,Match_Outcome
+2000-01-09,Mexico,Iran,2,1,1824,1743,81,2.0
+2000-01-09,Ivory Coast,Egypt,2,0,1572,1682,-110,2.0
+2000-01-16,United States,Iran,1,1,1808,1743,65,1.0
+2000-01-18,Ghana,Tunisia,2,0,1509,1637,-128,2.0
+2000-01-21,New Zealand,South Korea,0,1,1540,1764,-224,0.0
+2000-01-23,New Zealand,South Korea,0,0,1540,1764,-224,1.0
+2000-01-24,Qatar,Bosnia and Herzegovina,2,0,1495,1548,-53,2.0
+2000-01-24,Algeria,DR Congo,0,0,1507,1449,58,1.0
+2000-01-27,South Africa,DR Congo,1,0,1666,1449,217,2.0
+2000-01-28,Egypt,Senegal,1,0,1682,1454,228,2.0
+2000-01-29,Morocco,Tunisia,0,0,1662,1637,25,1.0
+2000-01-31,Ghana,Ivory Coast,0,2,1509,1572,-63,0.0
+2000-02-02,Algeria,South Africa,1,1,1507,1666,-159,1.0
+2000-02-04,Norway,Sweden,1,1,1804,1827,-23,1.0
+2000-02-05,Mexico,Japan,1,0,1824,1795,29,2.0
+2000-02-06,Ghana,South Africa,0,1,1509,1666,-157,0.0
+2000-02-07,Tunisia,Egypt,1,0,1637,1682,-45,2.0
+2000-02-08,Czechia,Mexico,2,1,1917,1824,93,2.0
+2000-02-12,South Africa,Tunisia,2,2,1666,1637,29,1.0
+2000-02-12,United States,Haiti,3,0,1808,1401,407,2.0
+2000-02-15,Canada,South Korea,0,0,1632,1764,-132,1.0
+2000-02-19,United States,Colombia,2,2,1808,1767,41,1.0
+2000-02-20,Canada,Mexico,2,1,1632,1824,-192,2.0
+2000-02-23,England,Argentina,0,0,1852,2005,-153,1.0
+2000-02-23,Belgium,Portugal,1,1,1784,2018,-234,1.0
+2000-02-23,Netherlands,Germany,2,1,1998,1882,116,2.0
+2000-02-23,Turkey,Norway,0,2,1754,1804,-50,0.0
+2000-02-23,Croatia,Spain,0,0,1888,1962,-74,1.0
+2000-02-27,Canada,Colombia,2,0,1632,1767,-135,2.0
+2000-03-11,Jordan,Bosnia and Herzegovina,0,0,1469,1548,-79,1.0
+2000-03-12,United States,Tunisia,1,1,1808,1637,171,1.0
+2000-03-15,Jordan,Bosnia and Herzegovina,1,2,1469,1548,-79,0.0
+2000-03-28,Colombia,Brazil,0,0,1767,2023,-256,1.0
+2000-03-29,Czechia,Australia,3,1,1917,1778,139,2.0
+2000-03-29,Scotland,France,0,2,1745,2110,-365,0.0
+2000-03-29,Austria,Sweden,1,1,1719,1827,-108,1.0
+2000-03-29,Belgium,Netherlands,2,2,1784,1998,-214,1.0
+2000-03-29,Switzerland,Norway,2,2,1712,1804,-92,1.0
+2000-03-29,Croatia,Germany,1,1,1888,1882,6,1.0
+2000-04-08,Qatar,Jordan,2,2,1495,1469,26,1.0
+2000-04-09,Cape Verde,Algeria,0,0,1335,1507,-172,1.0
+2000-04-21,Algeria,Cape Verde,2,0,1507,1335,172,2.0
+2000-04-26,South Korea,Japan,1,0,1764,1795,-31,2.0
+2000-04-26,Paraguay,Uruguay,1,0,1866,1756,110,2.0
+2000-04-26,Brazil,Ecuador,3,2,2023,1691,332,2.0
+2000-04-26,Netherlands,Scotland,0,0,1998,1745,253,1.0
+2000-04-26,Austria,Croatia,1,2,1719,1888,-169,0.0
+2000-04-26,Norway,Belgium,0,2,1804,1784,20,0.0
+2000-04-26,Germany,Switzerland,1,1,1882,1712,170,1.0
+2000-05-08,Cape Verde,Senegal,2,2,1335,1454,-119,1.0
+2000-05-14,Cape Verde,Senegal,1,0,1335,1454,-119,2.0
+2000-05-25,Jordan,Iraq,0,0,1469,1621,-152,1.0
+2000-05-27,England,Brazil,1,1,1852,2023,-171,1.0
+2000-05-28,Croatia,France,0,2,1888,2110,-222,0.0
+2000-05-31,Jordan,Iran,0,1,1469,1743,-274,0.0
+2000-06-02,Jordan,Iraq,1,4,1469,1621,-152,0.0
+2000-06-03,United States,South Africa,4,0,1808,1666,142,2.0
+2000-06-03,Paraguay,Ecuador,3,1,1866,1691,175,2.0
+2000-06-03,Germany,Czechia,3,2,1882,1917,-35,2.0
+2000-06-03,Sweden,Spain,1,1,1827,1962,-135,1.0
+2000-06-04,France,Japan,2,2,2110,1795,315,1.0
+2000-06-06,Morocco,France,1,5,1662,2110,-448,0.0
+2000-06-07,Iran,Egypt,1,1,1743,1682,61,1.0
+2000-06-07,Mexico,South Africa,4,2,1824,1666,158,2.0
+2000-06-09,Australia,Paraguay,0,0,1778,1866,-88,1.0
+2000-06-09,South Korea,Egypt,1,0,1764,1682,82,2.0
+2000-06-10,Belgium,Sweden,2,1,1784,1827,-43,2.0
+2000-06-11,Tunisia,Senegal,4,1,1637,1454,183,2.0
+2000-06-11,United States,Mexico,3,0,1808,1824,-16,2.0
+2000-06-11,Netherlands,Czechia,1,0,1998,1917,81,2.0
+2000-06-12,Australia,Paraguay,0,0,1778,1866,-88,1.0
+2000-06-12,Portugal,England,3,2,2018,1852,166,2.0
+2000-06-13,Norway,Spain,1,0,1804,1962,-158,2.0
+2000-06-15,Australia,Paraguay,2,1,1778,1866,-88,2.0
+2000-06-15,Sweden,Turkey,0,0,1827,1754,73,1.0
+2000-06-16,Algeria,Senegal,1,1,1507,1454,53,1.0
+2000-06-16,France,Czechia,2,1,2110,1917,193,2.0
+2000-06-17,Egypt,Ghana,2,0,1682,1509,173,2.0
+2000-06-17,England,Germany,1,0,1852,1882,-30,2.0
+2000-06-18,Ivory Coast,Tunisia,2,2,1572,1637,-65,1.0
+2000-06-19,Belgium,Turkey,0,2,1784,1754,30,0.0
+2000-06-20,Portugal,Germany,3,0,2018,1882,136,2.0
+2000-06-21,Netherlands,France,3,2,1998,2110,-112,2.0
+2000-06-24,Portugal,Turkey,2,0,2018,1754,264,2.0
+2000-06-25,Ecuador,Panama,5,0,1691,1390,301,2.0
+2000-06-25,France,Spain,2,1,2110,1962,148,2.0
+2000-06-28,Australia,New Zealand,2,0,1778,1540,238,2.0
+2000-06-28,Tunisia,Algeria,2,2,1637,1507,130,1.0
+2000-06-28,Brazil,Uruguay,1,1,2023,1756,267,1.0
+2000-06-28,France,Portugal,2,1,2110,2018,92,2.0
+2000-06-29,Colombia,Argentina,1,3,1767,2005,-238,0.0
+2000-07-09,Senegal,Egypt,0,0,1454,1682,-228,1.0
+2000-07-09,Morocco,Algeria,2,1,1662,1507,155,2.0
+2000-07-16,Panama,Mexico,0,1,1390,1824,-434,0.0
+2000-07-18,Paraguay,Brazil,2,1,1866,2023,-157,2.0
+2000-07-19,Argentina,Ecuador,2,0,2005,1691,314,2.0
+2000-07-23,Panama,Canada,0,0,1390,1632,-242,1.0
+2000-07-25,Ecuador,Colombia,0,0,1691,1767,-76,1.0
+2000-07-26,Brazil,Argentina,3,1,2023,2005,18,2.0
+2000-08-11,Panama,Ecuador,0,0,1390,1691,-301,1.0
+2000-08-15,Mexico,Canada,2,0,1824,1632,192,2.0
+2000-08-15,Colombia,Uruguay,1,0,1767,1756,11,2.0
+2000-08-16,Argentina,Paraguay,1,1,2005,1866,139,1.0
+2000-08-16,Germany,Spain,4,1,1882,1962,-80,2.0
+2000-08-16,Bosnia and Herzegovina,Turkey,2,0,1548,1754,-206,2.0
+2000-09-01,Austria,Iran,5,1,1719,1743,-24,2.0
+2000-09-01,Iraq,Uzbekistan,2,0,1621,1459,162,2.0
+2000-09-02,Egypt,Ivory Coast,1,0,1682,1572,110,2.0
+2000-09-02,France,England,1,1,2110,1852,258,1.0
+2000-09-02,Belgium,Croatia,0,0,1784,1888,-104,1.0
+2000-09-02,Bosnia and Herzegovina,Spain,1,2,1548,1962,-414,0.0
+2000-09-03,Mexico,Panama,7,1,1824,1390,434,2.0
+2000-09-03,Uruguay,Ecuador,4,0,1756,1691,65,2.0
+2000-09-20,Mexico,Ecuador,2,0,1824,1691,133,2.0
+2000-09-27,Qatar,Iran,1,2,1495,1743,-248,0.0
+2000-10-02,Jordan,Saudi Arabia,1,0,1469,1678,-209,2.0
+2000-10-02,Qatar,Egypt,0,1,1495,1682,-187,0.0
+2000-10-07,South Korea,Australia,4,2,1764,1778,-14,2.0
+2000-10-07,South Africa,France,0,0,1666,2110,-444,1.0
+2000-10-07,Colombia,Paraguay,0,2,1767,1866,-99,0.0
+2000-10-07,England,Germany,0,1,1852,1882,-30,0.0
+2000-10-07,Sweden,Turkey,1,1,1827,1754,73,1.0
+2000-10-08,Argentina,Uruguay,2,1,2005,1756,249,2.0
+2000-10-09,Canada,Panama,1,0,1632,1390,242,2.0
+2000-10-11,Croatia,Scotland,1,1,1888,1745,143,1.0
+2000-10-11,Austria,Spain,1,1,1719,1962,-243,1.0
+2000-10-11,Netherlands,Portugal,0,2,1998,2018,-20,0.0
+2000-10-14,Japan,Saudi Arabia,4,1,1795,1678,117,2.0
+2000-10-14,Qatar,Uzbekistan,1,1,1495,1459,36,1.0
+2000-10-17,Japan,Uzbekistan,8,1,1795,1459,336,2.0
+2000-10-17,Qatar,Saudi Arabia,0,0,1495,1678,-183,1.0
+2000-10-18,Iran,Iraq,1,0,1743,1621,122,2.0
+2000-10-20,Japan,Qatar,1,1,1795,1495,300,1.0
+2000-10-20,Saudi Arabia,Uzbekistan,5,0,1678,1459,219,2.0
+2000-10-23,South Korea,Iran,2,1,1764,1743,21,2.0
+2000-10-24,Japan,Iraq,4,1,1795,1621,174,2.0
+2000-10-25,United States,Mexico,2,0,1808,1824,-16,2.0
+2000-10-26,Saudi Arabia,South Korea,2,1,1678,1764,-86,2.0
+2000-10-29,Japan,Saudi Arabia,1,0,1795,1678,117,2.0
+2000-11-15,Scotland,Australia,0,2,1745,1778,-33,0.0
+2000-11-15,Tunisia,Switzerland,1,1,1637,1712,-75,1.0
+2000-11-15,Canada,Mexico,0,0,1632,1824,-192,1.0
+2000-11-15,Brazil,Colombia,1,0,2023,1767,256,2.0
+2000-11-15,Turkey,France,0,4,1754,2110,-356,0.0
+2000-11-15,Spain,Netherlands,1,2,1962,1998,-36,0.0
+2000-12-20,Japan,South Korea,1,1,1795,1764,31,1.0
+2000-12-20,Argentina,Mexico,2,0,2005,1824,181,2.0
+2001-01-06,Qatar,Jordan,3,1,1559,1402,157,2.0
+2001-01-13,Tunisia,Morocco,0,1,1681,1639,42,0.0
+2001-01-14,DR Congo,Ghana,2,1,1422,1519,-97,2.0
+2001-01-24,Norway,South Korea,3,2,1753,1805,-52,2.0
+2001-01-27,Paraguay,South Korea,1,1,1726,1805,-79,1.0
+2001-01-28,Egypt,Morocco,0,0,1641,1639,2,1.0
+2001-01-31,Colombia,Mexico,3,2,1879,1809,70,2.0
+2001-02-03,United States,Colombia,0,1,1752,1879,-127,0.0
+2001-02-08,Morocco,South Korea,1,1,1639,1805,-166,1.0
+2001-02-14,Qatar,Sweden,0,0,1559,1892,-333,1.0
+2001-02-24,Morocco,Senegal,0,0,1639,1581,58,1.0
+2001-02-25,Tunisia,DR Congo,6,0,1681,1422,259,2.0
+2001-02-27,France,Germany,1,0,2111,1869,242,2.0
+2001-02-28,Colombia,Australia,3,2,1879,1820,59,2.0
+2001-02-28,United States,Mexico,2,0,1752,1809,-57,2.0
+2001-02-28,England,Spain,3,0,1932,1967,-35,2.0
+2001-02-28,Croatia,Austria,1,0,1885,1672,213,2.0
+2001-02-28,Netherlands,Turkey,0,0,1994,1796,198,1.0
+2001-03-03,United States,Brazil,1,2,1752,1833,-81,0.0
+2001-03-07,Mexico,Brazil,3,3,1809,1833,-24,1.0
+2001-03-10,DR Congo,Ivory Coast,1,2,1422,1622,-200,0.0
+2001-03-11,Egypt,Algeria,5,2,1641,1512,129,2.0
+2001-03-24,France,Japan,5,0,2111,1859,252,2.0
+2001-03-24,Morocco,Tunisia,2,0,1639,1681,-42,2.0
+2001-03-24,Scotland,Belgium,2,2,1734,1833,-99,1.0
+2001-03-24,Bosnia and Herzegovina,Austria,1,1,1531,1672,-141,1.0
+2001-03-25,Ghana,DR Congo,3,0,1519,1422,97,2.0
+2001-03-28,Uruguay,Paraguay,0,1,1788,1726,62,0.0
+2001-03-28,Ecuador,Brazil,1,0,1735,1833,-98,2.0
+2001-03-28,Spain,France,2,1,1967,2111,-144,2.0
+2001-03-28,Portugal,Netherlands,2,2,2009,1994,15,1.0
+2001-04-05,Haiti,Panama,1,1,1458,1397,61,1.0
+2001-04-07,Haiti,Panama,0,0,1458,1397,61,1.0
+2001-04-21,Senegal,Algeria,3,0,1581,1512,69,2.0
+2001-04-24,South Korea,Iran,1,0,1805,1751,54,2.0
+2001-04-24,Egypt,Canada,3,0,1641,1588,53,2.0
+2001-04-24,Panama,Haiti,2,0,1397,1458,-61,2.0
+2001-04-24,Ecuador,Paraguay,2,1,1735,1726,9,2.0
+2001-04-25,Spain,Japan,1,0,1967,1859,108,2.0
+2001-04-25,Czechia,Belgium,1,1,1818,1833,-15,1.0
+2001-04-25,France,Portugal,4,0,2111,2009,102,2.0
+2001-04-25,Switzerland,Sweden,0,2,1660,1892,-232,0.0
+2001-04-26,Canada,Iran,1,0,1588,1751,-163,2.0
+2001-04-26,Egypt,South Korea,1,2,1641,1805,-164,0.0
+2001-04-27,Uzbekistan,Jordan,2,2,1508,1402,106,1.0
+2001-05-04,Algeria,Morocco,1,2,1512,1639,-127,0.0
+2001-05-06,Egypt,Senegal,1,0,1641,1581,60,2.0
+2001-05-07,Jordan,Uzbekistan,1,1,1402,1508,-106,1.0
+2001-05-20,Tunisia,Ivory Coast,1,1,1681,1622,59,1.0
+2001-05-25,England,Mexico,4,0,1932,1809,123,2.0
+2001-05-30,Australia,Mexico,2,0,1820,1809,11,2.0
+2001-05-30,South Korea,France,0,5,1805,2111,-306,0.0
+2001-05-31,Japan,Canada,3,0,1859,1588,271,2.0
+2001-06-01,Australia,France,1,0,1820,2111,-291,2.0
+2001-06-01,South Korea,Mexico,2,1,1805,1809,-4,2.0
+2001-06-02,Brazil,Canada,0,0,1833,1588,245,1.0
+2001-06-02,Spain,Bosnia and Herzegovina,4,1,1967,1531,436,2.0
+2001-06-03,South Korea,Australia,1,0,1805,1820,-15,2.0
+2001-06-03,France,Mexico,4,0,2111,1809,302,2.0
+2001-06-03,Argentina,Colombia,3,0,2024,1879,145,2.0
+2001-06-04,Japan,Brazil,0,0,1859,1833,26,1.0
+2001-06-07,Japan,Australia,1,0,1859,1820,39,2.0
+2001-06-07,United States,Ecuador,0,0,1752,1735,17,1.0
+2001-06-07,France,Brazil,2,1,2111,1833,278,2.0
+2001-06-09,Australia,Brazil,1,0,1820,1833,-13,2.0
+2001-06-10,Japan,France,0,1,1859,2111,-252,0.0
+2001-06-17,Ivory Coast,Egypt,2,2,1622,1641,-19,1.0
+2001-06-20,New Zealand,Australia,0,2,1509,1820,-311,0.0
+2001-06-24,Australia,New Zealand,4,1,1820,1509,311,2.0
+2001-06-30,Uzbekistan,Bosnia and Herzegovina,2,1,1508,1531,-23,2.0
+2001-06-30,Morocco,Egypt,1,0,1639,1641,-2,2.0
+2001-07-01,Japan,Paraguay,2,0,1859,1726,133,2.0
+2001-07-01,Mexico,United States,1,0,1809,1752,57,2.0
+2001-07-01,Uruguay,Brazil,1,0,1788,1833,-45,2.0
+2001-07-12,Mexico,Brazil,1,0,1809,1833,-24,2.0
+2001-07-14,Senegal,Morocco,1,0,1581,1639,-58,2.0
+2001-07-14,Colombia,Ecuador,1,0,1879,1735,144,2.0
+2001-07-15,DR Congo,Tunisia,0,3,1422,1681,-259,0.0
+2001-07-15,Mexico,Paraguay,0,0,1809,1726,83,1.0
+2001-07-18,Brazil,Paraguay,3,1,1833,1726,107,2.0
+2001-07-21,Algeria,Egypt,1,1,1512,1641,-129,1.0
+2001-07-22,Bosnia and Herzegovina,Iran,2,2,1531,1751,-220,1.0
+2001-07-25,Mexico,Uruguay,2,1,1809,1788,21,2.0
+2001-07-29,Ivory Coast,DR Congo,1,2,1622,1422,200,0.0
+2001-07-29,Colombia,Mexico,1,0,1879,1809,70,2.0
+2001-08-01,Qatar,Iran,2,1,1559,1751,-192,2.0
+2001-08-05,Saudi Arabia,Qatar,1,2,1688,1559,129,0.0
+2001-08-09,Brazil,Panama,5,0,1833,1397,436,2.0
+2001-08-10,Iran,Bosnia and Herzegovina,4,0,1751,1531,220,2.0
+2001-08-15,Japan,Australia,3,0,1859,1820,39,2.0
+2001-08-15,Czechia,South Korea,5,0,1818,1805,13,2.0
+2001-08-15,Sweden,South Africa,3,0,1892,1623,269,2.0
+2001-08-15,Ecuador,Argentina,0,2,1735,2024,-289,0.0
+2001-08-15,Brazil,Paraguay,2,0,1833,1726,107,2.0
+2001-08-15,England,Netherlands,0,2,1932,1994,-62,0.0
+2001-08-15,Austria,Switzerland,1,2,1672,1660,12,0.0
+2001-08-15,Norway,Turkey,1,1,1753,1796,-43,1.0
+2001-08-24,Iran,Saudi Arabia,2,0,1751,1688,63,2.0
+2001-08-26,Uzbekistan,Qatar,2,1,1508,1559,-51,2.0
+2001-08-31,Saudi Arabia,Iraq,1,0,1688,1538,150,2.0
+2001-09-01,Scotland,Croatia,0,0,1734,1885,-151,1.0
+2001-09-01,Germany,England,1,5,1869,1932,-63,0.0
+2001-09-01,Spain,Austria,4,0,1967,1672,295,2.0
+2001-09-05,Argentina,Brazil,2,1,2024,1833,191,2.0
+2001-09-05,Colombia,Ecuador,0,0,1879,1735,144,1.0
+2001-09-05,Belgium,Scotland,2,0,1833,1734,99,2.0
+2001-09-05,Austria,Bosnia and Herzegovina,2,0,1672,1531,141,2.0
+2001-09-05,Turkey,Sweden,1,2,1796,1892,-96,0.0
+2001-09-07,Iraq,Iran,1,2,1538,1751,-213,0.0
+2001-09-14,Qatar,Iraq,0,0,1559,1538,21,1.0
+2001-09-28,Saudi Arabia,Iran,2,2,1688,1751,-63,1.0
+2001-09-28,Qatar,Uzbekistan,2,2,1559,1508,51,1.0
+2001-10-04,Senegal,Japan,2,0,1581,1859,-278,2.0
+2001-10-05,Saudi Arabia,Iraq,2,1,1688,1538,150,2.0
+2001-10-06,France,Algeria,4,1,2111,1512,599,2.0
+2001-10-06,Croatia,Belgium,1,0,1885,1833,52,2.0
+2001-10-07,Uruguay,Colombia,1,1,1788,1879,-91,1.0
+2001-10-07,Paraguay,Argentina,2,2,1726,2024,-298,1.0
+2001-10-12,Iran,Iraq,2,1,1751,1538,213,2.0
+2001-11-07,Ecuador,Uruguay,1,1,1735,1788,-53,1.0
+2001-11-08,South Korea,Senegal,0,1,1805,1581,224,0.0
+2001-11-10,South Korea,Croatia,2,0,1805,1885,-80,2.0
+2001-11-10,South Africa,Egypt,1,0,1623,1641,-18,2.0
+2001-11-10,England,Sweden,1,1,1932,1892,40,1.0
+2001-11-10,Austria,Turkey,0,1,1672,1796,-124,0.0
+2001-11-10,Belgium,Czechia,1,0,1833,1818,15,2.0
+2001-11-11,Australia,France,1,1,1820,2111,-291,1.0
+2001-11-13,South Korea,Croatia,1,1,1805,1885,-80,1.0
+2001-11-14,Spain,Mexico,1,0,1967,1809,158,2.0
+2001-11-14,Uruguay,Argentina,1,1,1788,2024,-236,1.0
+2001-11-14,Paraguay,Colombia,0,4,1726,1879,-153,0.0
+2001-11-14,Turkey,Austria,5,0,1796,1672,124,2.0
+2001-11-14,Czechia,Belgium,0,1,1818,1833,-15,0.0
+2001-11-20,Australia,Uruguay,1,0,1820,1788,32,2.0
+2001-11-25,Uruguay,Australia,3,0,1788,1820,-32,2.0
+2001-12-05,Algeria,Ghana,1,1,1512,1519,-7,1.0
+2001-12-09,South Korea,United States,1,0,1805,1752,53,2.0
+2001-12-30,Qatar,Egypt,2,2,1559,1641,-82,1.0
+2001-12-30,Senegal,Algeria,1,0,1581,1512,69,2.0
+2002-01-04,Egypt,Ghana,2,0,1602,1500,102,2.0
+2002-01-13,Qatar,Iraq,1,3,1580,1612,-32,0.0
+2002-01-18,Canada,Haiti,2,0,1634,1496,138,2.0
+2002-01-19,United States,South Korea,2,1,1826,1768,58,2.0
+2002-01-20,Senegal,Egypt,1,0,1776,1602,174,2.0
+2002-01-20,Haiti,Ecuador,2,0,1496,1722,-226,2.0
+2002-01-21,Ghana,Morocco,0,0,1500,1553,-53,1.0
+2002-01-22,Ecuador,Canada,2,0,1722,1634,88,2.0
+2002-01-24,Ghana,South Africa,0,0,1500,1663,-163,1.0
+2002-01-25,Egypt,Tunisia,1,0,1602,1613,-11,2.0
+2002-01-27,Mexico,South Korea,0,0,1834,1768,66,1.0
+2002-01-29,DR Congo,Ivory Coast,3,1,1458,1556,-98,2.0
+2002-01-30,Saudi Arabia,Qatar,3,1,1668,1580,88,2.0
+2002-01-30,South Africa,Morocco,3,1,1663,1553,110,2.0
+2002-01-30,United States,Canada,0,0,1826,1634,192,1.0
+2002-01-31,Senegal,Tunisia,0,0,1776,1613,163,1.0
+2002-02-02,Canada,South Korea,2,1,1634,1768,-134,2.0
+2002-02-04,Senegal,DR Congo,2,0,1776,1458,318,2.0
+2002-02-06,Saudi Arabia,Brazil,0,1,1668,2057,-389,0.0
+2002-02-12,Ecuador,Turkey,1,0,1722,1894,-172,2.0
+2002-02-13,Uruguay,South Korea,2,1,1781,1768,13,2.0
+2002-02-13,Netherlands,England,1,1,2050,1950,100,1.0
+2002-02-13,Belgium,Norway,1,0,1783,1801,-18,2.0
+2002-02-13,Spain,Portugal,1,1,1996,1930,66,1.0
+2002-03-10,United States,Ecuador,1,0,1826,1722,104,2.0
+2002-03-13,Tunisia,South Korea,0,0,1613,1768,-155,1.0
+2002-03-20,Saudi Arabia,South Africa,1,0,1668,1663,5,2.0
+2002-03-26,South Korea,Turkey,0,0,1768,1894,-126,1.0
+2002-03-27,Saudi Arabia,Uruguay,3,2,1668,1781,-113,2.0
+2002-03-27,Tunisia,Norway,0,0,1613,1801,-188,1.0
+2002-03-27,Germany,United States,4,2,1935,1826,109,2.0
+2002-03-27,France,Scotland,5,0,1973,1692,281,2.0
+2002-03-27,Sweden,Switzerland,1,1,1823,1709,114,1.0
+2002-03-27,Netherlands,Spain,1,0,2050,1996,54,2.0
+2002-04-03,United States,Mexico,1,0,1826,1834,-8,2.0
+2002-04-17,Ecuador,South Africa,0,0,1722,1663,59,1.0
+2002-04-17,Germany,Argentina,0,1,1935,1996,-61,0.0
+2002-04-17,Portugal,Brazil,1,1,1930,2057,-127,1.0
+2002-04-17,England,Paraguay,4,0,1950,1763,187,2.0
+2002-04-17,Norway,Sweden,0,0,1801,1823,-22,1.0
+2002-04-17,Croatia,Bosnia and Herzegovina,2,0,1803,1501,302,2.0
+2002-05-12,United States,Uruguay,2,1,1826,1781,45,2.0
+2002-05-12,Mexico,Colombia,2,1,1834,1864,-30,2.0
+2002-05-14,Norway,Japan,3,0,1801,1805,-4,2.0
+2002-05-14,Saudi Arabia,Senegal,3,2,1668,1776,-108,2.0
+2002-05-14,Belgium,Algeria,0,0,1783,1492,291,1.0
+2002-05-15,Switzerland,Canada,1,3,1709,1634,75,0.0
+2002-05-16,South Korea,Scotland,4,1,1768,1692,76,2.0
+2002-05-17,Sweden,Paraguay,1,2,1823,1763,60,0.0
+2002-05-18,Germany,Austria,6,2,1935,1681,254,2.0
+2002-05-18,France,Belgium,1,2,1973,1783,190,0.0
+2002-05-19,United States,Netherlands,0,2,1826,2050,-224,0.0
+2002-05-20,South Africa,Scotland,2,0,1663,1692,-29,2.0
+2002-05-21,South Korea,England,1,1,1768,1950,-182,1.0
+2002-05-23,South Africa,Turkey,2,0,1663,1894,-231,2.0
+2002-05-23,Senegal,Ecuador,1,0,1776,1722,54,2.0
+2002-05-25,Japan,Sweden,1,1,1805,1823,-18,1.0
+2002-05-26,South Korea,France,2,3,1768,1973,-205,0.0
+2002-05-31,Senegal,France,1,0,1776,1973,-197,2.0
+2002-06-01,Germany,Saudi Arabia,8,0,1935,1668,267,2.0
+2002-06-02,Paraguay,South Africa,2,2,1763,1663,100,1.0
+2002-06-02,England,Sweden,1,1,1950,1823,127,1.0
+2002-06-03,Mexico,Croatia,1,0,1834,1803,31,2.0
+2002-06-03,Brazil,Turkey,2,1,2057,1894,163,2.0
+2002-06-04,Japan,Belgium,2,2,1805,1783,22,1.0
+2002-06-05,United States,Portugal,3,2,1826,1930,-104,2.0
+2002-06-06,France,Uruguay,0,0,1973,1781,192,1.0
+2002-06-07,England,Argentina,1,0,1950,1996,-46,2.0
+2002-06-07,Spain,Paraguay,3,1,1996,1763,233,2.0
+2002-06-09,Mexico,Ecuador,2,1,1834,1722,112,2.0
+2002-06-10,South Korea,United States,1,1,1768,1826,-58,1.0
+2002-06-10,Belgium,Tunisia,1,1,1783,1613,170,1.0
+2002-06-11,Senegal,Uruguay,3,3,1776,1781,-5,1.0
+2002-06-12,Spain,South Africa,3,2,1996,1663,333,2.0
+2002-06-12,Argentina,Sweden,1,1,1996,1823,173,1.0
+2002-06-13,Ecuador,Croatia,1,0,1722,1803,-81,2.0
+2002-06-14,Japan,Tunisia,2,0,1805,1613,192,2.0
+2002-06-14,South Korea,Portugal,1,0,1768,1930,-162,2.0
+2002-06-15,Germany,Paraguay,1,0,1935,1763,172,2.0
+2002-06-16,Senegal,Sweden,2,1,1776,1823,-47,2.0
+2002-06-17,United States,Mexico,2,0,1826,1834,-8,2.0
+2002-06-17,Brazil,Belgium,2,0,2057,1783,274,2.0
+2002-06-18,Japan,Turkey,0,1,1805,1894,-89,0.0
+2002-06-21,Germany,United States,1,0,1935,1826,109,2.0
+2002-06-21,Brazil,England,2,1,2057,1950,107,2.0
+2002-06-22,South Korea,Spain,0,0,1768,1996,-228,1.0
+2002-06-22,Turkey,Senegal,1,0,1894,1776,118,2.0
+2002-06-25,South Korea,Germany,0,1,1768,1935,-167,0.0
+2002-06-26,Brazil,Turkey,1,0,2057,1894,163,2.0
+2002-06-29,South Korea,Turkey,2,3,1768,1894,-126,0.0
+2002-06-30,Brazil,Germany,2,0,2057,1935,122,2.0
+2002-07-14,New Zealand,Australia,1,0,1565,1798,-233,2.0
+2002-08-20,Algeria,DR Congo,1,1,1492,1458,34,1.0
+2002-08-21,Tunisia,France,1,1,1613,1973,-360,1.0
+2002-08-21,Brazil,Paraguay,0,1,2057,1763,294,0.0
+2002-08-21,Switzerland,Austria,3,2,1709,1681,28,2.0
+2002-08-21,Norway,Netherlands,0,1,1801,2050,-249,0.0
+2002-08-30,Jordan,Iran,1,0,1535,1709,-174,2.0
+2002-09-05,Iran,Iraq,0,0,1709,1612,97,1.0
+2002-09-07,Iraq,Jordan,3,2,1612,1535,77,2.0
+2002-09-07,England,Portugal,1,1,1950,1930,20,1.0
+2002-09-08,Ivory Coast,South Africa,0,0,1556,1663,-107,1.0
+2002-09-19,Iran,Paraguay,1,1,1709,1763,-54,1.0
+2002-10-11,Bosnia and Herzegovina,Germany,1,1,1501,1935,-434,1.0
+2002-10-12,Portugal,Tunisia,1,1,1930,1613,317,1.0
+2002-10-15,Scotland,Canada,3,1,1692,1634,58,2.0
+2002-10-16,Spain,Paraguay,0,0,1996,1763,233,1.0
+2002-10-16,Austria,Netherlands,0,3,1681,2050,-369,0.0
+2002-10-16,Sweden,Portugal,2,3,1823,1930,-107,0.0
+2002-10-16,Norway,Bosnia and Herzegovina,2,0,1801,1501,300,2.0
+2002-11-19,South Africa,Senegal,1,1,1663,1776,-113,1.0
+2002-11-20,Japan,Argentina,0,2,1805,1996,-191,0.0
+2002-11-20,South Korea,Brazil,2,3,1768,2057,-289,0.0
+2002-11-20,Qatar,Iraq,2,1,1580,1612,-32,2.0
+2002-11-20,Tunisia,Egypt,0,0,1613,1602,11,1.0
+2002-11-20,Portugal,Scotland,2,0,1930,1692,238,2.0
+2002-11-20,Austria,Norway,0,1,1681,1801,-120,0.0
+2002-11-20,Germany,Netherlands,1,3,1935,2050,-115,0.0
+2002-11-20,Czechia,Sweden,3,3,1866,1823,43,1.0
+2002-12-18,Jordan,Morocco,1,1,1535,1553,-18,1.0
+2002-12-22,Egypt,Ghana,0,0,1602,1500,102,1.0
+2002-12-28,Saudi Arabia,Morocco,2,0,1668,1553,115,2.0
+2003-01-18,United States,Canada,4,0,1832,1594,238,2.0
+2003-02-04,Iran,Uruguay,1,1,1716,1860,-144,1.0
+2003-02-04,Argentina,Mexico,1,0,2018,1850,168,2.0
+2003-02-08,United States,Argentina,0,1,1832,2018,-186,0.0
+2003-02-12,England,Australia,1,3,1954,1820,134,0.0
+2003-02-12,Tunisia,Sweden,1,0,1643,1804,-161,2.0
+2003-02-12,Morocco,Senegal,1,0,1569,1749,-180,2.0
+2003-02-12,Algeria,Belgium,1,3,1518,1802,-284,0.0
+2003-02-12,Colombia,Mexico,0,0,1705,1850,-145,1.0
+2003-02-12,Netherlands,Argentina,1,0,1990,2018,-28,2.0
+2003-02-12,France,Czechia,0,2,2049,1978,71,0.0
+2003-02-12,Spain,Germany,3,1,2005,1879,126,2.0
+2003-02-16,Sweden,Qatar,3,2,1804,1521,283,2.0
+2003-03-19,Egypt,Qatar,6,0,1699,1521,178,2.0
+2003-03-26,Mexico,Paraguay,1,1,1850,1792,58,1.0
+2003-03-27,Tunisia,Ghana,2,2,1643,1448,195,1.0
+2003-03-28,Japan,Uruguay,2,2,1776,1860,-84,1.0
+2003-03-29,South Korea,Colombia,0,0,1694,1705,-11,1.0
+2003-03-29,Portugal,Brazil,2,1,1919,1990,-71,2.0
+2003-03-29,Croatia,Belgium,4,0,1828,1802,26,2.0
+2003-03-29,Netherlands,Czechia,1,1,1990,1978,12,1.0
+2003-04-02,England,Turkey,2,0,1954,1841,113,2.0
+2003-04-02,Czechia,Austria,4,0,1978,1676,302,2.0
+2003-04-16,South Korea,Japan,0,1,1694,1776,-82,0.0
+2003-04-30,France,Egypt,5,0,2049,1699,350,2.0
+2003-04-30,Tunisia,Senegal,1,0,1643,1749,-106,2.0
+2003-04-30,Morocco,Ivory Coast,0,1,1569,1590,-21,0.0
+2003-04-30,Mexico,Brazil,0,0,1850,1990,-140,1.0
+2003-04-30,Spain,Ecuador,4,0,2005,1717,288,2.0
+2003-04-30,Scotland,Austria,0,2,1678,1676,2,0.0
+2003-04-30,Netherlands,Portugal,1,1,1990,1919,71,1.0
+2003-04-30,Sweden,Croatia,1,2,1804,1828,-24,0.0
+2003-04-30,Czechia,Turkey,4,0,1978,1841,137,2.0
+2003-05-08,United States,Mexico,0,0,1832,1850,-18,1.0
+2003-05-22,South Africa,England,1,2,1644,1954,-310,0.0
+2003-05-27,Scotland,New Zealand,1,1,1678,1519,159,1.0
+2003-05-31,Japan,South Korea,0,1,1776,1694,82,0.0
+2003-05-31,Senegal,Cape Verde,2,1,1749,1355,394,2.0
+2003-06-01,Germany,Canada,4,1,1879,1594,285,2.0
+2003-06-06,Portugal,Paraguay,0,0,1919,1792,127,1.0
+2003-06-07,Scotland,Germany,1,1,1678,1879,-201,1.0
+2003-06-08,Japan,Argentina,1,4,1776,2018,-242,0.0
+2003-06-08,South Korea,Uruguay,0,2,1694,1860,-166,0.0
+2003-06-08,United States,New Zealand,2,1,1832,1519,313,2.0
+2003-06-08,Colombia,Ecuador,0,0,1705,1717,-12,1.0
+2003-06-11,Japan,Paraguay,0,0,1776,1792,-16,1.0
+2003-06-11,South Korea,Argentina,0,1,1694,2018,-324,0.0
+2003-06-18,Japan,New Zealand,3,0,1776,1519,257,2.0
+2003-06-18,France,Colombia,1,0,2049,1705,344,2.0
+2003-06-19,Turkey,United States,2,1,1841,1832,9,2.0
+2003-06-20,France,Japan,2,1,2049,1776,273,2.0
+2003-06-20,Colombia,New Zealand,3,1,1705,1519,186,2.0
+2003-06-21,Brazil,United States,1,0,1990,1832,158,2.0
+2003-06-22,Colombia,Japan,1,0,1705,1776,-71,2.0
+2003-06-22,South Africa,Ivory Coast,2,1,1644,1590,54,2.0
+2003-06-22,France,New Zealand,5,0,2049,1519,530,2.0
+2003-06-23,Brazil,Turkey,2,2,1990,1841,149,1.0
+2003-06-26,France,Turkey,3,2,2049,1841,208,2.0
+2003-06-28,Turkey,Colombia,2,1,1841,1705,136,2.0
+2003-07-06,United States,Paraguay,2,0,1832,1792,40,2.0
+2003-07-13,Mexico,Brazil,1,0,1850,1990,-140,2.0
+2003-07-16,Argentina,Uruguay,2,2,2018,1860,158,1.0
+2003-07-19,Brazil,Colombia,2,0,1990,1705,285,2.0
+2003-07-23,United States,Brazil,1,2,1832,1990,-158,0.0
+2003-07-27,Mexico,Brazil,1,0,1850,1990,-140,2.0
+2003-08-13,Iran,Iraq,0,1,1716,1616,100,0.0
+2003-08-15,Uruguay,Iraq,5,2,1860,1616,244,2.0
+2003-08-20,Panama,Paraguay,1,2,1396,1792,-396,0.0
+2003-08-20,Argentina,Uruguay,3,2,2018,1860,158,2.0
+2003-08-20,Norway,Scotland,0,0,1711,1678,33,1.0
+2003-08-20,England,Croatia,3,1,1954,1828,126,2.0
+2003-08-20,Belgium,Netherlands,1,1,1802,1990,-188,1.0
+2003-08-20,Switzerland,France,0,2,1728,2049,-321,0.0
+2003-08-26,Jordan,Iraq,2,1,1592,1616,-24,2.0
+2003-09-04,Algeria,Qatar,1,0,1518,1521,-3,2.0
+2003-09-05,Iran,Jordan,4,1,1716,1592,124,2.0
+2003-09-06,Netherlands,Austria,3,1,1990,1676,314,2.0
+2003-09-06,Bosnia and Herzegovina,Norway,1,0,1598,1711,-113,2.0
+2003-09-06,Portugal,Spain,0,3,1919,2005,-86,0.0
+2003-09-07,Colombia,Brazil,1,2,1705,1990,-285,0.0
+2003-09-10,Japan,Senegal,0,1,1776,1749,27,0.0
+2003-09-10,Tunisia,Ivory Coast,3,2,1643,1590,53,2.0
+2003-09-10,Paraguay,Uruguay,4,1,1792,1860,-68,2.0
+2003-09-10,Brazil,Ecuador,1,0,1990,1717,273,2.0
+2003-09-10,Germany,Scotland,2,1,1879,1678,201,2.0
+2003-09-10,Belgium,Croatia,2,1,1802,1828,-26,2.0
+2003-09-10,Czechia,Netherlands,3,1,1978,1990,-12,2.0
+2003-09-10,Norway,Portugal,0,1,1711,1919,-208,0.0
+2003-09-26,Jordan,Iran,3,2,1592,1716,-124,2.0
+2003-10-08,Tunisia,Japan,0,1,1643,1776,-133,0.0
+2003-10-10,Egypt,Senegal,1,0,1699,1749,-50,2.0
+2003-10-11,Tunisia,Morocco,0,0,1643,1569,74,1.0
+2003-10-11,Turkey,England,0,0,1841,1954,-113,1.0
+2003-10-11,Austria,Czechia,2,3,1676,1978,-302,0.0
+2003-10-12,Iran,New Zealand,3,0,1716,1519,197,2.0
+2003-10-15,Uruguay,Mexico,2,0,1860,1850,10,2.0
+2003-11-15,Egypt,South Africa,2,1,1699,1644,55,2.0
+2003-11-15,Senegal,Ivory Coast,1,0,1749,1590,159,2.0
+2003-11-15,Czechia,Canada,5,1,1978,1594,384,2.0
+2003-11-15,Paraguay,Ecuador,2,1,1792,1717,75,2.0
+2003-11-15,Scotland,Netherlands,1,0,1678,1990,-312,2.0
+2003-11-15,Germany,France,0,3,1879,2049,-170,0.0
+2003-11-15,Spain,Norway,2,1,2005,1711,294,2.0
+2003-11-18,Egypt,Sweden,1,0,1699,1804,-105,2.0
+2003-11-19,Tunisia,South Africa,2,0,1643,1644,-1,2.0
+2003-11-19,Brazil,Uruguay,3,3,1990,1860,130,1.0
+2003-11-19,Colombia,Argentina,1,1,1705,2018,-313,1.0
+2003-11-19,Netherlands,Scotland,6,0,1990,1678,312,2.0
+2003-11-19,Norway,Spain,0,3,1711,2005,-294,0.0
+2003-12-10,Japan,South Korea,0,0,1776,1694,82,1.0
+2003-12-18,Egypt,Iraq,2,0,1699,1616,83,2.0
+2003-12-21,Qatar,Iraq,0,0,1521,1616,-95,1.0
+2003-12-29,Qatar,Saudi Arabia,0,0,1521,1662,-141,1.0
+2004-01-14,Egypt,DR Congo,2,2,1645,1442,203,1.0
+2004-01-18,Senegal,South Africa,2,1,1689,1583,106,2.0
+2004-01-22,Norway,Sweden,3,0,1798,1872,-74,2.0
+2004-01-28,Tunisia,DR Congo,3,0,1618,1442,176,2.0
+2004-01-29,Algeria,Egypt,2,1,1419,1645,-226,2.0
+2004-02-04,Morocco,South Africa,1,1,1670,1583,87,1.0
+2004-02-07,Tunisia,Senegal,1,0,1618,1689,-71,2.0
+2004-02-08,Morocco,Algeria,3,1,1670,1419,251,2.0
+2004-02-12,Japan,Iraq,2,0,1845,1508,337,2.0
+2004-02-14,Tunisia,Morocco,2,1,1618,1670,-52,2.0
+2004-02-18,Iran,Qatar,3,1,1800,1529,271,2.0
+2004-02-18,Uzbekistan,Iraq,1,1,1614,1508,106,1.0
+2004-02-18,Morocco,Switzerland,2,1,1670,1692,-22,2.0
+2004-02-18,Netherlands,United States,1,0,1939,1829,110,2.0
+2004-02-18,Portugal,England,1,1,1904,1977,-73,1.0
+2004-02-18,Belgium,France,0,2,1724,1985,-261,0.0
+2004-02-18,Croatia,Germany,1,2,1838,1881,-43,0.0
+2004-03-10,Mexico,Ecuador,2,1,1887,1668,219,2.0
+2004-03-13,United States,Haiti,1,1,1829,1480,349,1.0
+2004-03-30,Australia,South Africa,1,0,1804,1583,221,2.0
+2004-03-30,Argentina,Ecuador,1,0,2029,1668,361,2.0
+2004-03-31,Jordan,Qatar,1,0,1581,1529,52,2.0
+2004-03-31,Tunisia,Ivory Coast,0,2,1618,1670,-52,0.0
+2004-03-31,Paraguay,Brazil,0,0,1774,1972,-198,1.0
+2004-03-31,Sweden,England,1,0,1872,1977,-105,2.0
+2004-03-31,Germany,Belgium,3,0,1881,1724,157,2.0
+2004-03-31,Netherlands,France,0,0,1939,1985,-46,1.0
+2004-03-31,Croatia,Turkey,2,2,1838,1793,45,1.0
+2004-04-28,Czechia,Japan,0,1,1983,1845,138,0.0
+2004-04-28,South Korea,Paraguay,0,0,1714,1774,-60,1.0
+2004-04-28,Morocco,Argentina,0,1,1670,2029,-359,0.0
+2004-04-28,United States,Mexico,1,0,1829,1887,-58,2.0
+2004-04-28,Belgium,Turkey,2,3,1724,1793,-69,0.0
+2004-04-28,Portugal,Sweden,2,2,1904,1872,32,1.0
+2004-05-20,France,Brazil,0,0,1985,1972,13,1.0
+2004-05-21,Australia,Turkey,1,3,1804,1793,11,0.0
+2004-05-24,Australia,Turkey,0,1,1804,1793,11,0.0
+2004-05-29,Australia,New Zealand,1,0,1804,1517,287,2.0
+2004-05-29,Netherlands,Belgium,0,1,1939,1724,215,0.0
+2004-05-30,Algeria,Jordan,1,1,1419,1581,-162,1.0
+2004-06-01,England,Japan,1,1,1977,1845,132,1.0
+2004-06-02,South Korea,Turkey,0,1,1714,1793,-79,0.0
+2004-06-02,Brazil,Argentina,3,1,1972,2029,-57,2.0
+2004-06-02,Ecuador,Colombia,2,1,1668,1801,-133,2.0
+2004-06-02,Switzerland,Germany,0,2,1692,1881,-189,0.0
+2004-06-05,South Korea,Turkey,2,1,1714,1793,-79,2.0
+2004-06-05,South Africa,Cape Verde,2,1,1583,1365,218,2.0
+2004-06-06,Colombia,Uruguay,5,0,1801,1818,-17,2.0
+2004-06-06,Argentina,Paraguay,0,0,2029,1774,255,1.0
+2004-06-09,Iran,Jordan,0,1,1800,1581,219,0.0
+2004-06-13,Cape Verde,Senegal,1,3,1365,1689,-324,0.0
+2004-06-13,France,England,2,1,1985,1977,8,2.0
+2004-06-13,Croatia,Switzerland,0,0,1838,1692,146,1.0
+2004-06-15,Germany,Netherlands,1,1,1881,1939,-58,1.0
+2004-06-17,England,Switzerland,3,0,1977,1692,285,2.0
+2004-06-17,Croatia,France,2,2,1838,1985,-147,1.0
+2004-06-19,Czechia,Netherlands,3,2,1983,1939,44,2.0
+2004-06-20,Egypt,Ivory Coast,1,2,1645,1670,-25,0.0
+2004-06-20,Ghana,South Africa,3,0,1482,1583,-101,2.0
+2004-06-20,Portugal,Spain,1,0,1904,1965,-61,2.0
+2004-06-21,Jordan,Iraq,2,0,1581,1508,73,2.0
+2004-06-21,England,Croatia,4,2,1977,1838,139,2.0
+2004-06-21,France,Switzerland,3,1,1985,1692,293,2.0
+2004-06-23,Iran,Iraq,2,1,1800,1508,292,2.0
+2004-06-23,Czechia,Germany,2,1,1983,1881,102,2.0
+2004-06-24,Portugal,England,2,2,1904,1977,-73,1.0
+2004-06-25,Jordan,Iraq,3,1,1581,1508,73,2.0
+2004-06-26,Netherlands,Sweden,0,0,1939,1872,67,1.0
+2004-06-27,Colombia,Argentina,2,0,1801,2029,-228,2.0
+2004-06-30,Portugal,Netherlands,2,1,1904,1939,-35,2.0
+2004-07-03,Cape Verde,DR Congo,1,1,1365,1442,-77,1.0
+2004-07-07,Mexico,Uruguay,2,2,1887,1818,69,1.0
+2004-07-07,Argentina,Ecuador,6,1,2029,1668,361,2.0
+2004-07-10,Mexico,Argentina,1,0,1887,2029,-142,2.0
+2004-07-10,Uruguay,Ecuador,2,1,1818,1668,150,2.0
+2004-07-13,Mexico,Ecuador,2,1,1887,1668,219,2.0
+2004-07-13,Argentina,Uruguay,4,2,2029,1818,211,2.0
+2004-07-14,Paraguay,Brazil,2,1,1774,1972,-198,2.0
+2004-07-18,Uzbekistan,Iraq,1,0,1614,1508,106,2.0
+2004-07-18,Brazil,Mexico,4,0,1972,1887,85,2.0
+2004-07-18,Uruguay,Paraguay,3,1,1818,1774,44,2.0
+2004-07-19,Jordan,South Korea,0,0,1581,1714,-133,1.0
+2004-07-20,Argentina,Colombia,3,0,2029,1801,228,2.0
+2004-07-21,Brazil,Uruguay,1,1,1972,1818,154,1.0
+2004-07-22,Uzbekistan,Saudi Arabia,1,0,1614,1573,41,2.0
+2004-07-24,Uruguay,Colombia,2,1,1818,1801,17,2.0
+2004-07-25,Argentina,Brazil,2,2,2029,1972,57,1.0
+2004-07-26,Iraq,Saudi Arabia,2,1,1508,1573,-65,2.0
+2004-07-28,Iran,Japan,0,0,1800,1845,-45,1.0
+2004-07-31,Japan,Jordan,1,1,1845,1581,264,1.0
+2004-07-31,Iran,South Korea,4,3,1800,1714,86,2.0
+2004-08-18,Japan,Argentina,1,2,1845,2029,-184,0.0
+2004-08-18,Tunisia,South Africa,0,2,1618,1583,35,0.0
+2004-08-18,Ivory Coast,Senegal,2,1,1670,1689,-19,2.0
+2004-08-18,Haiti,Brazil,0,6,1480,1972,-492,0.0
+2004-08-18,Austria,Germany,1,3,1648,1881,-233,0.0
+2004-08-18,Norway,Belgium,2,2,1798,1724,74,1.0
+2004-08-18,France,Bosnia and Herzegovina,1,1,1985,1622,363,1.0
+2004-08-18,Sweden,Netherlands,2,2,1872,1939,-67,1.0
+2004-09-03,Spain,Scotland,1,1,1965,1603,362,1.0
+2004-09-04,Morocco,Tunisia,1,1,1670,1618,52,1.0
+2004-09-04,Austria,England,2,2,1648,1977,-329,1.0
+2004-09-05,DR Congo,South Africa,1,0,1442,1583,-141,2.0
+2004-09-05,Ghana,Cape Verde,2,0,1482,1365,117,2.0
+2004-09-05,Uruguay,Ecuador,1,0,1818,1668,150,2.0
+2004-09-08,Jordan,Iran,0,2,1581,1800,-219,0.0
+2004-09-08,Panama,United States,1,1,1516,1829,-313,1.0
+2004-09-08,Germany,Brazil,1,1,1881,1972,-91,1.0
+2004-09-08,Netherlands,Czechia,2,0,1939,1983,-44,2.0
+2004-09-08,Sweden,Croatia,0,1,1872,1838,34,0.0
+2004-09-08,Bosnia and Herzegovina,Spain,1,1,1622,1965,-343,1.0
+2004-10-09,Iran,Germany,0,2,1800,1881,-81,0.0
+2004-10-09,Argentina,Uruguay,4,2,2029,1818,211,2.0
+2004-10-09,Colombia,Paraguay,1,1,1801,1774,27,1.0
+2004-10-09,Scotland,Norway,0,1,1603,1798,-195,0.0
+2004-10-09,Spain,Belgium,2,0,1965,1724,241,2.0
+2004-10-10,Ghana,DR Congo,0,0,1482,1442,40,1.0
+2004-10-13,Qatar,Iran,2,3,1529,1800,-271,0.0
+2004-10-13,Uzbekistan,Iraq,2,1,1614,1508,106,2.0
+2004-10-13,United States,Panama,6,0,1829,1516,313,2.0
+2004-10-13,Brazil,Colombia,0,0,1972,1801,171,1.0
+2004-10-20,Jordan,Ecuador,3,0,1581,1668,-87,2.0
+2004-10-27,Mexico,Ecuador,2,1,1887,1668,219,2.0
+2004-11-16,Australia,Norway,2,2,1804,1798,6,1.0
+2004-11-17,Qatar,Jordan,2,0,1529,1581,-52,2.0
+2004-11-17,Senegal,Algeria,2,1,1689,1419,270,2.0
+2004-11-17,Uruguay,Paraguay,1,0,1818,1774,44,2.0
+2004-11-17,Ecuador,Brazil,1,0,1668,1972,-304,2.0
+2004-11-17,Scotland,Sweden,1,4,1603,1872,-269,0.0
+2004-11-17,Spain,England,1,0,1965,1977,-12,2.0
+2004-12-13,Qatar,Iraq,3,3,1529,1508,21,1.0
+2004-12-16,Japan,Germany,0,3,1845,1881,-36,0.0
+2004-12-18,Iran,Panama,1,0,1800,1516,284,2.0
+2004-12-19,South Korea,Germany,3,1,1714,1881,-167,2.0
+2005-01-15,Colombia,South Korea,2,1,1764,1687,77,2.0
+2005-01-19,Paraguay,South Korea,1,1,1778,1687,91,1.0
+2005-01-22,South Korea,Sweden,1,1,1687,1903,-216,1.0
+2005-01-26,Mexico,Sweden,0,0,1835,1903,-68,1.0
+2005-01-26,Ecuador,Panama,2,0,1715,1475,240,2.0
+2005-01-28,Jordan,Norway,0,0,1544,1767,-223,1.0
+2005-01-29,Ecuador,Panama,2,0,1715,1475,240,2.0
+2005-02-02,Iran,Bosnia and Herzegovina,2,1,1828,1630,198,2.0
+2005-02-04,South Korea,Egypt,0,1,1687,1713,-26,0.0
+2005-02-08,DR Congo,Ivory Coast,2,2,1453,1701,-248,1.0
+2005-02-09,South Africa,Australia,1,1,1517,1765,-248,1.0
+2005-02-09,Uzbekistan,Saudi Arabia,1,1,1578,1568,10,1.0
+2005-02-09,Egypt,Belgium,4,0,1713,1698,15,2.0
+2005-02-09,Germany,Argentina,2,2,1891,1930,-39,1.0
+2005-02-09,England,Netherlands,0,0,1963,1992,-29,1.0
+2005-02-09,France,Sweden,1,1,1973,1903,70,1.0
+2005-02-23,Mexico,Colombia,1,1,1835,1764,71,1.0
+2005-03-09,United States,Colombia,3,0,1841,1764,77,2.0
+2005-03-09,Argentina,Mexico,1,1,1930,1835,95,1.0
+2005-03-14,Saudi Arabia,Egypt,0,1,1568,1713,-145,0.0
+2005-03-25,Iran,Japan,2,1,1828,1812,16,2.0
+2005-03-25,Saudi Arabia,South Korea,2,0,1568,1687,-119,2.0
+2005-03-26,Australia,Iraq,2,1,1765,1608,157,2.0
+2005-03-26,Portugal,Canada,4,1,1910,1565,345,2.0
+2005-03-26,Belgium,Bosnia and Herzegovina,4,1,1698,1630,68,2.0
+2005-03-26,France,Switzerland,0,0,1973,1780,193,1.0
+2005-03-27,DR Congo,Ghana,1,1,1453,1602,-149,1.0
+2005-03-27,Mexico,United States,2,1,1835,1841,-6,2.0
+2005-03-27,Ecuador,Paraguay,5,2,1715,1778,-63,2.0
+2005-03-30,South Korea,Uzbekistan,2,1,1687,1578,109,2.0
+2005-03-30,Panama,Mexico,1,1,1475,1835,-360,1.0
+2005-03-30,Uruguay,Brazil,1,1,1821,2027,-206,1.0
+2005-03-30,Argentina,Colombia,1,0,1930,1764,166,2.0
+2005-04-13,Saudi Arabia,Algeria,5,0,1568,1407,161,2.0
+2005-04-16,Iran,Algeria,2,0,1828,1407,421,2.0
+2005-04-18,Iran,Morocco,1,1,1828,1681,147,1.0
+2005-04-20,Saudi Arabia,Morocco,1,0,1568,1681,-113,2.0
+2005-05-04,Ecuador,Paraguay,1,0,1715,1778,-63,2.0
+2005-05-28,United States,England,1,2,1841,1963,-122,0.0
+2005-05-31,England,Colombia,3,2,1963,1764,199,2.0
+2005-06-03,Uzbekistan,South Korea,1,1,1578,1687,-109,1.0
+2005-06-04,Cape Verde,South Africa,1,2,1314,1517,-203,0.0
+2005-06-04,Ecuador,Argentina,2,0,1715,1930,-215,2.0
+2005-06-05,Brazil,Paraguay,4,1,2027,1778,249,2.0
+2005-06-08,Jordan,Iraq,0,1,1544,1608,-64,0.0
+2005-06-08,Saudi Arabia,Uzbekistan,3,0,1568,1578,-10,2.0
+2005-06-08,Panama,United States,0,3,1475,1841,-366,0.0
+2005-06-08,Argentina,Brazil,3,1,1930,2027,-97,2.0
+2005-06-08,Colombia,Ecuador,3,0,1764,1715,49,2.0
+2005-06-08,Sweden,Norway,2,3,1903,1767,136,0.0
+2005-06-08,Spain,Bosnia and Herzegovina,1,1,1957,1630,327,1.0
+2005-06-09,Australia,New Zealand,1,0,1765,1514,251,2.0
+2005-06-15,Germany,Australia,4,3,1891,1765,126,2.0
+2005-06-15,Argentina,Tunisia,2,1,1930,1712,218,2.0
+2005-06-16,Mexico,Japan,2,1,1835,1812,23,2.0
+2005-06-18,Argentina,Australia,4,2,1930,1765,165,2.0
+2005-06-18,South Africa,Ghana,0,2,1517,1602,-85,0.0
+2005-06-18,Germany,Tunisia,3,0,1891,1712,179,2.0
+2005-06-19,Ivory Coast,Egypt,2,0,1701,1713,-12,2.0
+2005-06-19,Mexico,Brazil,1,0,1835,2027,-192,2.0
+2005-06-21,Tunisia,Australia,2,0,1712,1765,-53,2.0
+2005-06-21,Germany,Argentina,2,2,1891,1930,-39,1.0
+2005-06-22,Brazil,Japan,2,2,2027,1812,215,1.0
+2005-06-25,Germany,Brazil,2,3,1891,2027,-136,0.0
+2005-06-26,Argentina,Mexico,1,1,1930,1835,95,1.0
+2005-06-29,Germany,Mexico,4,3,1891,1835,56,2.0
+2005-06-29,Brazil,Argentina,4,1,2027,1930,97,2.0
+2005-07-06,Panama,Colombia,1,0,1475,1764,-289,2.0
+2005-07-08,South Africa,Mexico,2,1,1517,1835,-318,2.0
+2005-07-09,United States,Canada,2,0,1841,1565,276,2.0
+2005-07-17,Panama,South Africa,1,1,1475,1517,-42,1.0
+2005-07-17,Colombia,Mexico,2,1,1764,1835,-71,2.0
+2005-07-21,Panama,Colombia,3,2,1475,1764,-289,2.0
+2005-07-24,United States,Panama,0,0,1841,1475,366,1.0
+2005-07-29,Egypt,Qatar,5,0,1713,1510,203,2.0
+2005-08-07,South Korea,Japan,0,1,1687,1812,-125,0.0
+2005-08-17,Japan,Iran,2,1,1812,1828,-16,2.0
+2005-08-17,South Korea,Saudi Arabia,0,1,1687,1568,119,0.0
+2005-08-17,Portugal,Egypt,2,0,1910,1713,197,2.0
+2005-08-17,Ghana,Senegal,0,0,1602,1701,-99,1.0
+2005-08-17,France,Ivory Coast,3,0,1973,1701,272,2.0
+2005-08-17,Spain,Uruguay,2,0,1957,1821,136,2.0
+2005-08-17,Croatia,Brazil,1,1,1864,2027,-163,1.0
+2005-08-17,Austria,Scotland,2,2,1668,1681,-13,1.0
+2005-08-17,Norway,Switzerland,0,2,1767,1780,-13,0.0
+2005-08-17,Netherlands,Germany,2,2,1992,1891,101,1.0
+2005-08-17,Sweden,Czechia,2,1,1903,1965,-62,2.0
+2005-09-03,United States,Mexico,2,0,1841,1835,6,2.0
+2005-09-03,Spain,Canada,2,1,1957,1565,392,2.0
+2005-09-03,Paraguay,Argentina,1,0,1778,1930,-152,2.0
+2005-09-03,Bosnia and Herzegovina,Belgium,1,0,1630,1698,-68,2.0
+2005-09-04,DR Congo,Cape Verde,2,1,1453,1314,139,2.0
+2005-09-04,Uruguay,Colombia,3,2,1821,1764,57,2.0
+2005-09-07,Germany,South Africa,4,2,1891,1517,374,2.0
+2005-09-07,Mexico,Panama,5,0,1835,1475,360,2.0
+2005-09-07,Norway,Scotland,1,2,1767,1681,86,0.0
+2005-10-08,South Africa,DR Congo,2,2,1517,1453,64,1.0
+2005-10-08,Cape Verde,Ghana,0,4,1314,1602,-288,0.0
+2005-10-08,Tunisia,Morocco,2,2,1712,1681,31,1.0
+2005-10-08,Ecuador,Uruguay,0,0,1715,1821,-106,1.0
+2005-10-08,England,Austria,1,0,1963,1668,295,2.0
+2005-10-08,Belgium,Spain,0,2,1698,1957,-259,0.0
+2005-10-08,Switzerland,France,1,1,1780,1973,-193,1.0
+2005-10-08,Czechia,Netherlands,0,2,1965,1992,-27,0.0
+2005-10-08,Turkey,Germany,2,1,1844,1891,-47,2.0
+2005-10-08,Croatia,Sweden,1,0,1864,1903,-39,2.0
+2005-10-11,Qatar,Iraq,0,0,1510,1608,-98,1.0
+2005-10-12,South Korea,Iran,2,0,1687,1828,-141,2.0
+2005-10-12,United States,Panama,2,0,1841,1475,366,2.0
+2005-10-12,Uruguay,Argentina,1,0,1821,1930,-109,2.0
+2005-10-12,Paraguay,Colombia,0,1,1778,1764,14,0.0
+2005-10-26,Mexico,Uruguay,3,1,1835,1821,14,2.0
+2005-11-11,DR Congo,Tunisia,2,2,1453,1712,-259,1.0
+2005-11-12,Uruguay,Australia,1,0,1821,1765,56,2.0
+2005-11-12,South Korea,Sweden,2,2,1687,1903,-216,1.0
+2005-11-12,South Africa,Senegal,2,3,1517,1701,-184,0.0
+2005-11-12,Scotland,United States,1,1,1681,1841,-160,1.0
+2005-11-12,England,Argentina,3,2,1963,1930,33,2.0
+2005-11-12,France,Germany,0,0,1973,1891,82,1.0
+2005-11-12,Switzerland,Turkey,2,0,1780,1844,-64,2.0
+2005-11-12,Norway,Czechia,0,1,1767,1965,-198,0.0
+2005-11-12,Portugal,Croatia,2,0,1910,1864,46,2.0
+2005-11-14,Saudi Arabia,Ghana,1,3,1568,1602,-34,0.0
+2005-11-16,Australia,Uruguay,1,0,1765,1821,-56,2.0
+2005-11-16,Qatar,Argentina,0,3,1510,1930,-420,0.0
+2005-11-16,Egypt,Tunisia,1,2,1713,1712,1,0.0
+2005-11-16,Turkey,Switzerland,4,2,1844,1780,64,2.0
+2005-11-16,Czechia,Norway,1,0,1965,1767,198,2.0
+2005-12-05,Iraq,Saudi Arabia,5,1,1608,1568,40,2.0
+2005-12-08,Iraq,Saudi Arabia,2,0,1608,1568,40,2.0
+2005-12-27,Senegal,Ecuador,2,1,1701,1715,-14,2.0
+2005-12-29,Egypt,Senegal,4,2,1713,1701,12,2.0
+2006-01-09,Morocco,DR Congo,3,0,1660,1462,198,2.0
+2006-01-14,Egypt,South Africa,1,2,1723,1473,250,0.0
+2006-01-14,Senegal,DR Congo,0,0,1650,1462,188,1.0
+2006-01-15,Tunisia,Ghana,2,0,1639,1752,-113,2.0
+2006-01-17,Ivory Coast,Jordan,2,0,1774,1554,220,2.0
+2006-01-18,Saudi Arabia,Sweden,1,1,1579,1870,-291,1.0
+2006-01-21,Ivory Coast,Morocco,1,0,1774,1660,114,2.0
+2006-01-22,United States,Canada,0,0,1765,1589,176,1.0
+2006-01-23,Jordan,Sweden,0,0,1554,1870,-316,1.0
+2006-01-24,Egypt,Morocco,0,0,1723,1660,63,1.0
+2006-01-25,Mexico,Norway,2,1,1821,1767,54,2.0
+2006-01-26,Tunisia,South Africa,2,0,1639,1473,166,2.0
+2006-01-27,Ghana,Senegal,1,0,1752,1650,102,2.0
+2006-01-28,Egypt,Ivory Coast,3,1,1723,1774,-51,2.0
+2006-01-29,South Korea,Croatia,2,0,1680,1896,-216,2.0
+2006-01-29,United States,Norway,5,0,1765,1767,-2,2.0
+2006-02-03,Egypt,DR Congo,4,1,1723,1462,261,2.0
+2006-02-07,Egypt,Senegal,2,1,1723,1650,73,2.0
+2006-02-10,United States,Japan,3,2,1765,1726,39,2.0
+2006-02-10,Egypt,Ivory Coast,0,0,1723,1774,-51,1.0
+2006-02-15,South Korea,Mexico,1,0,1680,1821,-141,2.0
+2006-02-28,Bosnia and Herzegovina,Japan,2,2,1563,1726,-163,1.0
+2006-03-01,Portugal,Saudi Arabia,3,0,1896,1579,317,2.0
+2006-03-01,Qatar,Uzbekistan,2,1,1547,1572,-25,2.0
+2006-03-01,Mexico,Ghana,1,0,1821,1752,69,2.0
+2006-03-01,Spain,Ivory Coast,3,2,1883,1774,109,2.0
+2006-03-01,Senegal,Norway,2,1,1650,1767,-117,2.0
+2006-03-01,Austria,Canada,0,2,1629,1589,40,0.0
+2006-03-01,England,Uruguay,2,1,1960,1822,138,2.0
+2006-03-01,Croatia,Argentina,3,2,1896,1979,-83,2.0
+2006-03-01,Netherlands,Ecuador,1,0,1989,1761,228,2.0
+2006-03-01,Scotland,Switzerland,1,3,1737,1846,-109,0.0
+2006-03-01,Turkey,Czechia,2,2,1843,1884,-41,1.0
+2006-03-15,Saudi Arabia,Iraq,2,2,1579,1599,-20,1.0
+2006-03-22,Germany,United States,4,1,1976,1765,211,2.0
+2006-03-29,Mexico,Paraguay,2,1,1821,1761,60,2.0
+2006-03-30,Japan,Ecuador,1,0,1726,1761,-35,2.0
+2006-05-11,Belgium,Saudi Arabia,2,1,1672,1579,93,2.0
+2006-05-12,Mexico,DR Congo,2,1,1821,1462,359,2.0
+2006-05-13,Japan,Scotland,0,0,1726,1737,-11,1.0
+2006-05-23,South Korea,Senegal,1,1,1680,1650,30,1.0
+2006-05-23,United States,Morocco,0,1,1765,1660,105,0.0
+2006-05-23,Austria,Croatia,1,4,1629,1896,-267,0.0
+2006-05-24,Norway,Paraguay,2,2,1767,1761,6,1.0
+2006-05-24,Colombia,Ecuador,1,1,1790,1761,29,1.0
+2006-05-24,Belgium,Turkey,3,3,1672,1843,-171,1.0
+2006-05-26,South Korea,Bosnia and Herzegovina,2,0,1680,1563,117,2.0
+2006-05-26,Czechia,Saudi Arabia,2,0,1884,1579,305,2.0
+2006-05-26,Ghana,Turkey,1,1,1752,1843,-91,1.0
+2006-05-27,Portugal,Cape Verde,4,1,1896,1324,572,2.0
+2006-05-27,Switzerland,Ivory Coast,1,1,1846,1774,72,1.0
+2006-05-27,France,Mexico,1,0,2060,1821,239,2.0
+2006-05-28,Croatia,Iran,2,2,1896,1783,113,1.0
+2006-05-30,Germany,Japan,2,2,1976,1726,250,1.0
+2006-05-31,Iran,Bosnia and Herzegovina,5,2,1783,1563,220,2.0
+2006-05-31,Turkey,Saudi Arabia,1,0,1843,1579,264,2.0
+2006-06-01,Norway,South Korea,0,0,1767,1680,87,1.0
+2006-06-01,Netherlands,Mexico,2,1,1989,1821,168,2.0
+2006-06-02,Tunisia,Uruguay,0,0,1639,1822,-183,1.0
+2006-06-02,Germany,Colombia,3,0,1976,1790,186,2.0
+2006-06-03,Spain,Egypt,2,0,1883,1723,160,2.0
+2006-06-04,Netherlands,Australia,1,1,1989,1761,228,1.0
+2006-06-04,Ghana,South Korea,3,1,1752,1680,72,2.0
+2006-06-04,Colombia,Morocco,2,0,1790,1660,130,2.0
+2006-06-04,Brazil,New Zealand,4,0,2080,1515,565,2.0
+2006-06-07,Spain,Croatia,2,1,1883,1896,-13,2.0
+2006-06-10,Argentina,Ivory Coast,2,1,1979,1774,205,2.0
+2006-06-10,England,Paraguay,1,0,1960,1761,199,2.0
+2006-06-11,Mexico,Iran,3,1,1821,1783,38,2.0
+2006-06-12,Australia,Japan,3,1,1761,1726,35,2.0
+2006-06-12,Czechia,United States,3,0,1884,1765,119,2.0
+2006-06-13,Brazil,Croatia,1,0,2080,1896,184,2.0
+2006-06-13,France,Switzerland,0,0,2060,1846,214,1.0
+2006-06-14,Saudi Arabia,Tunisia,2,2,1579,1639,-60,1.0
+2006-06-15,Sweden,Paraguay,1,0,1870,1761,109,2.0
+2006-06-16,Netherlands,Ivory Coast,2,1,1989,1774,215,2.0
+2006-06-17,Portugal,Iran,2,0,1896,1783,113,2.0
+2006-06-17,Ghana,Czechia,2,0,1752,1884,-132,2.0
+2006-06-18,Croatia,Japan,0,0,1896,1726,170,1.0
+2006-06-18,Brazil,Australia,2,0,2080,1761,319,2.0
+2006-06-18,France,South Korea,1,1,2060,1680,380,1.0
+2006-06-19,Spain,Tunisia,3,1,1883,1639,244,2.0
+2006-06-20,Germany,Ecuador,3,0,1976,1761,215,2.0
+2006-06-20,England,Sweden,2,2,1960,1870,90,1.0
+2006-06-21,Portugal,Mexico,2,1,1896,1821,75,2.0
+2006-06-21,Argentina,Netherlands,0,0,1979,1989,-10,1.0
+2006-06-22,Brazil,Japan,4,1,2080,1726,354,2.0
+2006-06-22,Australia,Croatia,2,2,1761,1896,-135,1.0
+2006-06-22,Ghana,United States,2,1,1752,1765,-13,2.0
+2006-06-23,Switzerland,South Korea,2,0,1846,1680,166,2.0
+2006-06-23,Spain,Saudi Arabia,1,0,1883,1579,304,2.0
+2006-06-24,Argentina,Mexico,2,1,1979,1821,158,2.0
+2006-06-24,Germany,Sweden,2,0,1976,1870,106,2.0
+2006-06-25,England,Ecuador,1,0,1960,1761,199,2.0
+2006-06-25,Portugal,Netherlands,1,0,1896,1989,-93,2.0
+2006-06-27,Brazil,Ghana,3,0,2080,1752,328,2.0
+2006-06-27,France,Spain,3,1,2060,1883,177,2.0
+2006-06-30,Germany,Argentina,1,1,1976,1979,-3,1.0
+2006-07-01,France,Brazil,1,0,2060,2080,-20,2.0
+2006-07-01,England,Portugal,0,0,1960,1896,64,1.0
+2006-07-05,France,Portugal,1,0,2060,1896,164,2.0
+2006-07-08,Germany,Portugal,3,1,1976,1896,80,2.0
+2006-07-21,Jordan,Iraq,2,1,1554,1599,-45,2.0
+2006-08-09,Jordan,Iraq,0,1,1554,1599,-45,0.0
+2006-08-16,Egypt,Uruguay,0,2,1723,1822,-99,0.0
+2006-08-16,Senegal,Ivory Coast,1,0,1650,1774,-124,2.0
+2006-08-16,Norway,Brazil,1,1,1767,2080,-313,1.0
+2006-08-16,Bosnia and Herzegovina,France,1,2,1563,2060,-497,0.0
+2006-08-16,Germany,Sweden,3,0,1976,1870,106,2.0
+2006-09-02,South Korea,Iran,1,1,1680,1783,-103,1.0
+2006-09-03,Saudi Arabia,Japan,1,0,1579,1726,-147,2.0
+2006-09-03,Brazil,Argentina,3,0,2080,1979,101,2.0
+2006-10-04,Japan,Ghana,0,1,1726,1752,-26,0.0
+2006-10-04,Iran,Iraq,2,0,1783,1599,184,2.0
+2006-10-06,Jordan,Iran,0,0,1554,1783,-229,1.0
+2006-10-07,Australia,Paraguay,1,1,1761,1761,0,1.0
+2006-10-07,Scotland,France,1,0,1737,2060,-323,2.0
+2006-10-07,Sweden,Spain,2,0,1870,1883,-13,2.0
+2006-10-08,South Korea,Ghana,1,3,1680,1752,-72,0.0
+2006-10-10,Brazil,Ecuador,2,1,2080,1761,319,2.0
+2006-10-11,Spain,Argentina,2,1,1883,1979,-96,2.0
+2006-10-11,Croatia,England,2,0,1896,1960,-64,2.0
+2006-10-11,Austria,Switzerland,2,1,1629,1846,-217,2.0
+2006-11-08,Saudi Arabia,Jordan,2,1,1579,1554,25,2.0
+2006-11-14,Australia,Ghana,1,1,1761,1752,9,1.0
+2006-11-15,Japan,Saudi Arabia,3,1,1726,1579,147,2.0
+2006-11-15,Iran,South Korea,2,0,1783,1680,103,2.0
+2006-11-15,Uzbekistan,Qatar,2,0,1572,1547,25,2.0
+2006-11-15,Egypt,South Africa,1,0,1723,1473,250,2.0
+2006-11-15,Ivory Coast,Sweden,1,0,1774,1870,-96,2.0
+2006-11-15,Switzerland,Brazil,1,2,1846,2080,-234,0.0
+2006-11-15,Netherlands,England,1,1,1989,1960,29,1.0
+2007-01-18,Iraq,Qatar,1,0,1642,1468,174,2.0
+2007-01-18,Ecuador,Sweden,2,1,1673,1798,-125,2.0
+2007-01-21,Qatar,Saudi Arabia,1,1,1468,1650,-182,1.0
+2007-01-21,Ecuador,Sweden,1,1,1673,1798,-125,1.0
+2007-01-24,Saudi Arabia,Iraq,1,0,1650,1642,8,2.0
+2007-02-06,Portugal,Brazil,2,0,1879,2077,-198,2.0
+2007-02-07,Egypt,Sweden,2,0,1699,1798,-99,2.0
+2007-02-07,Morocco,Tunisia,1,1,1686,1633,53,1.0
+2007-02-07,United States,Mexico,2,0,1759,1883,-124,2.0
+2007-02-07,Colombia,Uruguay,1,3,1838,1797,41,0.0
+2007-02-07,France,Argentina,0,1,2011,2012,-1,0.0
+2007-02-07,England,Spain,0,1,1909,1964,-55,0.0
+2007-02-07,Belgium,Czechia,0,2,1640,1943,-303,0.0
+2007-02-07,Germany,Switzerland,3,1,1943,1807,136,2.0
+2007-02-07,Croatia,Norway,2,1,1894,1772,122,2.0
+2007-03-24,Qatar,Iran,0,1,1468,1788,-320,0.0
+2007-03-24,South Korea,Uruguay,0,2,1666,1797,-131,0.0
+2007-03-24,Austria,Ghana,1,1,1598,1760,-162,1.0
+2007-03-24,Algeria,Cape Verde,2,0,1401,1303,98,2.0
+2007-03-24,Haiti,Panama,3,0,1545,1569,-24,2.0
+2007-03-24,Portugal,Belgium,4,0,1879,1640,239,2.0
+2007-03-24,Czechia,Germany,1,2,1943,1943,0,0.0
+2007-03-24,Norway,Bosnia and Herzegovina,1,2,1772,1541,231,0.0
+2007-03-25,United States,Ecuador,3,1,1759,1673,86,2.0
+2007-03-25,Mexico,Paraguay,2,1,1883,1844,39,2.0
+2007-03-25,Colombia,Switzerland,3,1,1838,1807,31,2.0
+2007-03-27,Brazil,Ghana,1,0,2077,1760,317,2.0
+2007-03-28,Mexico,Ecuador,4,2,1883,1673,210,2.0
+2007-03-28,Colombia,Paraguay,2,0,1838,1844,-6,2.0
+2007-03-28,France,Austria,1,0,2011,1598,413,2.0
+2007-03-28,Norway,Turkey,2,2,1772,1814,-42,1.0
+2007-05-09,Panama,Colombia,0,4,1569,1838,-269,0.0
+2007-05-30,Austria,Scotland,0,1,1598,1759,-161,0.0
+2007-06-01,England,Brazil,1,1,1909,2077,-168,1.0
+2007-06-02,Australia,Uruguay,1,2,1729,1797,-68,0.0
+2007-06-02,Mexico,Iran,4,0,1883,1788,95,2.0
+2007-06-02,South Korea,Netherlands,0,2,1666,1946,-280,0.0
+2007-06-02,Cape Verde,Algeria,2,2,1303,1401,-98,1.0
+2007-06-02,Switzerland,Argentina,1,1,1807,2012,-205,1.0
+2007-06-02,Austria,Paraguay,0,0,1598,1844,-246,1.0
+2007-06-02,Belgium,Portugal,1,2,1640,1879,-239,0.0
+2007-06-02,Bosnia and Herzegovina,Turkey,3,2,1541,1814,-273,2.0
+2007-06-05,Japan,Colombia,0,0,1778,1838,-60,1.0
+2007-06-05,Argentina,Algeria,4,3,2012,1401,611,2.0
+2007-06-05,Mexico,Paraguay,0,1,1883,1844,39,0.0
+2007-06-05,Brazil,Turkey,0,0,2077,1814,263,1.0
+2007-06-08,Jordan,Iraq,1,1,1517,1642,-125,1.0
+2007-06-11,Canada,Haiti,2,0,1625,1545,80,2.0
+2007-06-12,Jordan,Iraq,0,0,1517,1642,-125,1.0
+2007-06-13,Mexico,Panama,1,0,1883,1569,314,2.0
+2007-06-16,Iran,Iraq,0,0,1788,1642,146,1.0
+2007-06-16,United States,Panama,2,1,1759,1569,190,2.0
+2007-06-21,United States,Canada,2,1,1759,1625,134,2.0
+2007-06-22,Jordan,Iran,0,1,1517,1788,-271,0.0
+2007-06-23,Colombia,Ecuador,3,1,1838,1673,165,2.0
+2007-06-24,Iran,Iraq,2,1,1788,1642,146,2.0
+2007-06-24,United States,Mexico,2,1,1759,1883,-124,2.0
+2007-06-27,Mexico,Brazil,2,0,1883,2077,-194,2.0
+2007-06-28,Argentina,United States,4,1,2012,1759,253,2.0
+2007-06-28,Paraguay,Colombia,5,0,1844,1838,6,2.0
+2007-06-29,South Korea,Iraq,3,0,1666,1642,24,2.0
+2007-07-01,Mexico,Ecuador,2,1,1883,1673,210,2.0
+2007-07-02,Uzbekistan,Iraq,2,0,1557,1642,-85,2.0
+2007-07-02,Paraguay,United States,3,1,1844,1759,85,2.0
+2007-07-02,Argentina,Colombia,4,2,2012,1838,174,2.0
+2007-07-04,Brazil,Ecuador,1,0,2077,1673,404,2.0
+2007-07-05,South Korea,Uzbekistan,2,1,1666,1557,109,2.0
+2007-07-05,Colombia,United States,1,0,1838,1759,79,2.0
+2007-07-05,Argentina,Paraguay,1,0,2012,1844,168,2.0
+2007-07-08,Mexico,Paraguay,6,0,1883,1844,39,2.0
+2007-07-09,Japan,Qatar,1,1,1778,1468,310,1.0
+2007-07-10,Brazil,Uruguay,2,2,2077,1797,280,1.0
+2007-07-11,Iran,Uzbekistan,2,1,1788,1557,231,2.0
+2007-07-11,Saudi Arabia,South Korea,1,1,1650,1666,-16,1.0
+2007-07-11,Argentina,Mexico,3,0,2012,1883,129,2.0
+2007-07-13,Iraq,Australia,3,1,1642,1729,-87,2.0
+2007-07-14,Mexico,Uruguay,3,1,1883,1797,86,2.0
+2007-07-15,Brazil,Argentina,3,0,2077,2012,65,2.0
+2007-07-21,Australia,Japan,1,1,1729,1778,-49,1.0
+2007-07-22,Iran,South Korea,0,0,1788,1666,122,1.0
+2007-07-22,Saudi Arabia,Uzbekistan,2,1,1650,1557,93,2.0
+2007-07-25,Saudi Arabia,Japan,3,2,1650,1778,-128,2.0
+2007-07-25,Iraq,South Korea,0,0,1642,1666,-24,1.0
+2007-07-28,Japan,South Korea,0,0,1778,1666,112,1.0
+2007-07-29,Iraq,Saudi Arabia,1,0,1642,1650,-8,2.0
+2007-08-21,Ghana,Senegal,1,1,1760,1653,107,1.0
+2007-08-22,Egypt,Ivory Coast,0,0,1699,1756,-57,1.0
+2007-08-22,Scotland,South Africa,1,0,1759,1484,275,2.0
+2007-08-22,Brazil,Algeria,2,0,2077,1401,676,2.0
+2007-08-22,Sweden,United States,1,0,1798,1759,39,2.0
+2007-08-22,Colombia,Mexico,1,0,1838,1883,-45,2.0
+2007-08-22,Norway,Argentina,2,1,1772,2012,-240,2.0
+2007-08-22,England,Germany,1,2,1909,1943,-34,0.0
+2007-08-22,Austria,Czechia,1,1,1598,1943,-345,1.0
+2007-08-22,Switzerland,Netherlands,2,1,1807,1946,-139,2.0
+2007-08-22,Bosnia and Herzegovina,Croatia,3,5,1541,1894,-353,0.0
+2007-09-07,Austria,Japan,0,0,1598,1778,-180,1.0
+2007-09-08,Ghana,Morocco,2,0,1760,1686,74,2.0
+2007-09-09,United States,Brazil,2,4,1759,2077,-318,0.0
+2007-09-09,Mexico,Panama,1,0,1883,1569,314,2.0
+2007-09-11,Japan,Switzerland,4,3,1778,1807,-29,2.0
+2007-09-11,Australia,Argentina,0,1,1729,2012,-283,0.0
+2007-09-11,Saudi Arabia,Ghana,5,0,1650,1760,-110,2.0
+2007-09-12,South Africa,Uruguay,0,0,1484,1797,-313,1.0
+2007-09-12,Brazil,Mexico,3,1,2077,1883,194,2.0
+2007-09-12,Colombia,Paraguay,1,0,1838,1844,-6,2.0
+2007-09-12,France,Scotland,0,1,2011,1759,252,0.0
+2007-10-13,Switzerland,Austria,3,1,1807,1598,209,2.0
+2007-10-14,Colombia,Brazil,0,0,1838,2077,-239,1.0
+2007-10-16,Qatar,Iraq,3,2,1468,1642,-174,2.0
+2007-10-17,Japan,Egypt,4,1,1778,1699,79,2.0
+2007-10-17,Austria,Ivory Coast,3,2,1598,1756,-158,2.0
+2007-10-17,Switzerland,United States,0,1,1807,1759,48,0.0
+2007-10-17,Paraguay,Uruguay,1,0,1844,1797,47,2.0
+2007-10-17,Brazil,Ecuador,5,0,2077,1673,404,2.0
+2007-10-17,Germany,Czechia,0,3,1943,1943,0,0.0
+2007-10-17,Bosnia and Herzegovina,Norway,0,2,1541,1772,-231,0.0
+2007-11-16,France,Morocco,2,2,2011,1686,325,1.0
+2007-11-16,Austria,England,0,1,1598,1909,-311,0.0
+2007-11-17,South Africa,United States,0,1,1484,1759,-275,0.0
+2007-11-17,Paraguay,Ecuador,5,1,1844,1673,171,2.0
+2007-11-17,Spain,Sweden,3,0,1964,1798,166,2.0
+2007-11-17,Norway,Turkey,1,2,1772,1814,-42,0.0
+2007-11-20,South Africa,Canada,2,0,1484,1625,-141,2.0
+2007-11-20,Colombia,Argentina,2,1,1838,2012,-174,2.0
+2007-11-21,Qatar,Ivory Coast,1,6,1468,1756,-288,0.0
+2007-11-21,Austria,Tunisia,0,0,1598,1633,-35,1.0
+2007-11-21,Morocco,Senegal,3,0,1686,1653,33,2.0
+2007-11-21,Brazil,Uruguay,2,1,2077,1797,280,2.0
+2007-11-21,England,Croatia,2,3,1909,1894,15,0.0
+2007-11-21,Turkey,Bosnia and Herzegovina,1,0,1814,1541,273,2.0
+2007-11-25,Egypt,Saudi Arabia,2,1,1699,1650,49,2.0
+2008-01-10,Qatar,Iran,0,0,1510,1773,-263,1.0
+2008-01-19,United States,Sweden,2,0,1804,1758,46,2.0
+2008-01-23,Senegal,Tunisia,2,2,1543,1615,-72,1.0
+2008-01-24,Iraq,Jordan,1,1,1595,1519,76,1.0
+2008-01-27,Tunisia,South Africa,3,1,1615,1533,82,2.0
+2008-01-28,Ghana,Morocco,2,0,1695,1661,34,2.0
+2008-01-30,Japan,Bosnia and Herzegovina,3,0,1773,1576,197,2.0
+2008-01-31,Senegal,South Africa,1,1,1543,1533,10,1.0
+2008-02-06,Australia,Qatar,3,0,1756,1510,246,2.0
+2008-02-06,United States,Mexico,2,2,1804,1834,-30,1.0
+2008-02-06,Uruguay,Colombia,2,2,1831,1747,84,1.0
+2008-02-06,England,Switzerland,2,1,1987,1792,195,2.0
+2008-02-06,Austria,Germany,0,3,1565,1966,-401,0.0
+2008-02-06,Spain,France,1,0,2100,1892,208,2.0
+2008-02-06,Croatia,Netherlands,0,3,1882,2027,-145,0.0
+2008-02-06,Turkey,Sweden,0,0,1830,1758,72,1.0
+2008-02-07,Egypt,Ivory Coast,4,1,1767,1709,58,2.0
+2008-02-09,Ghana,Ivory Coast,4,2,1695,1709,-14,2.0
+2008-02-23,Japan,South Korea,1,1,1773,1725,48,1.0
+2008-03-16,Qatar,Jordan,2,1,1510,1519,-9,2.0
+2008-03-22,Uzbekistan,Jordan,4,1,1553,1519,34,2.0
+2008-03-26,Qatar,Iraq,2,0,1510,1595,-85,2.0
+2008-03-26,Uzbekistan,Saudi Arabia,3,0,1553,1648,-95,2.0
+2008-03-26,Egypt,Argentina,0,2,1767,1974,-207,0.0
+2008-03-26,South Africa,Paraguay,3,0,1533,1854,-321,2.0
+2008-03-26,Algeria,DR Congo,1,1,1438,1432,6,1.0
+2008-03-26,Mexico,Ghana,2,1,1834,1695,139,2.0
+2008-03-26,Tunisia,Ivory Coast,2,0,1615,1709,-94,2.0
+2008-03-26,Belgium,Morocco,1,4,1631,1661,-30,0.0
+2008-03-26,Ecuador,Haiti,3,1,1703,1414,289,2.0
+2008-03-26,Brazil,Sweden,1,0,2017,1758,259,2.0
+2008-03-26,Scotland,Croatia,1,1,1720,1882,-162,1.0
+2008-03-26,France,England,1,0,1892,1987,-95,2.0
+2008-03-26,Austria,Netherlands,3,4,1565,2027,-462,0.0
+2008-03-26,Switzerland,Germany,0,4,1792,1966,-174,0.0
+2008-05-22,Ivory Coast,Paraguay,1,1,1709,1854,-145,1.0
+2008-05-23,Australia,Ghana,1,0,1756,1695,61,2.0
+2008-05-24,Japan,Ivory Coast,1,0,1773,1709,64,2.0
+2008-05-25,Uruguay,Turkey,3,2,1831,1830,1,2.0
+2008-05-27,Japan,Paraguay,0,0,1773,1854,-81,1.0
+2008-05-27,France,Ecuador,2,0,1892,1703,189,2.0
+2008-05-28,England,United States,2,0,1987,1804,183,2.0
+2008-05-28,Norway,Uruguay,2,2,1707,1831,-124,1.0
+2008-05-30,Czechia,Scotland,3,1,1846,1720,126,2.0
+2008-05-31,South Korea,Jordan,2,2,1725,1519,206,1.0
+2008-05-31,Senegal,Algeria,1,0,1543,1438,105,2.0
+2008-05-31,Brazil,Canada,3,2,2017,1566,451,2.0
+2008-05-31,France,Paraguay,0,0,1892,1854,38,1.0
+2008-06-01,Australia,Iraq,1,0,1756,1595,161,2.0
+2008-06-01,Egypt,DR Congo,2,1,1767,1432,335,2.0
+2008-06-03,France,Colombia,1,0,1892,1747,145,2.0
+2008-06-04,Spain,United States,1,0,2100,1804,296,2.0
+2008-06-04,Canada,Panama,2,2,1566,1545,21,1.0
+2008-06-04,Argentina,Mexico,4,1,1974,1834,140,2.0
+2008-06-07,Iraq,Australia,1,0,1595,1756,-161,2.0
+2008-06-07,Jordan,South Korea,0,1,1519,1725,-206,0.0
+2008-06-07,Switzerland,Czechia,0,1,1792,1846,-54,0.0
+2008-06-07,Portugal,Turkey,2,0,1822,1830,-8,2.0
+2008-06-08,United States,Argentina,0,0,1804,1974,-170,1.0
+2008-06-08,Austria,Croatia,0,1,1565,1882,-317,0.0
+2008-06-11,Switzerland,Turkey,1,2,1792,1830,-38,0.0
+2008-06-11,Portugal,Czechia,3,1,1822,1846,-24,2.0
+2008-06-12,Croatia,Germany,2,1,1882,1966,-84,2.0
+2008-06-13,Netherlands,France,4,1,2027,1892,135,2.0
+2008-06-14,Qatar,Australia,1,3,1510,1756,-246,0.0
+2008-06-14,Spain,Sweden,2,1,2100,1758,342,2.0
+2008-06-15,Argentina,Ecuador,1,1,1974,1703,271,1.0
+2008-06-15,Paraguay,Brazil,2,0,1854,2017,-163,2.0
+2008-06-15,Switzerland,Portugal,2,0,1792,1822,-30,2.0
+2008-06-15,Turkey,Czechia,3,2,1830,1846,-16,2.0
+2008-06-16,Austria,Germany,0,1,1565,1966,-401,0.0
+2008-06-18,Brazil,Argentina,0,0,2017,1974,43,1.0
+2008-06-18,Ecuador,Colombia,0,0,1703,1747,-44,1.0
+2008-06-19,Germany,Portugal,3,2,1966,1822,144,2.0
+2008-06-20,Croatia,Turkey,1,1,1882,1830,52,1.0
+2008-06-22,Qatar,Iraq,1,0,1510,1595,-85,2.0
+2008-06-22,Saudi Arabia,Uzbekistan,4,0,1648,1553,95,2.0
+2008-06-25,Germany,Turkey,3,2,1966,1830,136,2.0
+2008-06-29,Spain,Germany,1,0,2100,1966,134,2.0
+2008-08-11,Iran,Qatar,6,1,1773,1510,263,2.0
+2008-08-13,Jordan,Qatar,3,0,1519,1510,9,2.0
+2008-08-15,Iran,Jordan,2,1,1773,1519,254,2.0
+2008-08-19,Australia,South Africa,2,2,1756,1533,223,1.0
+2008-08-20,Japan,Uruguay,1,3,1773,1831,-58,0.0
+2008-08-20,Paraguay,Saudi Arabia,1,1,1854,1648,206,1.0
+2008-08-20,Ecuador,Colombia,1,0,1703,1747,-44,2.0
+2008-08-20,England,Czechia,2,2,1987,1846,141,1.0
+2008-08-20,Germany,Belgium,2,0,1966,1631,335,2.0
+2008-08-20,Sweden,France,2,3,1758,1892,-134,0.0
+2008-08-30,Saudi Arabia,Qatar,2,1,1648,1510,138,2.0
+2008-09-05,South Korea,Jordan,1,0,1725,1519,206,2.0
+2008-09-05,Algeria,Senegal,3,2,1438,1543,-105,2.0
+2008-09-06,Netherlands,Australia,1,2,2027,1756,271,0.0
+2008-09-06,Saudi Arabia,Iran,1,1,1648,1773,-125,1.0
+2008-09-06,Qatar,Uzbekistan,3,0,1510,1553,-43,2.0
+2008-09-06,Colombia,Uruguay,0,1,1747,1831,-84,0.0
+2008-09-06,Argentina,Paraguay,1,1,1974,1854,120,1.0
+2008-09-06,Austria,France,3,1,1565,1892,-327,2.0
+2008-09-06,Spain,Bosnia and Herzegovina,1,0,2100,1576,524,2.0
+2008-09-07,DR Congo,Egypt,0,1,1432,1767,-335,0.0
+2008-09-10,Uzbekistan,Australia,0,1,1553,1756,-203,0.0
+2008-09-10,Mexico,Canada,2,1,1834,1566,268,2.0
+2008-09-10,Uruguay,Ecuador,0,0,1831,1703,128,1.0
+2008-09-10,Croatia,England,1,4,1882,1987,-105,0.0
+2008-09-10,Turkey,Belgium,1,1,1830,1631,199,1.0
+2008-10-11,South Korea,Uzbekistan,3,0,1725,1553,172,2.0
+2008-10-11,Argentina,Uruguay,2,1,1974,1831,143,2.0
+2008-10-11,Colombia,Paraguay,0,1,1747,1854,-107,0.0
+2008-10-11,Scotland,Norway,0,0,1720,1707,13,1.0
+2008-10-11,Sweden,Portugal,0,0,1758,1822,-64,1.0
+2008-10-11,Turkey,Bosnia and Herzegovina,2,1,1830,1576,254,2.0
+2008-10-14,France,Tunisia,3,1,1892,1615,277,2.0
+2008-10-15,Japan,Uzbekistan,1,1,1773,1553,220,1.0
+2008-10-15,Australia,Qatar,4,0,1756,1510,246,2.0
+2008-10-15,South Africa,Ghana,2,1,1533,1695,-162,2.0
+2008-10-15,Canada,Mexico,2,2,1566,1834,-268,1.0
+2008-10-15,Brazil,Colombia,0,0,2017,1747,270,1.0
+2008-10-15,Belgium,Spain,1,2,1631,2100,-469,0.0
+2008-10-15,Norway,Netherlands,0,1,1707,2027,-320,0.0
+2008-11-09,Qatar,Iran,0,1,1510,1773,-263,0.0
+2008-11-12,Mexico,Ecuador,2,1,1834,1703,131,2.0
+2008-11-14,Qatar,South Korea,1,1,1510,1725,-215,1.0
+2008-11-19,Qatar,Japan,0,3,1510,1773,-263,0.0
+2008-11-19,Saudi Arabia,South Korea,0,2,1648,1725,-77,0.0
+2008-11-19,Ghana,Tunisia,0,0,1695,1615,80,1.0
+2008-11-19,France,Uruguay,0,0,1892,1831,61,1.0
+2008-11-19,Scotland,Argentina,0,1,1720,1974,-254,0.0
+2008-11-19,Brazil,Portugal,6,2,2017,1822,195,2.0
+2008-11-19,Germany,England,1,2,1966,1987,-21,0.0
+2008-11-19,Austria,Turkey,2,4,1565,1830,-265,0.0
+2008-11-19,Netherlands,Sweden,3,1,2027,1758,269,2.0
+2008-12-17,Ecuador,Iran,1,0,1703,1773,-70,2.0
+2009-01-05,Qatar,Saudi Arabia,0,0,1531,1681,-150,1.0
+2009-01-24,United States,Sweden,3,2,1802,1771,31,2.0
+2009-01-28,Sweden,Mexico,1,0,1771,1890,-119,2.0
+2009-02-11,Japan,Australia,0,0,1788,1788,0,1.0
+2009-02-11,Iran,South Korea,1,1,1634,1749,-115,1.0
+2009-02-11,Egypt,Ghana,2,2,1696,1686,10,1.0
+2009-02-11,Tunisia,Netherlands,1,1,1622,2031,-409,1.0
+2009-02-11,Morocco,Czechia,0,0,1569,1746,-177,1.0
+2009-02-11,Turkey,Ivory Coast,1,1,1784,1760,24,1.0
+2009-02-11,United States,Mexico,2,0,1802,1890,-88,2.0
+2009-02-11,Colombia,Haiti,2,0,1759,1429,330,2.0
+2009-02-11,France,Argentina,0,2,1890,1897,-7,0.0
+2009-02-11,Spain,England,2,0,2094,1985,109,2.0
+2009-02-11,Austria,Sweden,0,2,1587,1771,-184,0.0
+2009-02-11,Germany,Norway,0,1,1961,1747,214,0.0
+2009-03-22,Saudi Arabia,Iraq,0,0,1681,1557,124,1.0
+2009-03-28,Iran,Saudi Arabia,1,2,1634,1681,-47,0.0
+2009-03-28,South Korea,Iraq,2,1,1749,1557,192,2.0
+2009-03-28,Uzbekistan,Qatar,4,0,1546,1531,15,2.0
+2009-03-28,South Africa,Norway,2,1,1519,1747,-228,2.0
+2009-03-28,Uruguay,Paraguay,2,0,1814,1760,54,2.0
+2009-03-28,Netherlands,Scotland,3,0,2031,1670,361,2.0
+2009-03-28,Belgium,Bosnia and Herzegovina,2,4,1586,1642,-56,0.0
+2009-03-28,Portugal,Sweden,0,0,1874,1771,103,1.0
+2009-03-28,Spain,Turkey,1,0,2094,1784,310,2.0
+2009-03-29,Ecuador,Brazil,1,1,1722,2103,-381,1.0
+2009-03-31,Portugal,South Africa,2,0,1874,1519,355,2.0
+2009-03-31,Panama,Haiti,4,0,1550,1429,121,2.0
+2009-04-01,Australia,Uzbekistan,2,0,1788,1546,242,2.0
+2009-04-01,Iran,Senegal,1,1,1634,1544,90,1.0
+2009-04-01,Ecuador,Paraguay,1,1,1722,1760,-38,1.0
+2009-04-01,Bosnia and Herzegovina,Belgium,2,1,1642,1586,56,2.0
+2009-04-01,Turkey,Spain,1,2,1784,2094,-310,0.0
+2009-05-20,Argentina,Panama,3,1,1897,1550,347,2.0
+2009-05-26,Qatar,Saudi Arabia,2,1,1531,1681,-150,2.0
+2009-05-31,Japan,Belgium,4,0,1788,1586,202,2.0
+2009-05-31,Qatar,Iraq,1,0,1531,1557,-26,2.0
+2009-06-01,Uzbekistan,Bosnia and Herzegovina,0,0,1546,1642,-96,1.0
+2009-06-05,France,Turkey,1,0,1890,1784,106,2.0
+2009-06-06,Uzbekistan,Japan,0,1,1546,1788,-242,0.0
+2009-06-06,Qatar,Australia,0,0,1531,1788,-257,1.0
+2009-06-06,Uruguay,Brazil,0,4,1814,2103,-289,0.0
+2009-06-06,Argentina,Colombia,1,0,1897,1759,138,2.0
+2009-06-07,Algeria,Egypt,3,1,1580,1696,-116,2.0
+2009-06-10,Japan,Qatar,1,1,1788,1531,257,1.0
+2009-06-10,South Korea,Saudi Arabia,0,0,1749,1681,68,1.0
+2009-06-10,Ecuador,Argentina,2,0,1722,1897,-175,2.0
+2009-06-10,Brazil,Paraguay,2,1,2103,1760,343,2.0
+2009-06-10,Netherlands,Norway,2,0,2031,1747,284,2.0
+2009-06-14,South Africa,Iraq,0,0,1519,1557,-38,1.0
+2009-06-14,Spain,New Zealand,5,0,2094,1523,571,2.0
+2009-06-15,Brazil,Egypt,4,3,2103,1696,407,2.0
+2009-06-17,Australia,Japan,2,1,1788,1788,0,2.0
+2009-06-17,South Korea,Iran,1,1,1749,1634,115,1.0
+2009-06-17,Spain,Iraq,1,0,2094,1557,537,2.0
+2009-06-17,South Africa,New Zealand,2,0,1519,1523,-4,2.0
+2009-06-18,Brazil,United States,3,0,2103,1802,301,2.0
+2009-06-19,Haiti,Panama,1,1,1429,1550,-121,1.0
+2009-06-20,Iraq,New Zealand,0,0,1557,1523,34,1.0
+2009-06-20,South Africa,Spain,0,2,1519,2094,-575,0.0
+2009-06-21,United States,Egypt,3,0,1802,1696,106,2.0
+2009-06-24,United States,Spain,2,0,1802,2094,-292,2.0
+2009-06-25,South Africa,Brazil,0,1,1519,2103,-584,0.0
+2009-06-28,South Africa,Spain,2,3,1519,2094,-575,0.0
+2009-06-28,Brazil,United States,3,2,2103,1802,301,2.0
+2009-07-09,Mexico,Panama,1,1,1890,1550,340,1.0
+2009-07-11,United States,Haiti,2,2,1802,1429,373,1.0
+2009-07-18,United States,Panama,2,1,1802,1550,252,2.0
+2009-07-19,Mexico,Haiti,4,0,1890,1429,461,2.0
+2009-07-26,United States,Mexico,0,5,1802,1890,-88,0.0
+2009-08-12,Bosnia and Herzegovina,Iran,2,3,1642,1634,8,0.0
+2009-08-12,South Korea,Paraguay,1,0,1749,1760,-11,2.0
+2009-08-12,Senegal,DR Congo,2,1,1544,1423,121,2.0
+2009-08-12,Tunisia,Ivory Coast,0,0,1622,1760,-138,1.0
+2009-08-12,Algeria,Uruguay,1,0,1580,1814,-234,2.0
+2009-08-12,Mexico,United States,2,1,1890,1802,88,2.0
+2009-08-12,Norway,Scotland,4,0,1747,1670,77,2.0
+2009-08-12,Netherlands,England,2,2,2031,1985,46,1.0
+2009-08-12,Czechia,Belgium,3,1,1746,1586,160,2.0
+2009-09-05,Netherlands,Japan,3,0,2031,1788,243,2.0
+2009-09-05,South Korea,Australia,3,1,1749,1788,-39,2.0
+2009-09-05,Uzbekistan,Iran,0,0,1546,1634,-88,1.0
+2009-09-05,Germany,South Africa,2,0,1961,1519,442,2.0
+2009-09-05,Argentina,Brazil,1,3,1897,2103,-206,0.0
+2009-09-05,Colombia,Ecuador,2,0,1759,1722,37,2.0
+2009-09-05,Spain,Belgium,5,0,2094,1586,508,2.0
+2009-09-09,Japan,Ghana,4,3,1788,1686,102,2.0
+2009-09-09,Jordan,New Zealand,1,3,1463,1523,-60,0.0
+2009-09-09,Uruguay,Colombia,3,1,1814,1759,55,2.0
+2009-09-09,Paraguay,Argentina,1,0,1760,1897,-137,2.0
+2009-09-09,Scotland,Netherlands,0,1,1670,2031,-361,0.0
+2009-09-09,England,Croatia,5,1,1985,1888,97,2.0
+2009-09-09,Bosnia and Herzegovina,Turkey,1,1,1642,1784,-142,1.0
+2009-09-30,Argentina,Ghana,2,0,1897,1686,211,2.0
+2009-09-30,Colombia,Mexico,2,1,1759,1890,-131,2.0
+2009-10-08,Croatia,Qatar,3,2,1888,1531,357,2.0
+2009-10-10,Japan,Scotland,2,0,1788,1670,118,2.0
+2009-10-10,Australia,Netherlands,0,0,1788,2031,-243,1.0
+2009-10-10,Norway,South Africa,1,0,1747,1519,228,2.0
+2009-10-10,Ecuador,Uruguay,1,2,1722,1814,-92,0.0
+2009-10-10,Belgium,Turkey,2,0,1586,1784,-198,2.0
+2009-10-14,South Korea,Senegal,2,0,1749,1544,205,2.0
+2009-10-14,Tunisia,Saudi Arabia,0,1,1622,1681,-59,0.0
+2009-10-14,DR Congo,Qatar,2,2,1423,1531,-108,1.0
+2009-10-14,Uruguay,Argentina,0,1,1814,1897,-83,0.0
+2009-10-14,Paraguay,Colombia,0,2,1760,1759,1,0.0
+2009-10-14,France,Austria,3,1,1890,1587,303,2.0
+2009-10-14,Bosnia and Herzegovina,Spain,2,5,1642,2094,-452,0.0
+2009-11-13,Qatar,Paraguay,2,0,1531,1760,-229,2.0
+2009-11-14,South Africa,Japan,0,0,1519,1788,-269,1.0
+2009-11-14,Iran,Jordan,1,0,1634,1463,171,2.0
+2009-11-14,Egypt,Algeria,2,0,1696,1580,116,2.0
+2009-11-14,Spain,Argentina,2,1,2094,1897,197,2.0
+2009-11-14,Brazil,England,1,0,2103,1985,118,2.0
+2009-11-14,Switzerland,Norway,0,1,1792,1747,45,0.0
+2009-11-14,Portugal,Bosnia and Herzegovina,1,0,1874,1642,232,2.0
+2009-11-17,Belgium,Qatar,2,0,1586,1531,55,2.0
+2009-11-18,Algeria,Egypt,1,0,1580,1696,-116,2.0
+2009-11-18,Germany,Ivory Coast,2,2,1961,1760,201,1.0
+2009-11-18,Netherlands,Paraguay,0,0,2031,1760,271,1.0
+2009-11-18,Austria,Spain,1,5,1587,2094,-507,0.0
+2009-11-18,Bosnia and Herzegovina,Portugal,0,1,1642,1874,-232,0.0
+2009-11-22,Jordan,Iran,1,0,1463,1634,-171,2.0
+2009-12-28,Qatar,Iran,3,2,1531,1634,-103,2.0
+2010-01-15,Ivory Coast,Ghana,3,1,1712,1741,-29,2.0
+2010-01-24,Algeria,Ivory Coast,3,2,1461,1712,-251,2.0
+2010-01-28,Egypt,Algeria,4,0,1777,1461,316,2.0
+2010-01-31,Egypt,Ghana,1,0,1777,1741,36,2.0
+2010-02-14,Japan,South Korea,1,3,1785,1740,45,0.0
+2010-03-03,South Korea,Ivory Coast,2,0,1740,1712,28,2.0
+2010-03-03,England,Egypt,3,1,1924,1777,147,2.0
+2010-03-03,Bosnia and Herzegovina,Ghana,2,1,1628,1741,-113,2.0
+2010-03-03,Netherlands,United States,2,1,2104,1767,337,2.0
+2010-03-03,Mexico,New Zealand,2,0,1845,1570,275,2.0
+2010-03-03,Switzerland,Uruguay,1,3,1753,1891,-138,0.0
+2010-03-03,Germany,Argentina,0,1,2067,1993,74,0.0
+2010-03-03,Scotland,Czechia,1,0,1657,1740,-83,2.0
+2010-03-03,Belgium,Croatia,0,1,1619,1912,-293,0.0
+2010-03-03,France,Spain,0,2,1802,2115,-313,0.0
+2010-03-31,Paraguay,South Africa,1,1,1784,1606,178,1.0
+2010-05-05,Argentina,Haiti,4,0,1993,1433,560,2.0
+2010-05-07,Ecuador,Mexico,0,0,1727,1845,-118,1.0
+2010-05-10,Mexico,Senegal,1,0,1845,1578,267,2.0
+2010-05-16,South Korea,Ecuador,2,0,1740,1727,13,2.0
+2010-05-19,Austria,Croatia,0,1,1604,1912,-308,0.0
+2010-05-21,Saudi Arabia,DR Congo,2,0,1659,1392,267,2.0
+2010-05-22,Turkey,Czechia,2,1,1777,1740,37,2.0
+2010-05-24,Japan,South Korea,0,2,1785,1740,45,0.0
+2010-05-24,Australia,New Zealand,2,1,1775,1570,205,2.0
+2010-05-24,Portugal,Cape Verde,0,0,1898,1399,499,1.0
+2010-05-24,Argentina,Canada,5,0,1993,1599,394,2.0
+2010-05-24,England,Mexico,3,1,1924,1845,79,2.0
+2010-05-25,United States,Czechia,2,4,1767,1740,27,0.0
+2010-05-26,Netherlands,Mexico,2,1,2104,1845,259,2.0
+2010-05-27,South Africa,Colombia,2,1,1606,1763,-157,2.0
+2010-05-29,Spain,Saudi Arabia,3,2,2115,1659,456,2.0
+2010-05-29,United States,Turkey,2,1,1767,1777,-10,2.0
+2010-05-29,Sweden,Bosnia and Herzegovina,4,2,1812,1628,184,2.0
+2010-05-30,England,Japan,2,1,1924,1785,139,2.0
+2010-05-30,Tunisia,France,1,1,1574,1802,-228,1.0
+2010-05-30,Ivory Coast,Paraguay,2,2,1712,1784,-72,1.0
+2010-06-01,Netherlands,Ghana,4,1,2104,1741,363,2.0
+2010-06-03,Spain,South Korea,1,0,2115,1740,375,2.0
+2010-06-03,Germany,Bosnia and Herzegovina,3,1,2067,1628,439,2.0
+2010-06-04,Ivory Coast,Japan,2,0,1712,1785,-73,2.0
+2010-06-05,United States,Australia,3,1,1767,1775,-8,2.0
+2010-06-11,South Africa,Mexico,1,1,1606,1845,-239,1.0
+2010-06-11,France,Uruguay,0,0,1802,1891,-89,1.0
+2010-06-12,England,United States,1,1,1924,1767,157,1.0
+2010-06-13,Germany,Australia,4,0,2067,1775,292,2.0
+2010-06-15,Ivory Coast,Portugal,0,0,1712,1898,-186,1.0
+2010-06-16,South Africa,Uruguay,0,3,1606,1891,-285,0.0
+2010-06-16,Switzerland,Spain,1,0,1753,2115,-362,2.0
+2010-06-17,Argentina,South Korea,4,1,1993,1740,253,2.0
+2010-06-17,Mexico,France,2,0,1845,1802,43,2.0
+2010-06-18,Algeria,England,0,0,1461,1924,-463,1.0
+2010-06-19,Netherlands,Japan,1,0,2104,1785,319,2.0
+2010-06-19,Australia,Ghana,1,1,1775,1741,34,1.0
+2010-06-20,Brazil,Ivory Coast,3,1,2095,1712,383,2.0
+2010-06-22,South Africa,France,2,1,1606,1802,-196,2.0
+2010-06-22,Uruguay,Mexico,1,0,1891,1845,46,2.0
+2010-06-23,Germany,Ghana,1,0,2067,1741,326,2.0
+2010-06-23,United States,Algeria,1,0,1767,1461,306,2.0
+2010-06-24,New Zealand,Paraguay,0,0,1570,1784,-214,1.0
+2010-06-25,Brazil,Portugal,0,0,2095,1898,197,1.0
+2010-06-26,Uruguay,South Korea,2,1,1891,1740,151,2.0
+2010-06-26,Ghana,United States,2,1,1741,1767,-26,2.0
+2010-06-27,Argentina,Mexico,3,1,1993,1845,148,2.0
+2010-06-27,Germany,England,4,1,2067,1924,143,2.0
+2010-06-29,Japan,Paraguay,0,0,1785,1784,1,1.0
+2010-06-29,Spain,Portugal,1,0,2115,1898,217,2.0
+2010-07-02,Ghana,Uruguay,1,1,1741,1891,-150,1.0
+2010-07-02,Netherlands,Brazil,2,1,2104,2095,9,2.0
+2010-07-03,Germany,Argentina,4,0,2067,1993,74,2.0
+2010-07-03,Spain,Paraguay,1,0,2115,1784,331,2.0
+2010-07-06,Netherlands,Uruguay,3,2,2104,1891,213,2.0
+2010-07-07,Spain,Germany,1,0,2115,2067,48,2.0
+2010-07-10,Germany,Uruguay,3,2,2067,1891,176,2.0
+2010-07-11,Spain,Netherlands,1,0,2115,2104,11,2.0
+2010-08-10,Bosnia and Herzegovina,Qatar,1,1,1628,1520,108,1.0
+2010-08-10,United States,Brazil,0,2,1767,2095,-328,0.0
+2010-08-11,Egypt,DR Congo,6,3,1777,1392,385,2.0
+2010-08-11,South Africa,Ghana,1,0,1606,1741,-135,2.0
+2010-08-11,Senegal,Cape Verde,1,0,1578,1399,179,2.0
+2010-08-11,Mexico,Spain,1,1,1845,2115,-270,1.0
+2010-08-11,Sweden,Scotland,3,0,1812,1657,155,2.0
+2010-08-11,Austria,Switzerland,0,1,1604,1753,-149,0.0
+2010-08-11,Norway,France,2,1,1808,1802,6,2.0
+2010-09-03,Switzerland,Australia,0,0,1753,1775,-22,1.0
+2010-09-03,Belgium,Germany,0,1,1619,2067,-448,0.0
+2010-09-04,Japan,Paraguay,1,0,1785,1784,1,2.0
+2010-09-04,Mexico,Ecuador,1,2,1845,1727,118,0.0
+2010-09-05,DR Congo,Senegal,2,4,1392,1578,-186,0.0
+2010-09-07,South Korea,Iran,0,1,1740,1693,47,0.0
+2010-09-07,Mexico,Colombia,1,0,1845,1763,82,2.0
+2010-09-07,Argentina,Spain,4,1,1993,2115,-122,2.0
+2010-09-07,Switzerland,England,1,3,1753,1924,-171,0.0
+2010-09-07,Turkey,Belgium,3,2,1777,1619,158,2.0
+2010-09-07,Bosnia and Herzegovina,France,0,2,1628,1802,-174,0.0
+2010-09-07,Norway,Portugal,1,0,1808,1898,-90,2.0
+2010-09-16,Jordan,Iraq,4,1,1471,1589,-118,2.0
+2010-10-01,Iran,Iraq,2,1,1693,1589,104,2.0
+2010-10-07,Brazil,Iran,3,0,2095,1693,402,2.0
+2010-10-08,Japan,Argentina,1,0,1785,1993,-208,2.0
+2010-10-08,Colombia,Ecuador,1,0,1763,1727,36,2.0
+2010-10-08,Czechia,Scotland,1,0,1740,1657,83,2.0
+2010-10-08,Germany,Turkey,3,0,2067,1777,290,2.0
+2010-10-09,Australia,Paraguay,1,0,1775,1784,-9,2.0
+2010-10-09,Saudi Arabia,Uzbekistan,4,0,1659,1507,152,2.0
+2010-10-12,South Korea,Japan,0,0,1740,1785,-45,1.0
+2010-10-12,Qatar,Iraq,1,2,1520,1589,-69,0.0
+2010-10-12,United States,Colombia,0,0,1767,1763,4,1.0
+2010-10-12,New Zealand,Paraguay,0,2,1570,1784,-214,0.0
+2010-10-12,Scotland,Spain,2,3,1657,2115,-458,0.0
+2010-10-12,Belgium,Austria,4,4,1619,1604,15,1.0
+2010-10-12,Netherlands,Sweden,4,1,2104,1812,292,2.0
+2010-10-12,Croatia,Norway,2,1,1912,1808,104,2.0
+2010-11-17,Egypt,Australia,3,0,1777,1775,2,2.0
+2010-11-17,Ghana,Saudi Arabia,0,0,1741,1659,82,1.0
+2010-11-17,South Africa,United States,0,1,1606,1767,-161,0.0
+2010-11-17,Argentina,Brazil,1,0,1993,2095,-102,2.0
+2010-11-17,England,France,1,2,1924,1802,122,0.0
+2010-11-17,Netherlands,Turkey,1,0,2104,1777,327,2.0
+2010-11-17,Sweden,Germany,0,0,1812,2067,-255,1.0
+2010-11-17,Portugal,Spain,4,0,1898,2115,-217,2.0
+2010-11-18,Qatar,Haiti,0,1,1520,1433,87,0.0
+2010-11-28,Qatar,Saudi Arabia,1,1,1520,1659,-139,1.0
+2010-12-16,Qatar,Egypt,2,1,1520,1777,-257,2.0
+2010-12-28,Qatar,Iran,0,0,1520,1693,-173,1.0
+2010-12-28,Saudi Arabia,Iraq,0,1,1659,1589,70,0.0
+2011-01-02,Jordan,Uzbekistan,2,2,1566,1620,-54,1.0
+2011-01-07,Qatar,Uzbekistan,0,2,1501,1620,-119,0.0
+2011-01-09,Japan,Jordan,1,1,1802,1566,236,1.0
+2011-01-11,Iran,Iraq,2,1,1744,1586,158,2.0
+2011-01-13,Jordan,Saudi Arabia,1,0,1566,1527,39,2.0
+2011-01-14,Australia,South Korea,1,1,1817,1767,50,1.0
+2011-01-17,Japan,Saudi Arabia,5,0,1802,1527,275,2.0
+2011-01-21,Qatar,Japan,2,3,1501,1802,-301,0.0
+2011-01-21,Uzbekistan,Jordan,2,1,1620,1566,54,2.0
+2011-01-22,Australia,Iraq,1,0,1817,1586,231,2.0
+2011-01-22,South Korea,Iran,1,0,1767,1744,23,2.0
+2011-01-25,Japan,South Korea,2,2,1802,1767,35,1.0
+2011-01-25,Australia,Uzbekistan,6,0,1817,1620,197,2.0
+2011-01-28,South Korea,Uzbekistan,3,2,1767,1620,147,2.0
+2011-01-29,Japan,Australia,1,0,1802,1817,-15,2.0
+2011-02-09,Turkey,South Korea,0,0,1744,1767,-23,1.0
+2011-02-09,Mexico,Bosnia and Herzegovina,2,0,1864,1694,170,2.0
+2011-02-09,Argentina,Portugal,2,1,1915,1901,14,2.0
+2011-02-09,France,Brazil,1,0,1839,2064,-225,2.0
+2011-02-09,Spain,Colombia,1,0,2116,1767,349,2.0
+2011-02-09,Netherlands,Austria,3,1,2067,1578,489,2.0
+2011-02-09,Croatia,Czechia,4,2,1890,1794,96,2.0
+2011-03-25,Austria,Belgium,0,2,1578,1683,-105,0.0
+2011-03-25,Spain,Czechia,2,1,2116,1794,322,2.0
+2011-03-26,South Africa,Egypt,1,0,1598,1720,-122,2.0
+2011-03-26,United States,Argentina,1,1,1715,1915,-200,1.0
+2011-03-26,Mexico,Paraguay,3,1,1864,1783,81,2.0
+2011-03-26,Colombia,Ecuador,2,0,1767,1778,-11,2.0
+2011-03-27,Algeria,Morocco,1,0,1480,1565,-85,2.0
+2011-03-27,Brazil,Scotland,2,0,2064,1702,362,2.0
+2011-03-29,Germany,Australia,1,2,2082,1817,265,0.0
+2011-03-29,England,Ghana,1,1,1955,1773,182,1.0
+2011-03-29,United States,Paraguay,0,1,1715,1783,-68,0.0
+2011-03-29,Turkey,Austria,2,0,1744,1578,166,2.0
+2011-03-29,France,Croatia,0,0,1839,1890,-51,1.0
+2011-04-20,Argentina,Ecuador,2,2,1915,1778,137,1.0
+2011-05-25,Argentina,Paraguay,4,2,1915,1783,132,2.0
+2011-05-28,Ecuador,Mexico,1,1,1778,1864,-86,1.0
+2011-05-29,Germany,Uruguay,2,1,2082,1992,90,2.0
+2011-06-01,Canada,Ecuador,2,2,1594,1778,-184,1.0
+2011-06-01,Mexico,New Zealand,3,0,1864,1564,300,2.0
+2011-06-03,Austria,Germany,1,2,1578,2082,-504,0.0
+2011-06-03,Belgium,Turkey,1,1,1683,1744,-61,1.0
+2011-06-04,Morocco,Algeria,4,0,1565,1480,85,2.0
+2011-06-04,United States,Spain,0,4,1715,2116,-401,0.0
+2011-06-04,Brazil,Netherlands,0,0,2064,2067,-3,1.0
+2011-06-04,England,Switzerland,2,2,1955,1766,189,1.0
+2011-06-04,Portugal,Norway,1,0,1901,1754,147,2.0
+2011-06-05,Australia,New Zealand,3,0,1817,1564,253,2.0
+2011-06-05,Egypt,South Africa,0,0,1720,1598,122,1.0
+2011-06-07,Japan,Czechia,0,0,1802,1794,8,1.0
+2011-06-07,South Korea,Ghana,2,1,1767,1773,-6,2.0
+2011-06-07,United States,Canada,2,0,1715,1594,121,2.0
+2011-06-08,Uruguay,Netherlands,1,1,1992,2067,-75,1.0
+2011-06-11,United States,Panama,1,2,1715,1666,49,0.0
+2011-06-14,Canada,Panama,1,1,1594,1666,-72,1.0
+2011-06-22,United States,Panama,1,0,1715,1666,49,2.0
+2011-06-25,United States,Mexico,2,4,1715,1864,-149,0.0
+2011-07-03,Ecuador,Paraguay,0,0,1778,1783,-5,1.0
+2011-07-06,Argentina,Colombia,0,0,1915,1767,148,1.0
+2011-07-09,Brazil,Paraguay,2,2,2064,1783,281,1.0
+2011-07-12,Uruguay,Mexico,1,0,1992,1864,128,2.0
+2011-07-13,Jordan,Saudi Arabia,1,1,1566,1527,39,1.0
+2011-07-13,Brazil,Ecuador,4,2,2064,1778,286,2.0
+2011-07-16,Jordan,Iraq,1,1,1566,1586,-20,1.0
+2011-07-16,Argentina,Uruguay,1,1,1915,1992,-77,1.0
+2011-07-17,Brazil,Paraguay,0,0,2064,1783,281,1.0
+2011-07-24,Uruguay,Paraguay,3,0,1992,1783,209,2.0
+2011-08-10,Japan,South Korea,3,0,1802,1767,35,2.0
+2011-08-10,Senegal,Morocco,0,2,1619,1565,54,0.0
+2011-08-10,United States,Mexico,1,1,1715,1864,-149,1.0
+2011-08-10,Germany,Brazil,3,2,2082,2064,18,2.0
+2011-08-10,Norway,Czechia,3,0,1754,1794,-40,2.0
+2011-08-19,Qatar,Iraq,0,1,1501,1586,-85,0.0
+2011-08-22,Jordan,Tunisia,3,3,1566,1577,-11,1.0
+2011-09-02,Iraq,Jordan,0,2,1586,1566,20,0.0
+2011-09-02,Panama,Paraguay,0,2,1666,1783,-117,0.0
+2011-09-02,Germany,Austria,6,2,2082,1578,504,2.0
+2011-09-03,Senegal,DR Congo,2,0,1619,1423,196,2.0
+2011-09-03,Scotland,Czechia,2,2,1702,1794,-92,1.0
+2011-09-05,Brazil,Ghana,1,0,2064,1773,291,2.0
+2011-09-06,Uzbekistan,Japan,1,1,1620,1802,-182,1.0
+2011-09-06,Saudi Arabia,Australia,1,3,1527,1817,-290,0.0
+2011-09-06,Qatar,Iran,1,1,1501,1744,-243,1.0
+2011-09-06,Belgium,United States,1,0,1683,1715,-32,2.0
+2011-09-06,Curaçao,Haiti,2,4,1066,1413,-347,0.0
+2011-09-06,Austria,Turkey,0,0,1578,1744,-166,1.0
+2011-09-14,Argentina,Brazil,0,0,1915,2064,-149,1.0
+2011-09-28,Brazil,Argentina,2,0,2064,1915,149,2.0
+2011-10-07,Turkey,Germany,1,3,1744,2082,-338,0.0
+2011-10-07,Czechia,Spain,0,2,1794,2116,-322,0.0
+2011-10-11,United States,Ecuador,0,1,1715,1778,-63,0.0
+2011-10-11,Mexico,Brazil,1,2,1864,2064,-200,0.0
+2011-10-11,Haiti,Curaçao,2,2,1413,1066,347,1.0
+2011-10-11,Paraguay,Uruguay,1,1,1783,1992,-209,1.0
+2011-10-11,Spain,Scotland,3,1,2116,1702,414,2.0
+2011-10-11,Germany,Belgium,3,1,2082,1683,399,2.0
+2011-10-11,France,Bosnia and Herzegovina,1,1,1839,1694,145,1.0
+2011-10-11,Sweden,Netherlands,3,2,1861,2067,-206,2.0
+2011-11-11,France,United States,1,0,1839,1715,124,2.0
+2011-11-11,Paraguay,Ecuador,2,1,1783,1778,5,2.0
+2011-11-11,Netherlands,Switzerland,0,0,2067,1766,301,1.0
+2011-11-11,Bosnia and Herzegovina,Portugal,0,0,1694,1901,-207,1.0
+2011-11-11,Turkey,Croatia,0,3,1744,1890,-146,0.0
+2011-11-12,South Africa,Ivory Coast,1,1,1598,1761,-163,1.0
+2011-11-12,Algeria,Tunisia,1,0,1480,1577,-97,2.0
+2011-11-12,England,Spain,1,0,1955,2116,-161,2.0
+2011-11-14,Brazil,Egypt,2,0,2064,1720,344,2.0
+2011-11-15,Jordan,Iraq,1,3,1566,1586,-20,0.0
+2011-11-15,Colombia,Argentina,1,2,1767,1915,-148,0.0
+2011-11-15,England,Sweden,1,0,1955,1861,94,2.0
+2011-11-15,France,Belgium,0,0,1839,1683,156,1.0
+2011-11-15,Germany,Netherlands,3,0,2082,2067,15,2.0
+2011-11-15,Portugal,Bosnia and Herzegovina,6,2,1901,1694,207,2.0
+2011-11-15,Croatia,Turkey,0,0,1890,1744,146,1.0
+2011-12-16,Qatar,Iraq,0,0,1501,1586,-85,1.0
+2012-01-13,Ivory Coast,Tunisia,2,0,1835,1600,235,2.0
+2012-01-15,South Africa,Ghana,1,1,1565,1676,-111,1.0
+2012-01-23,Tunisia,Morocco,2,1,1600,1543,57,2.0
+2012-01-25,Panama,United States,0,1,1680,1770,-90,0.0
+2012-02-05,Ghana,Tunisia,2,1,1676,1600,76,2.0
+2012-02-23,Iran,Jordan,2,2,1657,1488,169,1.0
+2012-02-25,South Korea,Uzbekistan,4,2,1762,1655,107,2.0
+2012-02-28,Brazil,Bosnia and Herzegovina,2,1,2061,1746,315,2.0
+2012-02-29,Japan,Uzbekistan,0,1,1819,1655,164,0.0
+2012-02-29,Australia,Saudi Arabia,4,2,1773,1493,280,2.0
+2012-02-29,Iran,Qatar,2,2,1657,1476,181,1.0
+2012-02-29,South Africa,Senegal,0,0,1565,1521,44,1.0
+2012-02-29,Colombia,Mexico,2,0,1901,1915,-14,2.0
+2012-02-29,Paraguay,Panama,1,0,1719,1680,39,2.0
+2012-02-29,Switzerland,Argentina,1,3,1829,2014,-185,0.0
+2012-02-29,England,Netherlands,2,3,1952,1996,-44,0.0
+2012-02-29,Germany,France,1,2,2052,1889,163,0.0
+2012-02-29,Croatia,Sweden,1,3,1879,1907,-28,0.0
+2012-03-02,DR Congo,Egypt,0,0,1434,1660,-226,1.0
+2012-04-17,Egypt,Iraq,0,0,1660,1591,69,1.0
+2012-05-25,Morocco,Senegal,0,1,1543,1521,22,0.0
+2012-05-26,United States,Scotland,5,1,1770,1655,115,2.0
+2012-05-26,Norway,England,0,1,1758,1952,-194,0.0
+2012-05-26,Switzerland,Germany,5,3,1829,2052,-223,2.0
+2012-05-30,Spain,South Korea,4,1,2148,1762,386,2.0
+2012-05-30,United States,Brazil,1,4,1770,2061,-291,0.0
+2012-05-31,Mexico,Bosnia and Herzegovina,2,1,1915,1746,169,2.0
+2012-06-02,Argentina,Ecuador,4,0,2014,1850,164,2.0
+2012-06-02,England,Belgium,1,0,1952,1786,166,2.0
+2012-06-02,Norway,Croatia,1,1,1758,1879,-121,1.0
+2012-06-02,Portugal,Turkey,1,3,1904,1701,203,0.0
+2012-06-03,Uzbekistan,Iran,0,1,1655,1657,-2,0.0
+2012-06-03,Jordan,Iraq,1,1,1488,1591,-103,1.0
+2012-06-03,Canada,United States,0,0,1584,1770,-186,1.0
+2012-06-03,Mexico,Brazil,2,0,1915,2061,-146,2.0
+2012-06-08,Japan,Jordan,6,0,1819,1488,331,2.0
+2012-06-08,Qatar,South Korea,1,4,1476,1762,-286,0.0
+2012-06-09,Cape Verde,Tunisia,1,2,1424,1600,-176,0.0
+2012-06-09,Morocco,Ivory Coast,2,2,1543,1835,-292,1.0
+2012-06-09,Argentina,Brazil,4,3,2014,2061,-47,2.0
+2012-06-09,Germany,Portugal,1,0,2052,1904,148,2.0
+2012-06-10,Ecuador,Colombia,1,0,1850,1901,-51,2.0
+2012-06-11,England,France,1,1,1952,1889,63,1.0
+2012-06-12,Australia,Japan,1,1,1773,1819,-46,1.0
+2012-06-12,Iran,Qatar,0,0,1657,1476,181,1.0
+2012-06-13,Germany,Netherlands,2,1,2052,1996,56,2.0
+2012-06-15,England,Sweden,3,2,1952,1907,45,2.0
+2012-06-17,Portugal,Netherlands,2,1,1904,1996,-92,2.0
+2012-06-18,Spain,Croatia,1,0,2148,1879,269,2.0
+2012-06-19,Sweden,France,2,0,1907,1889,18,2.0
+2012-06-21,Portugal,Czechia,1,0,1904,1774,130,2.0
+2012-06-23,Spain,France,2,0,2148,1889,259,2.0
+2012-06-27,Portugal,Spain,0,0,1904,2148,-244,1.0
+2012-07-03,Morocco,Iraq,2,1,1543,1591,-48,2.0
+2012-07-05,Saudi Arabia,Iraq,0,1,1493,1591,-98,0.0
+2012-08-13,Jordan,Uzbekistan,0,1,1488,1655,-167,0.0
+2012-08-15,Scotland,Australia,3,1,1655,1773,-118,2.0
+2012-08-15,Iran,Tunisia,2,2,1657,1600,57,1.0
+2012-08-15,Jordan,Uzbekistan,2,0,1488,1655,-167,2.0
+2012-08-15,Mexico,United States,0,1,1915,1770,145,0.0
+2012-08-15,Portugal,Panama,2,0,1904,1680,224,2.0
+2012-08-15,France,Uruguay,0,0,1889,1855,34,1.0
+2012-08-15,Germany,Argentina,1,3,2052,2014,38,0.0
+2012-08-15,Sweden,Brazil,0,3,1907,2061,-154,0.0
+2012-08-15,Austria,Turkey,2,0,1603,1701,-98,2.0
+2012-08-15,Belgium,Netherlands,4,2,1786,1996,-210,2.0
+2012-08-15,Croatia,Switzerland,2,4,1879,1829,50,0.0
+2012-09-05,Jordan,Iran,0,0,1488,1657,-169,1.0
+2012-09-07,Spain,Saudi Arabia,5,0,2148,1493,655,2.0
+2012-09-07,Brazil,South Africa,1,0,2061,1565,496,2.0
+2012-09-07,Canada,Panama,1,0,1584,1680,-96,2.0
+2012-09-07,Colombia,Uruguay,4,0,1901,1855,46,2.0
+2012-09-07,Argentina,Paraguay,3,1,2014,1719,295,2.0
+2012-09-07,Netherlands,Turkey,2,0,1996,1701,295,2.0
+2012-09-08,Ivory Coast,Senegal,4,2,1835,1521,314,2.0
+2012-09-11,Japan,Iraq,1,0,1819,1591,228,2.0
+2012-09-11,Jordan,Australia,2,1,1488,1773,-285,2.0
+2012-09-11,Uzbekistan,South Korea,2,2,1655,1762,-107,1.0
+2012-09-11,Panama,Canada,2,0,1680,1584,96,2.0
+2012-09-11,Uruguay,Ecuador,1,1,1855,1850,5,1.0
+2012-09-11,Austria,Germany,1,2,1603,2052,-449,0.0
+2012-09-11,Belgium,Croatia,1,1,1786,1879,-93,1.0
+2012-09-19,Brazil,Argentina,2,1,2061,2014,47,2.0
+2012-10-08,Qatar,Jordan,1,1,1476,1488,-12,1.0
+2012-10-11,Brazil,Iraq,6,0,2061,1591,470,2.0
+2012-10-12,France,Japan,0,1,1889,1819,70,0.0
+2012-10-12,Argentina,Uruguay,3,0,2014,1855,159,2.0
+2012-10-12,Colombia,Paraguay,2,0,1901,1719,182,2.0
+2012-10-12,Switzerland,Norway,1,1,1829,1758,71,1.0
+2012-10-13,Senegal,Ivory Coast,0,2,1521,1835,-314,0.0
+2012-10-16,Brazil,Japan,4,0,2061,1819,242,2.0
+2012-10-16,Australia,Iraq,2,1,1773,1591,182,2.0
+2012-10-16,Iran,South Korea,1,0,1657,1762,-105,2.0
+2012-10-16,Qatar,Uzbekistan,0,1,1476,1655,-179,0.0
+2012-10-16,Tunisia,Egypt,1,0,1600,1660,-60,2.0
+2012-10-16,Belgium,Scotland,2,0,1786,1655,131,2.0
+2012-10-16,Spain,France,1,1,2148,1889,259,1.0
+2012-10-16,Germany,Sweden,4,4,2052,1907,145,1.0
+2012-11-07,Qatar,Iraq,2,1,1476,1591,-115,2.0
+2012-11-14,South Korea,Australia,1,2,1762,1773,-11,0.0
+2012-11-14,Iran,Uzbekistan,0,1,1657,1655,2,0.0
+2012-11-14,Iraq,Jordan,1,0,1591,1488,103,2.0
+2012-11-14,Saudi Arabia,Argentina,0,0,1493,2014,-521,1.0
+2012-11-14,Ghana,Cape Verde,1,0,1676,1424,252,2.0
+2012-11-14,Tunisia,Switzerland,1,2,1600,1829,-229,0.0
+2012-11-14,Austria,Ivory Coast,0,3,1603,1835,-232,0.0
+2012-11-14,Algeria,Bosnia and Herzegovina,0,1,1561,1746,-185,0.0
+2012-11-14,Panama,Spain,1,5,1680,2148,-468,0.0
+2012-11-14,Brazil,Colombia,1,1,2061,1901,160,1.0
+2012-11-14,Sweden,England,4,2,1907,1952,-45,2.0
+2012-11-14,Netherlands,Germany,0,0,1996,2052,-56,1.0
+2012-11-21,Argentina,Brazil,2,1,2014,2061,-47,2.0
+2012-12-09,Iran,Saudi Arabia,0,0,1657,1493,164,1.0
+2012-12-10,Iraq,Jordan,1,0,1591,1488,103,2.0
+2012-12-28,Qatar,Egypt,0,2,1476,1660,-184,0.0
+2012-12-30,Tunisia,Iraq,2,1,1600,1591,9,2.0
+2013-01-06,Iraq,Saudi Arabia,2,0,1520,1482,38,2.0
+2013-01-08,South Africa,Norway,0,1,1573,1625,-52,0.0
+2013-01-10,Ghana,Egypt,3,0,1697,1668,29,2.0
+2013-01-12,South Africa,Algeria,0,0,1573,1583,-10,1.0
+2013-01-13,Ghana,Tunisia,4,2,1697,1503,194,2.0
+2013-01-14,Ivory Coast,Egypt,4,2,1774,1668,106,2.0
+2013-01-19,South Africa,Cape Verde,0,0,1573,1506,67,1.0
+2013-01-20,DR Congo,Ghana,2,2,1447,1697,-250,1.0
+2013-01-22,Tunisia,Algeria,1,0,1503,1583,-80,2.0
+2013-01-23,Cape Verde,Morocco,1,1,1506,1530,-24,1.0
+2013-01-26,Ivory Coast,Tunisia,3,0,1774,1503,271,2.0
+2013-01-27,South Africa,Morocco,2,2,1573,1530,43,1.0
+2013-01-29,United States,Canada,0,0,1862,1487,375,1.0
+2013-01-30,Algeria,Ivory Coast,2,2,1583,1774,-191,1.0
+2013-02-02,Ghana,Cape Verde,2,0,1697,1506,191,2.0
+2013-02-06,Croatia,South Korea,4,0,1805,1686,119,2.0
+2013-02-06,Spain,Uruguay,3,1,2102,1918,184,2.0
+2013-02-06,Sweden,Argentina,2,3,1826,2020,-194,0.0
+2013-02-06,England,Brazil,2,1,1933,2132,-199,2.0
+2013-02-06,Portugal,Ecuador,2,3,1931,1836,95,0.0
+2013-02-06,France,Germany,1,2,1881,2086,-205,0.0
+2013-02-06,Turkey,Czechia,0,2,1712,1760,-48,0.0
+2013-03-07,Qatar,Egypt,3,1,1501,1668,-167,2.0
+2013-03-22,Japan,Canada,2,1,1764,1487,277,2.0
+2013-03-22,Uruguay,Paraguay,1,1,1918,1701,217,1.0
+2013-03-26,Jordan,Japan,2,1,1573,1764,-191,2.0
+2013-03-26,South Korea,Qatar,2,1,1686,1501,185,2.0
+2013-03-26,Mexico,United States,0,0,1796,1862,-66,1.0
+2013-03-26,Ecuador,Paraguay,4,1,1836,1701,135,2.0
+2013-03-26,France,Spain,0,1,1881,2102,-221,0.0
+2013-05-29,United States,Belgium,2,4,1862,1834,28,0.0
+2013-05-29,Germany,Ecuador,4,2,2086,1836,250,2.0
+2013-06-02,United States,Germany,4,3,1862,2086,-224,2.0
+2013-06-02,Brazil,England,2,2,2132,1933,199,1.0
+2013-06-04,Japan,Australia,1,1,1764,1728,36,1.0
+2013-06-04,Qatar,Iran,0,1,1501,1732,-231,0.0
+2013-06-05,Uruguay,France,1,0,1918,1881,37,2.0
+2013-06-07,Panama,Mexico,0,0,1699,1796,-97,1.0
+2013-06-07,Argentina,Colombia,0,0,2020,1933,87,1.0
+2013-06-07,Croatia,Scotland,0,1,1805,1698,107,0.0
+2013-06-07,Austria,Sweden,2,1,1662,1826,-164,2.0
+2013-06-08,Spain,Haiti,2,1,2102,1430,672,2.0
+2013-06-09,Brazil,France,3,0,2132,1881,251,2.0
+2013-06-10,Portugal,Croatia,1,0,1931,1805,126,2.0
+2013-06-11,Japan,Iraq,1,0,1764,1520,244,2.0
+2013-06-11,Australia,Jordan,4,0,1728,1573,155,2.0
+2013-06-11,South Korea,Uzbekistan,1,0,1686,1650,36,2.0
+2013-06-11,United States,Panama,2,0,1862,1699,163,2.0
+2013-06-11,Ecuador,Argentina,1,1,1836,2020,-184,1.0
+2013-06-12,Ghana,Ivory Coast,2,1,1697,1774,-77,2.0
+2013-06-14,Ghana,Ivory Coast,1,1,1697,1774,-77,1.0
+2013-06-15,Brazil,Japan,3,0,2132,1764,368,2.0
+2013-06-16,Spain,Uruguay,2,1,2102,1918,184,2.0
+2013-06-18,Australia,Iraq,1,0,1728,1520,208,2.0
+2013-06-18,South Korea,Iran,0,1,1686,1732,-46,0.0
+2013-06-18,Uzbekistan,Qatar,5,1,1650,1501,149,2.0
+2013-06-19,Brazil,Mexico,2,0,2132,1796,336,2.0
+2013-06-22,Mexico,Japan,2,1,1796,1764,32,2.0
+2013-06-26,Brazil,Uruguay,2,1,2132,1918,214,2.0
+2013-06-30,Brazil,Spain,3,0,2132,2102,30,2.0
+2013-07-07,Panama,Mexico,2,1,1699,1796,-97,2.0
+2013-07-11,Mexico,Canada,2,0,1796,1487,309,2.0
+2013-07-14,Canada,Panama,0,0,1487,1699,-212,1.0
+2013-07-20,South Korea,Australia,0,0,1686,1728,-42,1.0
+2013-07-24,Panama,Mexico,2,1,1699,1796,-97,2.0
+2013-07-25,Japan,Australia,3,2,1764,1728,36,2.0
+2013-07-28,South Korea,Japan,1,2,1686,1764,-78,0.0
+2013-07-28,United States,Panama,1,0,1862,1699,163,2.0
+2013-08-14,Japan,Uruguay,2,4,1764,1918,-154,0.0
+2013-08-14,Turkey,Ghana,2,2,1712,1697,15,1.0
+2013-08-14,Mexico,Ivory Coast,4,1,1796,1774,22,2.0
+2013-08-14,Bosnia and Herzegovina,United States,3,4,1783,1862,-79,0.0
+2013-08-14,Switzerland,Brazil,1,0,1850,2132,-282,2.0
+2013-08-14,Germany,Paraguay,3,3,2086,1701,385,1.0
+2013-08-14,Ecuador,Spain,0,2,1836,2102,-266,0.0
+2013-08-14,England,Scotland,3,2,1933,1698,235,2.0
+2013-08-14,Belgium,France,0,0,1834,1881,-47,1.0
+2013-08-14,Portugal,Netherlands,1,1,1931,2003,-72,1.0
+2013-08-14,Sweden,Norway,4,2,1826,1625,201,2.0
+2013-09-05,Saudi Arabia,New Zealand,0,1,1482,1547,-65,0.0
+2013-09-06,South Korea,Haiti,4,1,1686,1430,256,2.0
+2013-09-06,Jordan,Uzbekistan,1,1,1573,1650,-77,1.0
+2013-09-06,Colombia,Ecuador,1,0,1933,1836,97,2.0
+2013-09-06,Scotland,Belgium,0,2,1698,1834,-136,0.0
+2013-09-06,Germany,Austria,3,0,2086,1662,424,2.0
+2013-09-07,Brazil,Australia,6,0,2132,1728,404,2.0
+2013-09-07,Tunisia,Cape Verde,0,2,1503,1506,-3,0.0
+2013-09-07,Ivory Coast,Morocco,1,1,1774,1530,244,1.0
+2013-09-10,Japan,Ghana,3,1,1764,1697,67,2.0
+2013-09-10,South Korea,Croatia,1,2,1686,1805,-119,0.0
+2013-09-10,Uzbekistan,Jordan,1,1,1650,1573,77,1.0
+2013-09-10,United States,Mexico,2,0,1862,1796,66,2.0
+2013-09-10,Uruguay,Colombia,2,0,1918,1933,-15,2.0
+2013-09-10,Paraguay,Argentina,2,5,1701,2020,-319,0.0
+2013-09-10,Brazil,Portugal,3,1,2132,1931,201,2.0
+2013-09-10,Norway,Switzerland,0,2,1625,1850,-225,0.0
+2013-10-11,France,Australia,6,0,1881,1728,153,2.0
+2013-10-11,Morocco,South Africa,1,1,1530,1573,-43,1.0
+2013-10-11,Mexico,Panama,2,1,1796,1699,97,2.0
+2013-10-11,Ecuador,Uruguay,1,0,1836,1918,-82,2.0
+2013-10-11,Sweden,Austria,2,1,1826,1662,164,2.0
+2013-10-11,Croatia,Belgium,1,2,1805,1834,-29,0.0
+2013-10-12,South Korea,Brazil,0,2,1686,2132,-446,0.0
+2013-10-12,Ivory Coast,Senegal,3,1,1774,1567,207,2.0
+2013-10-15,Australia,Canada,3,0,1728,1487,241,2.0
+2013-10-15,Saudi Arabia,Iraq,2,0,1482,1520,-38,2.0
+2013-10-15,Ghana,Egypt,6,1,1697,1668,29,2.0
+2013-10-15,Panama,United States,2,3,1699,1862,-163,0.0
+2013-10-15,Uruguay,Argentina,3,2,1918,2020,-102,2.0
+2013-10-15,Paraguay,Colombia,1,2,1701,1933,-232,0.0
+2013-10-15,Scotland,Croatia,2,0,1698,1805,-107,2.0
+2013-10-15,Turkey,Netherlands,0,2,1712,2003,-291,0.0
+2013-10-15,Sweden,Germany,3,5,1826,2086,-260,0.0
+2013-11-13,Jordan,Uruguay,0,5,1573,1918,-345,0.0
+2013-11-13,Mexico,New Zealand,5,1,1796,1547,249,2.0
+2013-11-14,Belgium,Colombia,0,2,1834,1933,-99,0.0
+2013-11-15,South Korea,Switzerland,2,1,1686,1850,-164,2.0
+2013-11-15,Saudi Arabia,Iraq,2,1,1482,1520,-38,2.0
+2013-11-15,Scotland,United States,0,0,1698,1862,-164,1.0
+2013-11-15,Czechia,Canada,2,0,1760,1487,273,2.0
+2013-11-15,Argentina,Ecuador,0,0,2020,1836,184,1.0
+2013-11-15,Portugal,Sweden,1,0,1931,1826,105,2.0
+2013-11-16,Japan,Netherlands,2,2,1764,2003,-239,1.0
+2013-11-16,Ivory Coast,Senegal,1,1,1774,1567,207,1.0
+2013-11-18,Argentina,Bosnia and Herzegovina,2,0,2020,1783,237,2.0
+2013-11-19,Belgium,Japan,2,3,1834,1764,70,0.0
+2013-11-19,Egypt,Ghana,2,1,1668,1697,-29,2.0
+2013-11-19,South Africa,Spain,1,0,1573,2102,-529,2.0
+2013-11-19,Austria,United States,1,0,1662,1862,-200,2.0
+2013-11-19,Netherlands,Colombia,0,0,2003,1933,70,1.0
+2013-11-19,Norway,Scotland,0,1,1625,1698,-73,0.0
+2013-11-19,England,Germany,0,1,1933,2086,-153,0.0
+2013-11-19,Sweden,Portugal,2,3,1826,1931,-105,0.0
+2013-11-20,Uruguay,Jordan,0,0,1918,1573,345,1.0
+2013-11-20,New Zealand,Mexico,2,4,1547,1796,-249,0.0
+2013-12-31,Qatar,Saudi Arabia,4,1,1501,1482,19,2.0
+2014-01-07,Qatar,Jordan,2,0,1614,1537,77,2.0
+2014-01-29,Mexico,South Korea,4,0,1892,1633,259,2.0
+2014-02-01,United States,South Korea,2,0,1813,1633,180,2.0
+2014-03-05,Japan,New Zealand,4,2,1728,1517,211,2.0
+2014-03-05,Ecuador,Australia,4,3,1847,1652,195,2.0
+2014-03-05,Egypt,Bosnia and Herzegovina,2,0,1598,1710,-112,2.0
+2014-03-05,South Africa,Brazil,0,5,1627,2041,-414,0.0
+2014-03-05,Colombia,Tunisia,1,1,2019,1596,423,1.0
+2014-03-05,Belgium,Ivory Coast,2,2,1897,1688,209,1.0
+2014-03-05,Austria,Uruguay,1,1,1714,1907,-193,1.0
+2014-03-05,France,Netherlands,2,0,1965,2029,-64,2.0
+2014-03-05,Switzerland,Croatia,2,2,1791,1824,-33,1.0
+2014-03-05,Turkey,Sweden,2,1,1684,1783,-99,2.0
+2014-03-05,Czechia,Norway,2,2,1804,1625,179,1.0
+2014-04-02,United States,Mexico,2,2,1813,1892,-79,1.0
+2014-05-17,Netherlands,Ecuador,1,1,2029,1847,182,1.0
+2014-05-26,Australia,South Africa,1,1,1652,1627,25,1.0
+2014-05-27,France,Norway,4,0,1965,1625,340,2.0
+2014-05-28,South Korea,Tunisia,0,1,1633,1596,37,0.0
+2014-05-30,New Zealand,South Africa,0,0,1517,1627,-110,1.0
+2014-05-30,Bosnia and Herzegovina,Ivory Coast,2,1,1710,1688,22,2.0
+2014-05-31,Netherlands,Ghana,1,0,2029,1678,351,2.0
+2014-05-31,Colombia,Senegal,2,2,2019,1638,381,1.0
+2014-05-31,Mexico,Ecuador,3,1,1892,1847,45,2.0
+2014-06-01,United States,Turkey,2,1,1813,1684,129,2.0
+2014-06-01,France,Paraguay,1,1,1965,1684,281,1.0
+2014-06-01,Sweden,Belgium,0,2,1783,1897,-114,0.0
+2014-06-03,Bosnia and Herzegovina,Mexico,1,0,1710,1892,-182,2.0
+2014-06-03,Brazil,Panama,4,0,2041,1712,329,2.0
+2014-06-03,Czechia,Austria,1,2,1804,1714,90,0.0
+2014-06-04,Ecuador,England,2,2,1847,1923,-76,1.0
+2014-06-06,Croatia,Australia,1,0,1824,1652,172,2.0
+2014-06-06,Colombia,Jordan,3,0,2019,1537,482,2.0
+2014-06-06,Portugal,Mexico,1,0,1910,1892,18,2.0
+2014-06-07,Belgium,Tunisia,1,0,1897,1596,301,2.0
+2014-06-09,Ghana,South Korea,4,0,1678,1633,45,2.0
+2014-06-12,Brazil,Croatia,3,1,2041,1824,217,2.0
+2014-06-13,Netherlands,Spain,5,1,2029,1952,77,2.0
+2014-06-14,Ivory Coast,Japan,2,1,1688,1728,-40,2.0
+2014-06-15,Argentina,Bosnia and Herzegovina,2,1,2050,1710,340,2.0
+2014-06-15,Switzerland,Ecuador,2,1,1791,1847,-56,2.0
+2014-06-16,United States,Ghana,2,1,1813,1678,135,2.0
+2014-06-16,Germany,Portugal,4,0,2133,1910,223,2.0
+2014-06-17,Belgium,Algeria,2,1,1897,1672,225,2.0
+2014-06-17,Brazil,Mexico,0,0,2041,1892,149,1.0
+2014-06-18,Netherlands,Australia,3,2,2029,1652,377,2.0
+2014-06-19,Colombia,Ivory Coast,2,1,2019,1688,331,2.0
+2014-06-19,Uruguay,England,2,1,1907,1923,-16,2.0
+2014-06-20,France,Switzerland,5,2,1965,1791,174,2.0
+2014-06-21,Argentina,Iran,1,0,2050,1673,377,2.0
+2014-06-21,Germany,Ghana,2,2,2133,1678,455,1.0
+2014-06-22,Algeria,South Korea,4,2,1672,1633,39,2.0
+2014-06-22,Portugal,United States,2,2,1910,1813,97,1.0
+2014-06-23,Spain,Australia,3,0,1952,1652,300,2.0
+2014-06-23,Mexico,Croatia,3,1,1892,1824,68,2.0
+2014-06-24,Colombia,Japan,4,1,2019,1728,291,2.0
+2014-06-25,Bosnia and Herzegovina,Iran,3,1,1710,1673,37,2.0
+2014-06-25,Ecuador,France,0,0,1847,1965,-118,1.0
+2014-06-26,Belgium,South Korea,1,0,1897,1633,264,2.0
+2014-06-26,Portugal,Ghana,2,1,1910,1678,232,2.0
+2014-06-26,Germany,United States,1,0,2133,1813,320,2.0
+2014-06-28,Colombia,Uruguay,2,0,2019,1907,112,2.0
+2014-06-29,Netherlands,Mexico,2,1,2029,1892,137,2.0
+2014-06-30,Germany,Algeria,2,1,2133,1672,461,2.0
+2014-07-01,Belgium,United States,2,1,1897,1813,84,2.0
+2014-07-01,Argentina,Switzerland,1,0,2050,1791,259,2.0
+2014-07-04,Brazil,Colombia,2,1,2041,2019,22,2.0
+2014-07-04,Germany,France,1,0,2133,1965,168,2.0
+2014-07-05,Argentina,Belgium,1,0,2050,1897,153,2.0
+2014-07-08,Brazil,Germany,1,7,2041,2133,-92,0.0
+2014-07-09,Argentina,Netherlands,0,0,2050,2029,21,1.0
+2014-07-12,Brazil,Netherlands,0,3,2041,2029,12,0.0
+2014-07-13,Germany,Argentina,1,0,2133,2050,83,2.0
+2014-09-03,Morocco,Qatar,0,0,1544,1614,-70,1.0
+2014-09-03,Czechia,United States,0,1,1804,1813,-9,0.0
+2014-09-03,Germany,Argentina,2,4,2133,2050,83,0.0
+2014-09-03,England,Norway,1,0,1923,1625,298,2.0
+2014-09-04,Belgium,Australia,2,0,1897,1652,245,2.0
+2014-09-04,Uzbekistan,Jordan,2,0,1649,1537,112,2.0
+2014-09-04,France,Spain,1,0,1965,1952,13,2.0
+2014-09-05,Japan,Uruguay,0,2,1728,1907,-179,0.0
+2014-09-05,Senegal,Egypt,2,0,1638,1598,40,2.0
+2014-09-05,Brazil,Colombia,1,0,2041,2019,22,2.0
+2014-09-07,Germany,Scotland,2,1,2133,1722,411,2.0
+2014-09-08,Australia,Saudi Arabia,3,2,1652,1472,180,2.0
+2014-09-08,South Korea,Uruguay,0,1,1633,1907,-274,0.0
+2014-09-08,Uzbekistan,New Zealand,3,1,1649,1517,132,2.0
+2014-09-08,Switzerland,England,0,2,1791,1923,-132,0.0
+2014-09-08,Austria,Sweden,1,1,1714,1783,-69,1.0
+2014-09-09,Brazil,Ecuador,1,0,2041,1847,194,2.0
+2014-09-09,Czechia,Netherlands,2,1,1804,2029,-225,2.0
+2014-09-10,Egypt,Tunisia,0,1,1598,1596,2,0.0
+2014-10-06,Qatar,Uzbekistan,3,0,1614,1649,-35,2.0
+2014-10-10,South Korea,Paraguay,2,0,1633,1684,-51,2.0
+2014-10-10,Saudi Arabia,Uruguay,1,1,1472,1907,-435,1.0
+2014-10-10,Senegal,Tunisia,0,0,1638,1596,42,1.0
+2014-10-10,United States,Ecuador,1,1,1813,1847,-34,1.0
+2014-10-10,Turkey,Czechia,1,2,1684,1804,-120,0.0
+2014-10-11,DR Congo,Ivory Coast,1,2,1469,1688,-219,0.0
+2014-10-11,Brazil,Argentina,2,0,2041,2050,-9,2.0
+2014-10-11,France,Portugal,2,1,1965,1910,55,2.0
+2014-10-12,Mexico,Panama,1,0,1892,1712,180,2.0
+2014-10-13,Bosnia and Herzegovina,Belgium,1,1,1710,1897,-187,1.0
+2014-10-14,Brazil,Japan,4,0,2041,1728,313,2.0
+2014-10-14,Qatar,Australia,1,0,1614,1652,-38,2.0
+2014-10-14,Colombia,Canada,1,0,2019,1508,511,2.0
+2014-10-15,Ivory Coast,DR Congo,3,4,1688,1469,219,0.0
+2014-10-15,Tunisia,Senegal,1,0,1596,1638,-42,2.0
+2014-11-12,Netherlands,Mexico,2,3,2029,1892,137,0.0
+2014-11-12,Argentina,Croatia,2,1,2050,1824,226,2.0
+2014-11-12,Turkey,Brazil,0,4,1684,2041,-357,0.0
+2014-11-13,Saudi Arabia,Qatar,1,1,1472,1614,-142,1.0
+2014-11-14,Jordan,South Korea,0,1,1537,1633,-96,0.0
+2014-11-14,Colombia,United States,2,1,2019,1813,206,2.0
+2014-11-15,Egypt,Senegal,0,1,1598,1638,-40,0.0
+2014-11-18,Japan,Australia,2,1,1728,1652,76,2.0
+2014-11-18,Iran,South Korea,1,0,1673,1633,40,2.0
+2014-11-18,Panama,Canada,0,0,1712,1508,204,1.0
+2014-11-18,Portugal,Argentina,1,0,1910,2050,-140,2.0
+2014-11-18,Austria,Brazil,1,2,1714,2041,-327,0.0
+2014-11-18,Scotland,England,1,3,1722,1923,-201,0.0
+2014-11-18,France,Sweden,1,0,1965,1783,182,2.0
+2014-11-18,Spain,Germany,0,1,1952,2133,-181,0.0
+2014-11-19,Tunisia,Egypt,2,1,1596,1598,-2,2.0
+2014-11-26,Saudi Arabia,Qatar,1,2,1472,1614,-142,0.0
+2014-12-21,Uzbekistan,Jordan,2,1,1649,1537,112,2.0
+2014-12-25,Uzbekistan,Iraq,1,0,1649,1512,137,2.0
+2014-12-28,Iraq,Uzbekistan,0,0,1512,1649,-137,1.0
+2015-01-04,Iran,Iraq,1,0,1728,1512,216,2.0
+2015-01-04,South Korea,Saudi Arabia,2,0,1789,1513,276,2.0
+2015-01-11,Tunisia,Algeria,1,1,1546,1663,-117,1.0
+2015-01-12,Iraq,Jordan,1,0,1512,1531,-19,2.0
+2015-01-15,Iran,Qatar,1,0,1728,1569,159,2.0
+2015-01-15,Sweden,Ivory Coast,2,0,1765,1733,32,2.0
+2015-01-16,Japan,Iraq,1,0,1750,1512,238,2.0
+2015-01-17,Australia,South Korea,0,1,1703,1789,-86,0.0
+2015-01-18,Uzbekistan,Saudi Arabia,3,1,1650,1513,137,2.0
+2015-01-18,Cape Verde,Tunisia,1,1,1541,1546,-5,1.0
+2015-01-19,Algeria,South Africa,3,1,1663,1579,84,2.0
+2015-01-19,Senegal,Ghana,2,1,1642,1641,1,2.0
+2015-01-20,Japan,Jordan,2,0,1750,1531,219,2.0
+2015-01-22,South Korea,Uzbekistan,2,0,1789,1650,139,2.0
+2015-01-22,Cape Verde,DR Congo,0,0,1541,1504,37,1.0
+2015-01-23,Iran,Iraq,3,3,1728,1512,216,1.0
+2015-01-23,Senegal,South Africa,1,1,1642,1579,63,1.0
+2015-01-23,Ghana,Algeria,1,0,1641,1663,-22,2.0
+2015-01-26,South Korea,Iraq,2,0,1789,1512,277,2.0
+2015-01-26,DR Congo,Tunisia,1,1,1504,1546,-42,1.0
+2015-01-27,Ghana,South Africa,2,1,1641,1579,62,2.0
+2015-01-27,Algeria,Senegal,2,0,1663,1642,21,2.0
+2015-01-31,Australia,South Korea,2,1,1703,1789,-86,2.0
+2015-02-01,Ivory Coast,Algeria,3,1,1733,1663,70,2.0
+2015-02-04,Ivory Coast,DR Congo,3,1,1733,1504,229,2.0
+2015-02-08,Ghana,Ivory Coast,0,0,1641,1733,-92,1.0
+2015-02-08,United States,Panama,2,0,1758,1682,76,2.0
+2015-03-25,Germany,Australia,2,2,2068,1703,365,1.0
+2015-03-26,Qatar,Algeria,1,0,1569,1663,-94,2.0
+2015-03-26,France,Brazil,1,3,1953,2038,-85,0.0
+2015-03-27,Japan,Tunisia,2,0,1750,1546,204,2.0
+2015-03-27,South Korea,Uzbekistan,1,1,1789,1650,139,1.0
+2015-03-28,Iraq,DR Congo,2,1,1512,1504,8,2.0
+2015-03-28,Senegal,Ghana,2,1,1642,1641,1,2.0
+2015-03-28,Morocco,Uruguay,0,1,1528,1946,-418,0.0
+2015-03-28,Mexico,Ecuador,1,0,1906,1914,-8,2.0
+2015-03-28,Netherlands,Turkey,1,1,1897,1804,93,1.0
+2015-03-28,Croatia,Norway,5,1,1813,1625,188,2.0
+2015-03-30,Saudi Arabia,Jordan,2,1,1513,1531,-18,2.0
+2015-03-31,Japan,Uzbekistan,5,1,1750,1650,100,2.0
+2015-03-31,Sweden,Iran,3,1,1765,1728,37,2.0
+2015-03-31,South Korea,New Zealand,1,0,1789,1519,270,2.0
+2015-03-31,Iraq,DR Congo,1,0,1512,1504,8,2.0
+2015-03-31,Portugal,Cape Verde,0,2,1918,1541,377,0.0
+2015-03-31,Switzerland,United States,1,1,1808,1758,50,1.0
+2015-03-31,Mexico,Paraguay,1,0,1906,1727,179,2.0
+2015-03-31,Argentina,Ecuador,2,1,2023,1914,109,2.0
+2015-03-31,Austria,Bosnia and Herzegovina,1,1,1801,1722,79,1.0
+2015-03-31,Netherlands,Spain,2,0,1897,2001,-104,2.0
+2015-04-15,United States,Mexico,2,0,1758,1906,-148,2.0
+2015-06-03,Panama,Ecuador,1,1,1682,1914,-232,1.0
+2015-06-05,Scotland,Qatar,1,0,1698,1569,129,2.0
+2015-06-05,Netherlands,United States,3,4,1897,1758,139,0.0
+2015-06-06,Ecuador,Panama,4,0,1914,1682,232,2.0
+2015-06-07,Brazil,Mexico,2,0,2038,1906,132,2.0
+2015-06-07,France,Belgium,3,4,1953,1927,26,0.0
+2015-06-08,Norway,Sweden,0,0,1625,1765,-140,1.0
+2015-06-10,Germany,United States,1,2,2068,1758,310,0.0
+2015-06-11,Japan,Iraq,4,0,1750,1512,238,2.0
+2015-06-11,Uzbekistan,Iran,0,1,1650,1728,-78,0.0
+2015-06-13,Argentina,Paraguay,2,2,2023,1727,296,1.0
+2015-06-16,Argentina,Uruguay,1,0,2023,1946,77,2.0
+2015-06-17,Colombia,Brazil,1,0,1954,2038,-84,2.0
+2015-06-19,Ecuador,Mexico,2,1,1914,1906,8,2.0
+2015-06-20,Paraguay,Uruguay,1,1,1727,1946,-219,1.0
+2015-06-26,Argentina,Colombia,0,0,2023,1954,69,1.0
+2015-06-27,Brazil,Paraguay,1,1,2038,1727,311,1.0
+2015-06-30,Argentina,Paraguay,6,1,2023,1727,296,2.0
+2015-07-07,Haiti,Panama,1,1,1475,1682,-207,1.0
+2015-07-10,United States,Haiti,1,0,1758,1475,283,2.0
+2015-07-13,United States,Panama,1,1,1758,1682,76,1.0
+2015-07-22,Mexico,Panama,2,1,1906,1682,224,2.0
+2015-07-25,United States,Panama,1,1,1758,1682,76,1.0
+2015-08-05,Japan,South Korea,1,1,1750,1789,-39,1.0
+2015-09-03,Belgium,Bosnia and Herzegovina,3,1,1927,1722,205,2.0
+2015-09-04,Panama,Uruguay,0,1,1682,1946,-264,0.0
+2015-09-04,Portugal,France,0,1,1918,1953,-35,0.0
+2015-09-06,Turkey,Netherlands,3,0,1804,1897,-93,2.0
+2015-09-06,Norway,Croatia,2,0,1625,1813,-188,2.0
+2015-09-07,Scotland,Germany,2,3,1698,2068,-370,0.0
+2015-09-08,South Africa,Senegal,1,0,1579,1642,-63,2.0
+2015-09-08,United States,Brazil,1,4,1758,2038,-280,0.0
+2015-09-08,Argentina,Mexico,2,2,2023,1906,117,1.0
+2015-09-08,England,Switzerland,2,0,1958,1808,150,2.0
+2015-09-08,Sweden,Austria,1,4,1765,1801,-36,0.0
+2015-10-03,Jordan,Iraq,3,0,1531,1512,19,2.0
+2015-10-08,Jordan,Australia,2,0,1531,1703,-172,2.0
+2015-10-08,Argentina,Ecuador,0,2,2023,1914,109,0.0
+2015-10-09,Morocco,Ivory Coast,0,1,1528,1733,-205,0.0
+2015-10-10,United States,Mexico,2,3,1758,1906,-148,0.0
+2015-10-10,Czechia,Turkey,0,2,1765,1804,-39,0.0
+2015-10-13,Iran,Japan,1,1,1728,1750,-22,1.0
+2015-10-13,Canada,Ghana,1,1,1528,1641,-113,1.0
+2015-10-13,Algeria,Senegal,1,0,1663,1642,21,2.0
+2015-10-13,Mexico,Panama,1,0,1906,1682,224,2.0
+2015-10-13,Uruguay,Colombia,3,0,1946,1954,-8,2.0
+2015-10-13,Paraguay,Argentina,0,0,1727,2023,-296,1.0
+2015-10-13,Netherlands,Czechia,2,3,1897,1765,132,0.0
+2015-11-12,Ecuador,Uruguay,2,1,1914,1946,-32,2.0
+2015-11-13,Qatar,Turkey,1,2,1569,1804,-235,0.0
+2015-11-13,Argentina,Brazil,1,1,2023,2038,-15,1.0
+2015-11-13,Spain,England,2,0,2001,1958,43,2.0
+2015-11-13,France,Germany,2,0,1953,2068,-115,2.0
+2015-11-17,Colombia,Argentina,0,1,1954,2023,-69,0.0
+2015-11-17,England,France,2,0,1958,1953,5,2.0
+2015-11-17,Austria,Switzerland,1,2,1801,1808,-7,0.0
+2016-01-27,Egypt,Jordan,0,1,1656,1505,151,0.0
+2016-02-05,United States,Canada,1,0,1735,1516,219,2.0
+2016-03-24,Ecuador,Paraguay,2,2,1849,1701,148,1.0
+2016-03-24,Czechia,Scotland,0,1,1697,1669,28,0.0
+2016-03-24,Turkey,Sweden,2,1,1784,1766,18,2.0
+2016-03-25,Canada,Mexico,0,3,1516,1911,-395,0.0
+2016-03-25,Haiti,Panama,0,0,1475,1688,-213,1.0
+2016-03-25,Brazil,Uruguay,2,2,2087,1914,173,1.0
+2016-03-25,Netherlands,France,2,3,1888,2008,-120,0.0
+2016-03-26,Cape Verde,Morocco,0,1,1428,1600,-172,0.0
+2016-03-26,Germany,England,2,3,2037,1927,110,0.0
+2016-03-29,Australia,Jordan,5,1,1712,1505,207,2.0
+2016-03-29,Morocco,Cape Verde,2,0,1600,1428,172,2.0
+2016-03-29,Mexico,Canada,2,0,1911,1516,395,2.0
+2016-03-29,Panama,Haiti,1,0,1688,1475,213,2.0
+2016-03-29,Paraguay,Brazil,2,2,1701,2087,-386,1.0
+2016-03-29,Colombia,Ecuador,3,1,1929,1849,80,2.0
+2016-03-29,England,Netherlands,1,2,1927,1888,39,0.0
+2016-03-29,Austria,Turkey,1,2,1686,1784,-98,0.0
+2016-03-29,Portugal,Belgium,2,1,1929,1904,25,2.0
+2016-03-29,Switzerland,Bosnia and Herzegovina,0,2,1856,1755,101,0.0
+2016-03-29,Sweden,Czechia,1,1,1766,1697,69,1.0
+2016-05-22,England,Turkey,2,1,1927,1784,143,2.0
+2016-05-25,United States,Ecuador,1,0,1735,1849,-114,2.0
+2016-05-27,England,Australia,2,1,1927,1712,215,2.0
+2016-05-28,Mexico,Paraguay,1,0,1911,1701,210,2.0
+2016-05-28,Switzerland,Belgium,1,2,1856,1904,-48,0.0
+2016-05-29,Colombia,Haiti,3,1,1929,1475,454,2.0
+2016-05-29,Brazil,Panama,2,0,2087,1688,399,2.0
+2016-05-29,Portugal,Norway,3,0,1929,1576,353,2.0
+2016-05-29,Spain,Bosnia and Herzegovina,3,1,1978,1755,223,2.0
+2016-06-01,Spain,South Korea,6,1,1978,1790,188,2.0
+2016-06-02,England,Portugal,1,0,1927,1929,-2,2.0
+2016-06-03,United States,Colombia,0,2,1735,1929,-194,0.0
+2016-06-04,Brazil,Ecuador,0,0,2087,1849,238,1.0
+2016-06-04,France,Scotland,3,0,2008,1669,339,2.0
+2016-06-04,Austria,Netherlands,0,2,1686,1888,-202,0.0
+2016-06-05,Czechia,South Korea,1,2,1697,1790,-93,0.0
+2016-06-05,Mexico,Uruguay,3,1,1911,1914,-3,2.0
+2016-06-05,Belgium,Norway,3,2,1904,1576,328,2.0
+2016-06-07,Japan,Bosnia and Herzegovina,1,2,1754,1755,-1,0.0
+2016-06-07,Canada,Uzbekistan,2,1,1516,1668,-152,2.0
+2016-06-07,Colombia,Paraguay,2,1,1929,1701,228,2.0
+2016-06-08,Brazil,Haiti,7,1,2087,1475,612,2.0
+2016-06-10,Argentina,Panama,5,0,2045,1688,357,2.0
+2016-06-11,United States,Paraguay,1,0,1735,1701,34,2.0
+2016-06-12,Ecuador,Haiti,4,0,1849,1475,374,2.0
+2016-06-12,Croatia,Turkey,1,0,1886,1784,102,2.0
+2016-06-13,Spain,Czechia,1,0,1978,1697,281,2.0
+2016-06-16,United States,Ecuador,2,1,1735,1849,-114,2.0
+2016-06-17,Spain,Turkey,3,0,1978,1784,194,2.0
+2016-06-17,Croatia,Czechia,2,2,1886,1697,189,1.0
+2016-06-18,Austria,Portugal,0,0,1686,1929,-243,1.0
+2016-06-19,France,Switzerland,0,0,2008,1856,152,1.0
+2016-06-21,United States,Argentina,0,4,1735,2045,-310,0.0
+2016-06-21,Croatia,Spain,2,1,1886,1978,-92,2.0
+2016-06-21,Turkey,Czechia,2,0,1784,1697,87,2.0
+2016-06-22,Belgium,Sweden,1,0,1904,1766,138,2.0
+2016-06-25,United States,Colombia,0,1,1735,1929,-194,0.0
+2016-06-25,Portugal,Croatia,1,0,1929,1886,43,2.0
+2016-07-07,France,Germany,2,0,2008,2037,-29,2.0
+2016-07-10,France,Portugal,0,1,2008,1929,79,0.0
+2016-07-24,Uzbekistan,Iraq,2,1,1668,1475,193,2.0
+2016-08-08,Qatar,Iraq,2,1,1558,1475,83,2.0
+2016-08-18,Qatar,Jordan,3,2,1558,1505,53,2.0
+2016-09-01,Australia,Iraq,2,0,1712,1475,237,2.0
+2016-09-01,Iran,Qatar,2,0,1775,1558,217,2.0
+2016-09-01,Argentina,Uruguay,1,0,2045,1914,131,2.0
+2016-09-01,Ecuador,Brazil,0,3,1849,2087,-238,0.0
+2016-09-01,Belgium,Spain,0,2,1904,1978,-74,0.0
+2016-09-04,Norway,Germany,0,3,1576,2037,-461,0.0
+2016-09-05,Croatia,Turkey,1,1,1886,1784,102,1.0
+2016-09-06,Iraq,Saudi Arabia,1,2,1475,1580,-105,0.0
+2016-09-06,Qatar,Uzbekistan,0,1,1558,1668,-110,0.0
+2016-09-06,South Africa,Egypt,1,0,1611,1656,-45,2.0
+2016-09-06,Uruguay,Paraguay,4,0,1914,1701,213,2.0
+2016-09-06,Brazil,Colombia,2,1,2087,1929,158,2.0
+2016-09-06,Switzerland,Portugal,2,0,1856,1929,-73,2.0
+2016-09-06,Sweden,Netherlands,1,1,1766,1888,-122,1.0
+2016-10-06,Japan,Iraq,2,1,1754,1475,279,2.0
+2016-10-06,Saudi Arabia,Australia,2,2,1580,1712,-132,1.0
+2016-10-06,Uzbekistan,Iran,0,1,1668,1775,-107,0.0
+2016-10-06,South Korea,Qatar,3,2,1790,1558,232,2.0
+2016-10-06,Paraguay,Colombia,0,1,1701,1929,-228,0.0
+2016-10-07,Belgium,Bosnia and Herzegovina,4,0,1904,1755,149,2.0
+2016-10-08,Senegal,Cape Verde,2,0,1668,1428,240,2.0
+2016-10-08,Mexico,New Zealand,2,1,1911,1547,364,2.0
+2016-10-08,Germany,Czechia,3,0,2037,1697,340,2.0
+2016-10-10,Morocco,Jordan,2,1,1600,1505,95,2.0
+2016-10-10,Netherlands,France,0,1,1888,2008,-120,0.0
+2016-10-11,Australia,Japan,1,1,1712,1754,-42,1.0
+2016-10-11,Iran,South Korea,1,0,1775,1790,-15,2.0
+2016-10-11,South Africa,Ghana,1,1,1611,1590,21,1.0
+2016-10-11,Morocco,Canada,4,0,1600,1516,84,2.0
+2016-10-11,United States,New Zealand,1,1,1735,1547,188,1.0
+2016-10-11,Mexico,Panama,1,0,1911,1688,223,2.0
+2016-10-11,Colombia,Uruguay,2,2,1929,1914,15,1.0
+2016-10-11,Argentina,Paraguay,0,1,2045,1701,344,0.0
+2016-11-06,Jordan,Iraq,0,0,1505,1475,30,1.0
+2016-11-09,Netherlands,Belgium,1,1,1888,1904,-16,1.0
+2016-11-10,Uzbekistan,Jordan,1,0,1668,1505,163,2.0
+2016-11-10,Uruguay,Ecuador,2,1,1914,1849,65,2.0
+2016-11-10,Brazil,Argentina,3,0,2087,2045,42,2.0
+2016-11-11,South Korea,Canada,2,0,1790,1516,274,2.0
+2016-11-11,United States,Mexico,1,2,1735,1911,-176,0.0
+2016-11-11,England,Scotland,3,0,1927,1669,258,2.0
+2016-11-11,France,Sweden,2,1,2008,1766,242,2.0
+2016-11-11,Czechia,Norway,2,1,1697,1576,121,2.0
+2016-11-12,South Africa,Senegal,2,1,1611,1668,-57,2.0
+2016-11-12,Morocco,Ivory Coast,0,0,1600,1717,-117,1.0
+2016-11-13,Egypt,Ghana,2,0,1656,1590,66,2.0
+2016-11-15,Japan,Saudi Arabia,2,1,1754,1580,174,2.0
+2016-11-15,South Korea,Uzbekistan,2,1,1790,1668,122,2.0
+2016-11-15,France,Ivory Coast,0,0,2008,1717,291,1.0
+2016-11-15,Panama,Mexico,0,0,1688,1911,-223,1.0
+2016-11-15,Argentina,Colombia,3,0,2045,1929,116,2.0
+2016-11-15,England,Spain,2,2,1927,1978,-51,1.0
+2017-01-08,Egypt,Tunisia,1,0,1650,1618,32,2.0
+2017-01-08,Ivory Coast,Sweden,2,1,1601,1823,-222,2.0
+2017-01-15,Senegal,Tunisia,2,0,1746,1618,128,2.0
+2017-01-16,DR Congo,Morocco,1,0,1601,1688,-87,2.0
+2017-01-19,Tunisia,Algeria,2,1,1618,1535,83,2.0
+2017-01-20,DR Congo,Ivory Coast,2,2,1601,1601,0,1.0
+2017-01-23,Algeria,Senegal,2,2,1535,1746,-211,1.0
+2017-01-24,Morocco,Ivory Coast,1,0,1688,1601,87,2.0
+2017-01-25,Egypt,Ghana,1,0,1650,1613,37,2.0
+2017-01-25,Brazil,Colombia,1,0,2113,1926,187,2.0
+2017-01-29,Egypt,Morocco,1,0,1650,1688,-38,2.0
+2017-01-29,Ghana,DR Congo,2,1,1613,1601,12,2.0
+2017-03-18,Iran,Iraq,0,1,1800,1573,227,0.0
+2017-03-22,Scotland,Canada,1,1,1719,1523,196,1.0
+2017-03-22,Germany,England,1,0,2108,1932,176,2.0
+2017-03-23,Iraq,Australia,1,1,1573,1729,-156,1.0
+2017-03-23,Qatar,Iran,0,1,1455,1800,-345,0.0
+2017-03-23,Uruguay,Brazil,1,4,1866,2113,-247,0.0
+2017-03-23,Paraguay,Ecuador,2,1,1752,1746,6,2.0
+2017-03-27,Ivory Coast,Senegal,1,1,1601,1746,-145,1.0
+2017-03-28,Saudi Arabia,Iraq,1,0,1570,1573,-3,2.0
+2017-03-28,Uzbekistan,Qatar,1,0,1611,1455,156,2.0
+2017-03-28,Morocco,Tunisia,1,0,1688,1618,70,2.0
+2017-03-28,Panama,United States,1,1,1670,1751,-81,1.0
+2017-03-28,Brazil,Paraguay,3,0,2113,1752,361,2.0
+2017-03-28,Ecuador,Colombia,0,2,1746,1926,-180,0.0
+2017-03-28,France,Spain,0,2,1988,2030,-42,0.0
+2017-03-28,Portugal,Sweden,2,3,1993,1823,170,0.0
+2017-05-27,Croatia,Mexico,2,1,1856,1847,9,2.0
+2017-05-31,Morocco,Netherlands,1,2,1688,1895,-207,0.0
+2017-06-01,Iraq,Jordan,1,0,1573,1482,91,2.0
+2017-06-02,France,Paraguay,5,0,1988,1752,236,2.0
+2017-06-04,Netherlands,Ivory Coast,5,0,1895,1601,294,2.0
+2017-06-05,Belgium,Czechia,2,1,1926,1712,214,2.0
+2017-06-07,Iraq,South Korea,0,0,1573,1760,-187,1.0
+2017-06-07,Spain,Colombia,2,2,2030,1926,104,1.0
+2017-06-08,Australia,Saudi Arabia,3,2,1729,1570,159,2.0
+2017-06-09,Argentina,Brazil,1,0,1984,2113,-129,2.0
+2017-06-09,Sweden,France,2,1,1823,1988,-165,2.0
+2017-06-10,Scotland,England,2,2,1719,1932,-213,1.0
+2017-06-10,Norway,Czechia,1,1,1581,1712,-131,1.0
+2017-06-11,Tunisia,Egypt,1,0,1618,1650,-32,2.0
+2017-06-11,Mexico,United States,1,1,1847,1751,96,1.0
+2017-06-12,Iran,Uzbekistan,2,0,1800,1611,189,2.0
+2017-06-13,Iraq,Japan,1,1,1573,1706,-133,1.0
+2017-06-13,Australia,Brazil,0,4,1729,2113,-384,0.0
+2017-06-13,Qatar,South Korea,3,2,1455,1760,-305,2.0
+2017-06-13,Canada,Curaçao,2,1,1523,1266,257,2.0
+2017-06-13,France,England,3,2,1988,1932,56,2.0
+2017-06-13,Norway,Sweden,1,1,1581,1823,-242,1.0
+2017-06-18,Mexico,Portugal,2,2,1847,1993,-146,1.0
+2017-06-19,Germany,Australia,3,2,2108,1729,379,2.0
+2017-06-21,Mexico,New Zealand,2,1,1847,1524,323,2.0
+2017-06-24,Portugal,New Zealand,4,0,1993,1524,469,2.0
+2017-06-28,Mexico,Ghana,1,0,1847,1613,234,2.0
+2017-06-29,Germany,Mexico,4,1,2108,1847,261,2.0
+2017-07-01,United States,Ghana,2,1,1751,1613,138,2.0
+2017-07-01,Mexico,Paraguay,2,1,1847,1752,95,2.0
+2017-07-02,Portugal,Mexico,2,1,1993,1847,146,2.0
+2017-07-08,United States,Panama,1,1,1751,1670,81,1.0
+2017-07-16,Mexico,Curaçao,2,0,1847,1266,581,2.0
+2017-08-31,Japan,Australia,2,0,1706,1729,-23,2.0
+2017-08-31,South Korea,Iran,0,0,1760,1800,-40,1.0
+2017-08-31,Uruguay,Argentina,0,0,1866,1984,-118,1.0
+2017-08-31,Brazil,Ecuador,2,0,2113,1746,367,2.0
+2017-08-31,France,Netherlands,4,0,1988,1895,93,2.0
+2017-09-01,Cape Verde,South Africa,2,1,1424,1541,-117,2.0
+2017-09-01,Tunisia,DR Congo,2,1,1618,1601,17,2.0
+2017-09-01,Mexico,Panama,1,0,1847,1670,177,2.0
+2017-09-01,Czechia,Germany,1,2,1712,2108,-396,0.0
+2017-09-04,Germany,Norway,6,0,2108,1581,527,2.0
+2017-09-05,Saudi Arabia,Japan,1,0,1570,1706,-136,2.0
+2017-09-05,Uzbekistan,South Korea,0,0,1611,1760,-149,1.0
+2017-09-05,South Africa,Cape Verde,1,2,1541,1424,117,0.0
+2017-09-05,DR Congo,Tunisia,2,2,1601,1618,-17,1.0
+2017-09-05,Paraguay,Uruguay,1,2,1752,1866,-114,0.0
+2017-09-05,Colombia,Brazil,1,1,1926,2113,-187,1.0
+2017-09-05,Turkey,Croatia,1,0,1711,1856,-145,2.0
+2017-10-05,Colombia,Paraguay,1,2,1926,1752,174,0.0
+2017-10-06,Japan,New Zealand,2,1,1706,1524,182,2.0
+2017-10-06,United States,Panama,4,0,1751,1670,81,2.0
+2017-10-07,Cape Verde,Senegal,0,2,1424,1746,-322,0.0
+2017-10-07,Bosnia and Herzegovina,Belgium,3,4,1723,1926,-203,0.0
+2017-10-10,Japan,Haiti,3,3,1706,1493,213,1.0
+2017-10-10,Morocco,South Korea,3,1,1688,1760,-72,2.0
+2017-10-10,Saudi Arabia,Ghana,0,3,1570,1613,-43,0.0
+2017-10-10,Qatar,Curaçao,1,2,1455,1266,189,0.0
+2017-10-10,Ecuador,Argentina,1,3,1746,1984,-238,0.0
+2017-10-10,Portugal,Switzerland,2,0,1993,1865,128,2.0
+2017-10-10,Netherlands,Sweden,2,0,1895,1823,72,2.0
+2017-11-09,Iran,Panama,2,1,1800,1670,130,2.0
+2017-11-09,Scotland,Netherlands,0,1,1719,1895,-176,0.0
+2017-11-10,Brazil,Japan,3,1,2113,1706,407,2.0
+2017-11-10,South Korea,Colombia,2,1,1760,1926,-166,2.0
+2017-11-10,Portugal,Saudi Arabia,3,0,1993,1570,423,2.0
+2017-11-10,South Africa,Senegal,0,2,1541,1746,-205,0.0
+2017-11-10,Belgium,Mexico,3,3,1926,1847,79,1.0
+2017-11-10,England,Germany,0,0,1932,2108,-176,1.0
+2017-11-11,Qatar,Czechia,0,1,1455,1712,-257,0.0
+2017-11-11,Ivory Coast,Morocco,0,2,1601,1688,-87,0.0
+2017-11-12,Ghana,Egypt,1,1,1613,1650,-37,1.0
+2017-11-14,Belgium,Japan,1,0,1926,1706,220,2.0
+2017-11-14,Senegal,South Africa,2,1,1746,1541,205,2.0
+2017-11-14,Portugal,United States,1,1,1993,1751,242,1.0
+2017-11-14,Austria,Uruguay,2,1,1711,1866,-155,2.0
+2017-11-14,England,Brazil,0,0,1932,2113,-181,1.0
+2017-11-14,Germany,France,2,2,2108,1988,120,1.0
+2017-12-16,Japan,South Korea,1,4,1706,1760,-54,0.0
+2017-12-26,Iraq,Qatar,2,1,1573,1455,118,2.0
+2018-01-28,United States,Bosnia and Herzegovina,0,0,1742,1795,-53,1.0
+2018-01-31,Mexico,Bosnia and Herzegovina,1,0,1779,1795,-16,2.0
+2018-02-28,Iraq,Saudi Arabia,4,1,1582,1583,-1,2.0
+2018-03-21,Iraq,Qatar,2,3,1582,1522,60,0.0
+2018-03-23,Norway,Australia,4,1,1678,1736,-58,2.0
+2018-03-23,Tunisia,Iran,1,0,1646,1823,-177,2.0
+2018-03-23,Senegal,Uzbekistan,1,1,1755,1591,164,1.0
+2018-03-23,Portugal,Egypt,2,1,1958,1613,345,2.0
+2018-03-23,Uruguay,Czechia,2,0,1921,1728,193,2.0
+2018-03-23,France,Colombia,2,3,2092,1960,132,0.0
+2018-03-23,Netherlands,England,0,1,1985,1959,26,0.0
+2018-03-23,Germany,Spain,1,1,1937,2010,-73,1.0
+2018-03-24,Canada,New Zealand,1,0,1546,1502,44,2.0
+2018-03-26,Netherlands,Portugal,3,0,1985,1958,27,2.0
+2018-03-27,Australia,Colombia,0,0,1736,1960,-224,1.0
+2018-03-27,Iran,Algeria,2,1,1823,1541,282,2.0
+2018-03-27,Belgium,Saudi Arabia,4,0,2034,1583,451,2.0
+2018-03-27,Morocco,Uzbekistan,2,0,1728,1591,137,2.0
+2018-03-27,Bosnia and Herzegovina,Senegal,0,0,1795,1755,40,1.0
+2018-03-27,United States,Paraguay,1,0,1742,1723,19,2.0
+2018-03-27,Croatia,Mexico,1,0,1924,1779,145,2.0
+2018-03-27,Switzerland,Panama,6,0,1921,1566,355,2.0
+2018-03-27,Spain,Argentina,6,1,2010,1921,89,2.0
+2018-03-27,Germany,Brazil,0,1,1937,2136,-199,0.0
+2018-05-09,Saudi Arabia,Algeria,2,0,1583,1541,42,2.0
+2018-05-19,Iran,Uzbekistan,1,0,1823,1591,232,2.0
+2018-05-28,Turkey,Iran,2,1,1690,1823,-133,2.0
+2018-05-28,Portugal,Tunisia,2,2,1958,1646,312,1.0
+2018-05-29,Argentina,Haiti,4,0,1921,1512,409,2.0
+2018-05-30,Japan,Ghana,0,2,1730,1622,108,0.0
+2018-06-01,Australia,Czechia,4,0,1736,1728,8,2.0
+2018-06-01,South Korea,Bosnia and Herzegovina,1,3,1778,1795,-17,0.0
+2018-06-01,Colombia,Egypt,0,0,1960,1613,347,1.0
+2018-06-01,Tunisia,Turkey,2,2,1646,1690,-44,1.0
+2018-06-01,Algeria,Cape Verde,2,3,1541,1399,142,0.0
+2018-06-02,Mexico,Scotland,1,0,1779,1720,59,2.0
+2018-06-02,Austria,Germany,2,1,1765,1937,-172,2.0
+2018-06-02,Belgium,Portugal,0,0,2034,1958,76,1.0
+2018-06-03,Brazil,Croatia,2,0,2136,1924,212,2.0
+2018-06-03,Spain,Switzerland,1,1,2010,1921,89,1.0
+2018-06-06,Belgium,Egypt,3,0,2034,1613,421,2.0
+2018-06-06,Norway,Panama,1,0,1678,1566,112,2.0
+2018-06-07,Uruguay,Uzbekistan,3,0,1921,1591,330,2.0
+2018-06-07,Portugal,Algeria,3,0,1958,1541,417,2.0
+2018-06-08,Switzerland,Japan,2,0,1921,1730,191,2.0
+2018-06-08,Germany,Saudi Arabia,2,1,1937,1583,354,2.0
+2018-06-08,Croatia,Senegal,2,1,1924,1755,169,2.0
+2018-06-09,Spain,Tunisia,1,0,2010,1646,364,2.0
+2018-06-09,France,United States,1,1,2092,1742,350,1.0
+2018-06-10,Austria,Brazil,0,3,1765,2136,-371,0.0
+2018-06-11,Senegal,South Korea,2,0,1755,1778,-23,2.0
+2018-06-12,Japan,Paraguay,4,2,1730,1723,7,2.0
+2018-06-15,Iran,Morocco,1,0,1823,1728,95,2.0
+2018-06-15,Uruguay,Egypt,1,0,1921,1613,308,2.0
+2018-06-15,Portugal,Spain,3,3,1958,2010,-52,1.0
+2018-06-16,France,Australia,2,1,2092,1736,356,2.0
+2018-06-17,Mexico,Germany,1,0,1779,1937,-158,2.0
+2018-06-17,Brazil,Switzerland,1,1,2136,1921,215,1.0
+2018-06-18,Sweden,South Korea,1,0,1850,1778,72,2.0
+2018-06-18,England,Tunisia,2,1,1959,1646,313,2.0
+2018-06-18,Belgium,Panama,3,0,2034,1566,468,2.0
+2018-06-19,Japan,Colombia,2,1,1730,1960,-230,2.0
+2018-06-20,Spain,Iran,1,0,2010,1823,187,2.0
+2018-06-20,Uruguay,Saudi Arabia,1,0,1921,1583,338,2.0
+2018-06-20,Portugal,Morocco,1,0,1958,1728,230,2.0
+2018-06-21,Croatia,Argentina,3,0,1924,1921,3,2.0
+2018-06-23,Mexico,South Korea,2,1,1779,1778,1,2.0
+2018-06-23,Belgium,Tunisia,5,2,2034,1646,388,2.0
+2018-06-23,Germany,Sweden,2,1,1937,1850,87,2.0
+2018-06-24,Japan,Senegal,2,2,1730,1755,-25,1.0
+2018-06-24,England,Panama,6,1,1959,1566,393,2.0
+2018-06-25,Portugal,Iran,1,1,1958,1823,135,1.0
+2018-06-25,Saudi Arabia,Egypt,2,1,1583,1613,-30,2.0
+2018-06-25,Morocco,Spain,2,2,1728,2010,-282,1.0
+2018-06-27,South Korea,Germany,2,0,1778,1937,-159,2.0
+2018-06-27,Sweden,Mexico,3,0,1850,1779,71,2.0
+2018-06-28,Tunisia,Panama,2,1,1646,1566,80,2.0
+2018-06-28,Colombia,Senegal,1,0,1960,1755,205,2.0
+2018-06-28,Belgium,England,1,0,2034,1959,75,2.0
+2018-06-30,Uruguay,Portugal,2,1,1921,1958,-37,2.0
+2018-06-30,France,Argentina,4,3,2092,1921,171,2.0
+2018-07-02,Belgium,Japan,3,2,2034,1730,304,2.0
+2018-07-02,Brazil,Mexico,2,0,2136,1779,357,2.0
+2018-07-03,Colombia,England,1,1,1960,1959,1,1.0
+2018-07-03,Sweden,Switzerland,1,0,1850,1921,-71,2.0
+2018-07-06,France,Uruguay,2,0,2092,1921,171,2.0
+2018-07-06,Belgium,Brazil,2,1,2034,2136,-102,2.0
+2018-07-07,England,Sweden,2,0,1959,1850,109,2.0
+2018-07-10,France,Belgium,1,0,2092,2034,58,2.0
+2018-07-11,Croatia,England,2,1,1924,1959,-35,2.0
+2018-07-14,Belgium,England,2,0,2034,1959,75,2.0
+2018-07-15,France,Croatia,4,2,2092,1924,168,2.0
+2018-09-06,Austria,Sweden,2,0,1765,1850,-85,2.0
+2018-09-06,Germany,France,0,0,1937,2092,-155,1.0
+2018-09-06,Portugal,Croatia,1,1,1958,1924,34,1.0
+2018-09-07,United States,Brazil,0,2,1742,2136,-394,0.0
+2018-09-07,Uruguay,Mexico,4,1,1921,1779,142,2.0
+2018-09-07,Scotland,Belgium,0,4,1720,2034,-314,0.0
+2018-09-08,England,Spain,1,2,1959,2010,-51,0.0
+2018-09-09,France,Netherlands,2,1,2092,1985,107,2.0
+2018-09-10,Sweden,Turkey,2,3,1850,1690,160,0.0
+2018-09-11,Uzbekistan,Iran,0,1,1591,1823,-232,0.0
+2018-09-11,United States,Mexico,1,0,1742,1779,-37,2.0
+2018-09-11,Argentina,Colombia,0,0,1921,1960,-39,1.0
+2018-09-11,England,Switzerland,1,0,1959,1921,38,2.0
+2018-09-11,Bosnia and Herzegovina,Austria,1,0,1795,1765,30,2.0
+2018-09-11,Spain,Croatia,6,0,2010,1924,86,2.0
+2018-10-11,Argentina,Iraq,4,0,1921,1582,339,2.0
+2018-10-11,United States,Colombia,2,4,1742,1960,-218,0.0
+2018-10-11,Turkey,Bosnia and Herzegovina,0,0,1690,1795,-105,1.0
+2018-10-12,Japan,Panama,3,0,1730,1566,164,2.0
+2018-10-12,South Korea,Uruguay,2,1,1778,1921,-143,2.0
+2018-10-12,Saudi Arabia,Brazil,0,2,1583,2136,-553,0.0
+2018-10-12,Qatar,Ecuador,4,3,1522,1772,-250,2.0
+2018-10-12,Croatia,England,0,0,1924,1959,-35,1.0
+2018-10-12,Belgium,Switzerland,2,1,2034,1921,113,2.0
+2018-10-13,Netherlands,Germany,3,0,1985,1937,48,2.0
+2018-10-14,Scotland,Portugal,1,3,1720,1958,-238,0.0
+2018-10-15,Saudi Arabia,Iraq,1,1,1583,1582,1,1.0
+2018-10-15,Croatia,Jordan,2,1,1924,1448,476,2.0
+2018-10-15,Spain,England,2,3,2010,1959,51,0.0
+2018-10-16,Japan,Uruguay,4,3,1730,1921,-191,2.0
+2018-10-16,South Korea,Panama,2,2,1778,1566,212,1.0
+2018-10-16,Uzbekistan,Qatar,2,0,1591,1522,69,2.0
+2018-10-16,Brazil,Argentina,1,0,2136,1921,215,2.0
+2018-10-16,Belgium,Netherlands,1,1,2034,1985,49,1.0
+2018-10-16,France,Germany,2,1,2092,1937,155,2.0
+2018-11-14,Switzerland,Qatar,0,1,1921,1522,399,0.0
+2018-11-15,England,United States,3,0,1959,1742,217,2.0
+2018-11-15,Austria,Bosnia and Herzegovina,0,0,1765,1795,-30,1.0
+2018-11-15,Croatia,Spain,3,2,1924,2010,-86,2.0
+2018-11-16,Egypt,Tunisia,3,2,1613,1646,-33,2.0
+2018-11-16,Argentina,Mexico,2,0,1921,1779,142,2.0
+2018-11-16,Brazil,Uruguay,1,0,2136,1921,215,2.0
+2018-11-16,Netherlands,France,2,0,1985,2092,-107,2.0
+2018-11-17,Australia,South Korea,1,1,1736,1778,-42,1.0
+2018-11-17,Turkey,Sweden,0,1,1690,1850,-160,0.0
+2018-11-18,England,Croatia,2,1,1959,1924,35,2.0
+2018-11-18,Switzerland,Belgium,5,2,1921,2034,-113,2.0
+2018-11-18,Spain,Bosnia and Herzegovina,1,0,2010,1795,215,2.0
+2018-11-19,Germany,Netherlands,2,2,1937,1985,-48,1.0
+2018-11-20,South Korea,Uzbekistan,4,0,1778,1591,187,2.0
+2018-11-20,Jordan,Saudi Arabia,1,1,1448,1583,-135,1.0
+2018-11-20,South Africa,Paraguay,1,1,1548,1723,-175,1.0
+2018-11-20,Tunisia,Morocco,0,1,1646,1728,-82,0.0
+2018-11-20,Argentina,Mexico,2,0,1921,1779,142,2.0
+2018-11-20,Panama,Ecuador,1,2,1566,1772,-206,0.0
+2018-11-20,France,Uruguay,1,0,2092,1921,171,2.0
+2018-12-23,Qatar,Jordan,2,0,1522,1448,74,2.0
+2018-12-27,Qatar,Algeria,0,1,1522,1541,-19,0.0
+2018-12-31,Qatar,Iran,1,2,1522,1823,-301,0.0
+2018-12-31,Saudi Arabia,South Korea,0,0,1583,1778,-195,1.0
+2019-01-06,Jordan,Australia,1,0,1478,1713,-235,2.0
+2019-01-16,Iran,Iraq,0,0,1739,1623,116,1.0
+2019-01-17,Japan,Uzbekistan,2,1,1744,1579,165,2.0
+2019-01-17,Qatar,Saudi Arabia,2,0,1668,1554,114,2.0
+2019-01-21,Japan,Saudi Arabia,1,0,1744,1554,190,2.0
+2019-01-21,Australia,Uzbekistan,0,0,1713,1579,134,1.0
+2019-01-22,Qatar,Iraq,1,0,1668,1623,45,2.0
+2019-01-25,Qatar,South Korea,1,0,1668,1772,-104,2.0
+2019-01-27,United States,Panama,3,0,1720,1504,216,2.0
+2019-01-28,Japan,Iran,3,0,1744,1739,5,2.0
+2019-02-01,Qatar,Japan,3,1,1668,1744,-76,2.0
+2019-03-21,United States,Ecuador,1,0,1720,1726,-6,2.0
+2019-03-22,Japan,Colombia,0,1,1744,1985,-241,0.0
+2019-03-22,Uruguay,Uzbekistan,3,0,1965,1579,386,2.0
+2019-03-22,England,Czechia,5,0,1955,1735,220,2.0
+2019-03-23,Brazil,Panama,1,1,2081,1504,577,1.0
+2019-03-23,Spain,Norway,2,1,2027,1722,305,2.0
+2019-03-24,Netherlands,Germany,2,3,2017,1964,53,0.0
+2019-03-26,South Korea,Colombia,2,1,1772,1985,-213,2.0
+2019-03-26,Iraq,Jordan,3,2,1623,1478,145,2.0
+2019-03-26,Algeria,Tunisia,1,0,1742,1619,123,2.0
+2019-03-26,Morocco,Argentina,0,1,1659,1970,-311,0.0
+2019-03-26,Mexico,Paraguay,4,2,1901,1738,163,2.0
+2019-03-26,Czechia,Brazil,1,3,1735,2081,-346,0.0
+2019-03-26,Norway,Sweden,3,3,1722,1859,-137,1.0
+2019-06-02,Turkey,Uzbekistan,2,0,1778,1579,199,2.0
+2019-06-03,Colombia,Panama,3,0,1985,1504,481,2.0
+2019-06-05,Brazil,Qatar,2,0,2081,1668,413,2.0
+2019-06-05,Portugal,Switzerland,3,1,1986,1897,89,2.0
+2019-06-06,Netherlands,England,3,1,2017,1955,62,2.0
+2019-06-07,South Korea,Australia,1,0,1772,1713,59,2.0
+2019-06-07,Tunisia,Iraq,2,0,1619,1623,-4,2.0
+2019-06-07,Uruguay,Panama,3,0,1965,1504,461,2.0
+2019-06-08,Turkey,France,2,0,1778,2046,-268,2.0
+2019-06-09,Mexico,Ecuador,3,2,1901,1726,175,2.0
+2019-06-09,England,Switzerland,0,0,1955,1897,58,1.0
+2019-06-09,Portugal,Netherlands,1,0,1986,2017,-31,2.0
+2019-06-10,Spain,Sweden,3,0,2027,1859,168,2.0
+2019-06-11,South Korea,Iran,1,1,1772,1739,33,1.0
+2019-06-11,Croatia,Tunisia,1,2,1920,1619,301,0.0
+2019-06-11,Belgium,Scotland,3,0,2083,1639,444,2.0
+2019-06-15,Ghana,South Africa,0,0,1630,1531,99,1.0
+2019-06-15,Colombia,Argentina,2,0,1985,1970,15,2.0
+2019-06-16,Paraguay,Qatar,2,2,1738,1668,70,1.0
+2019-06-16,Uruguay,Ecuador,4,0,1965,1726,239,2.0
+2019-06-19,Colombia,Qatar,1,0,1985,1668,317,2.0
+2019-06-19,Mexico,Canada,3,1,1901,1603,298,2.0
+2019-06-19,Argentina,Paraguay,1,1,1970,1738,232,1.0
+2019-06-20,Japan,Uruguay,2,2,1744,1965,-221,1.0
+2019-06-23,Argentina,Qatar,2,0,1970,1668,302,2.0
+2019-06-23,Colombia,Paraguay,1,0,1985,1738,247,2.0
+2019-06-24,Ecuador,Japan,1,1,1726,1744,-18,1.0
+2019-06-24,Ivory Coast,South Africa,1,0,1615,1531,84,2.0
+2019-06-26,Egypt,DR Congo,2,0,1581,1502,79,2.0
+2019-06-26,United States,Panama,1,0,1720,1504,216,2.0
+2019-06-27,Algeria,Senegal,1,0,1742,1763,-21,2.0
+2019-06-27,Brazil,Paraguay,0,0,2081,1738,343,1.0
+2019-06-28,Morocco,Ivory Coast,1,0,1659,1615,44,2.0
+2019-06-29,Haiti,Canada,3,2,1557,1603,-46,2.0
+2019-06-30,United States,Curaçao,1,0,1720,1412,308,2.0
+2019-07-01,Morocco,South Africa,1,0,1659,1531,128,2.0
+2019-07-02,Mexico,Haiti,1,0,1901,1557,344,2.0
+2019-07-02,Brazil,Argentina,2,0,2081,1970,111,2.0
+2019-07-06,Egypt,South Africa,0,1,1581,1531,50,0.0
+2019-07-07,United States,Mexico,0,1,1720,1901,-181,0.0
+2019-07-08,Ghana,Tunisia,1,1,1630,1619,11,1.0
+2019-07-11,Algeria,Ivory Coast,1,1,1742,1615,127,1.0
+2019-07-14,Senegal,Tunisia,1,0,1763,1619,144,2.0
+2019-07-19,Algeria,Senegal,1,0,1742,1763,-21,2.0
+2019-08-10,Jordan,Saudi Arabia,3,0,1478,1554,-76,2.0
+2019-09-05,Japan,Paraguay,2,0,1744,1738,6,2.0
+2019-09-06,United States,Mexico,0,3,1720,1901,-181,0.0
+2019-09-06,Brazil,Colombia,2,2,2081,1985,96,1.0
+2019-09-06,Germany,Netherlands,2,4,1964,2017,-53,0.0
+2019-09-07,Curaçao,Haiti,1,0,1412,1557,-145,2.0
+2019-09-08,Sweden,Norway,1,1,1859,1722,137,1.0
+2019-09-09,Iraq,Uzbekistan,0,0,1623,1579,44,1.0
+2019-09-09,Scotland,Belgium,0,4,1639,2083,-444,0.0
+2019-09-10,Jordan,Paraguay,2,4,1478,1738,-260,0.0
+2019-09-10,Ivory Coast,Tunisia,2,1,1615,1619,-4,2.0
+2019-09-10,United States,Uruguay,1,1,1720,1965,-245,1.0
+2019-09-10,Argentina,Mexico,4,0,1970,1901,69,2.0
+2019-09-10,Haiti,Curaçao,1,1,1557,1412,145,1.0
+2019-10-09,Germany,Argentina,2,2,1964,1970,-6,1.0
+2019-10-10,Algeria,DR Congo,1,1,1742,1502,240,1.0
+2019-10-10,Brazil,Senegal,1,1,2081,1763,318,1.0
+2019-10-11,Czechia,England,2,1,1735,1955,-220,2.0
+2019-10-12,Norway,Spain,1,1,1722,2027,-305,1.0
+2019-10-13,Ivory Coast,DR Congo,3,1,1615,1502,113,2.0
+2019-10-13,Argentina,Ecuador,6,1,1970,1726,244,2.0
+2019-10-14,France,Turkey,1,1,2046,1778,268,1.0
+2019-10-15,Algeria,Colombia,3,0,1742,1985,-243,2.0
+2019-10-15,Canada,United States,2,0,1603,1720,-117,2.0
+2019-10-15,Mexico,Panama,3,1,1901,1504,397,2.0
+2019-10-15,Sweden,Spain,1,1,1859,2027,-168,1.0
+2019-11-14,Jordan,Australia,0,1,1478,1713,-235,0.0
+2019-11-14,Iraq,Iran,2,1,1623,1739,-116,2.0
+2019-11-14,Uzbekistan,Saudi Arabia,2,3,1579,1554,25,0.0
+2019-11-14,Ghana,South Africa,2,0,1630,1531,99,2.0
+2019-11-15,United States,Canada,4,1,1720,1603,117,2.0
+2019-11-15,Panama,Mexico,0,3,1504,1901,-397,0.0
+2019-11-15,Argentina,Brazil,1,0,1970,2081,-111,2.0
+2019-11-18,Argentina,Uruguay,2,2,1970,1965,5,1.0
+2019-11-19,Brazil,South Korea,3,0,2081,1772,309,2.0
+2019-11-19,Saudi Arabia,Paraguay,0,0,1554,1738,-184,1.0
+2019-11-19,Colombia,Ecuador,1,0,1985,1726,259,2.0
+2019-11-26,Qatar,Iraq,1,2,1668,1623,45,0.0
+2019-12-05,Qatar,Saudi Arabia,0,1,1668,1554,114,0.0
+2019-12-18,South Korea,Japan,1,0,1772,1744,28,2.0
+2020-09-03,Germany,Spain,1,1,1955,2049,-94,1.0
+2020-09-04,Norway,Austria,1,2,1763,1786,-23,0.0
+2020-09-05,Sweden,France,0,1,1820,2091,-271,0.0
+2020-09-05,Portugal,Croatia,4,1,2038,1860,178,2.0
+2020-09-06,Switzerland,Germany,1,1,1870,1955,-85,1.0
+2020-09-07,Czechia,Scotland,1,2,1760,1659,101,0.0
+2020-09-08,France,Croatia,4,2,2091,1860,231,2.0
+2020-09-08,Sweden,Portugal,0,2,1820,2038,-218,0.0
+2020-10-07,Netherlands,Mexico,0,1,1994,1928,66,0.0
+2020-10-07,Switzerland,Croatia,1,2,1870,1860,10,0.0
+2020-10-07,Germany,Turkey,3,3,1955,1752,203,1.0
+2020-10-07,Portugal,Spain,0,0,2038,2049,-11,1.0
+2020-10-08,Uzbekistan,Iran,1,2,1551,1763,-212,0.0
+2020-10-08,Belgium,Ivory Coast,1,1,2110,1617,493,1.0
+2020-10-08,Argentina,Ecuador,1,0,1994,1826,168,2.0
+2020-10-09,Morocco,Senegal,3,1,1681,1755,-74,2.0
+2020-10-10,Spain,Switzerland,1,0,2049,1870,179,2.0
+2020-10-11,England,Belgium,2,1,1961,2110,-149,2.0
+2020-10-11,France,Portugal,0,0,2091,2038,53,1.0
+2020-10-11,Bosnia and Herzegovina,Netherlands,0,0,1634,1994,-360,1.0
+2020-10-11,Croatia,Sweden,2,1,1860,1820,40,2.0
+2020-10-12,Ghana,Qatar,5,1,1603,1638,-35,2.0
+2020-10-13,Japan,Ivory Coast,1,0,1744,1617,127,2.0
+2020-10-13,Morocco,DR Congo,1,1,1681,1500,181,1.0
+2020-10-13,Algeria,Mexico,2,2,1747,1928,-181,1.0
+2020-10-13,Ecuador,Uruguay,4,2,1826,1952,-126,2.0
+2020-10-13,Germany,Switzerland,3,3,1955,1870,85,1.0
+2020-10-14,Scotland,Czechia,1,0,1659,1760,-101,2.0
+2020-10-14,Croatia,France,1,2,1860,2091,-231,0.0
+2020-10-14,Portugal,Sweden,3,0,2038,1820,218,2.0
+2020-11-11,Belgium,Switzerland,2,1,2110,1870,240,2.0
+2020-11-11,Netherlands,Spain,1,1,1994,2049,-55,1.0
+2020-11-11,Germany,Czechia,1,0,1955,1760,195,2.0
+2020-11-11,Turkey,Croatia,3,3,1752,1860,-108,1.0
+2020-11-12,Bosnia and Herzegovina,Iran,0,2,1634,1763,-129,0.0
+2020-11-12,Iraq,Jordan,0,0,1627,1492,135,1.0
+2020-11-12,Argentina,Paraguay,1,1,1994,1769,225,1.0
+2020-11-13,Japan,Panama,1,0,1744,1534,210,2.0
+2020-11-13,Colombia,Uruguay,0,3,1896,1952,-56,0.0
+2020-11-14,Mexico,South Korea,3,2,1928,1773,155,2.0
+2020-11-14,Portugal,France,0,1,2038,2091,-53,0.0
+2020-11-14,Switzerland,Spain,1,1,1870,2049,-179,1.0
+2020-11-14,Sweden,Croatia,2,1,1820,1860,-40,2.0
+2020-11-15,Belgium,England,2,0,2110,1961,149,2.0
+2020-11-15,Netherlands,Bosnia and Herzegovina,3,1,1994,1634,360,2.0
+2020-11-16,United States,Panama,6,2,1745,1534,211,2.0
+2020-11-17,Mexico,Japan,2,0,1928,1744,184,2.0
+2020-11-17,South Korea,Qatar,2,1,1773,1638,135,2.0
+2020-11-17,Iraq,Uzbekistan,2,1,1627,1551,76,2.0
+2020-11-17,Uruguay,Brazil,0,2,1952,2135,-183,0.0
+2020-11-17,Ecuador,Colombia,6,1,1826,1896,-70,2.0
+2020-11-17,France,Sweden,4,2,2091,1820,271,2.0
+2020-11-17,Spain,Germany,6,0,2049,1955,94,2.0
+2020-11-17,Croatia,Portugal,2,3,1860,2038,-178,0.0
+2020-11-18,Austria,Norway,1,1,1786,1763,23,1.0
+2021-02-15,Uzbekistan,Jordan,2,0,1524,1529,-5,2.0
+2021-03-24,Turkey,Netherlands,4,2,1726,1929,-203,2.0
+2021-03-25,Japan,South Korea,3,0,1760,1788,-28,2.0
+2021-03-25,South Africa,Ghana,1,1,1548,1600,-52,1.0
+2021-03-25,Scotland,Austria,2,2,1728,1730,-2,1.0
+2021-03-27,Czechia,Belgium,1,1,1833,2074,-241,1.0
+2021-03-27,Norway,Turkey,0,3,1733,1726,7,0.0
+2021-03-29,Uzbekistan,Iraq,0,1,1524,1551,-27,0.0
+2021-03-31,Bosnia and Herzegovina,France,0,1,1600,2114,-514,0.0
+2021-05-30,Switzerland,United States,2,1,1933,1858,75,2.0
+2021-06-02,Netherlands,Scotland,2,2,1929,1728,201,1.0
+2021-06-02,England,Austria,1,0,2031,1730,301,2.0
+2021-06-03,Uruguay,Paraguay,0,0,1847,1729,118,1.0
+2021-06-04,Brazil,Ecuador,2,0,2149,1849,300,2.0
+2021-06-04,Spain,Portugal,0,0,2036,1972,64,1.0
+2021-06-05,Tunisia,DR Congo,1,0,1638,1509,129,2.0
+2021-06-06,United States,Mexico,3,2,1858,1839,19,2.0
+2021-06-06,Belgium,Croatia,1,0,2074,1858,216,2.0
+2021-06-08,Morocco,Ghana,1,0,1764,1600,164,2.0
+2021-06-08,Senegal,Cape Verde,2,0,1702,1467,235,2.0
+2021-06-08,Colombia,Argentina,2,2,1904,2101,-197,1.0
+2021-06-08,Paraguay,Brazil,0,2,1729,2149,-420,0.0
+2021-06-11,Tunisia,Algeria,0,2,1638,1799,-161,0.0
+2021-06-12,Ghana,Ivory Coast,0,0,1600,1645,-45,1.0
+2021-06-12,Haiti,Canada,0,1,1526,1784,-258,0.0
+2021-06-12,Panama,Curaçao,2,1,1627,1404,223,2.0
+2021-06-13,Colombia,Ecuador,1,0,1904,1849,55,2.0
+2021-06-13,England,Croatia,1,0,2031,1858,173,2.0
+2021-06-14,Scotland,Czechia,0,2,1728,1833,-105,0.0
+2021-06-14,Spain,Sweden,0,0,2036,1820,216,1.0
+2021-06-15,Australia,Jordan,1,0,1735,1529,206,2.0
+2021-06-15,Iran,Iraq,1,0,1837,1551,286,2.0
+2021-06-15,Saudi Arabia,Uzbekistan,3,0,1629,1524,105,2.0
+2021-06-15,Canada,Haiti,3,0,1784,1526,258,2.0
+2021-06-15,Curaçao,Panama,0,0,1404,1627,-223,1.0
+2021-06-15,Germany,France,0,1,1962,2114,-152,0.0
+2021-06-17,Netherlands,Austria,2,0,1929,1730,199,2.0
+2021-06-18,Argentina,Uruguay,1,0,2101,1847,254,2.0
+2021-06-18,England,Scotland,0,0,2031,1728,303,1.0
+2021-06-18,Croatia,Czechia,1,1,1858,1833,25,1.0
+2021-06-19,Germany,Portugal,4,2,1962,1972,-10,2.0
+2021-06-20,Switzerland,Turkey,3,1,1933,1726,207,2.0
+2021-06-21,Argentina,Paraguay,1,0,2101,1729,372,2.0
+2021-06-22,Scotland,Croatia,1,3,1728,1858,-130,0.0
+2021-06-22,England,Czechia,1,0,2031,1833,198,2.0
+2021-06-23,Brazil,Colombia,2,1,2149,1904,245,2.0
+2021-06-23,France,Portugal,2,2,2114,1972,142,1.0
+2021-06-27,Brazil,Ecuador,1,1,2149,1849,300,1.0
+2021-06-27,Belgium,Portugal,1,0,2074,1972,102,2.0
+2021-06-27,Czechia,Netherlands,2,0,1833,1929,-96,2.0
+2021-06-28,Uruguay,Paraguay,1,0,1847,1729,118,2.0
+2021-06-28,France,Switzerland,3,3,2114,1933,181,1.0
+2021-06-28,Spain,Croatia,5,3,2036,1858,178,2.0
+2021-06-29,England,Germany,2,0,2031,1962,69,2.0
+2021-06-30,Mexico,Panama,3,0,1839,1627,212,2.0
+2021-07-02,Spain,Switzerland,1,1,2036,1933,103,1.0
+2021-07-03,Colombia,Uruguay,0,0,1904,1847,57,1.0
+2021-07-03,Argentina,Ecuador,3,0,2101,1849,252,2.0
+2021-07-06,Argentina,Colombia,1,1,2101,1904,197,1.0
+2021-07-10,Brazil,Argentina,0,1,2149,2101,48,0.0
+2021-07-11,United States,Haiti,1,0,1858,1526,332,2.0
+2021-07-13,Panama,Qatar,3,3,1627,1663,-36,1.0
+2021-07-15,Canada,Haiti,4,1,1784,1526,258,2.0
+2021-07-18,South Africa,Senegal,0,0,1548,1702,-154,1.0
+2021-07-18,United States,Canada,1,0,1858,1784,74,2.0
+2021-07-29,United States,Qatar,1,0,1858,1663,195,2.0
+2021-07-29,Mexico,Canada,2,1,1839,1784,55,2.0
+2021-08-01,United States,Mexico,1,0,1858,1839,19,2.0
+2021-09-01,France,Bosnia and Herzegovina,1,1,2114,1600,514,1.0
+2021-09-01,Norway,Netherlands,1,1,1733,1929,-196,1.0
+2021-09-02,South Korea,Iraq,0,0,1788,1551,237,1.0
+2021-09-02,Ecuador,Paraguay,2,0,1849,1729,120,2.0
+2021-09-02,Sweden,Spain,2,1,1820,2036,-216,2.0
+2021-09-04,Haiti,Jordan,2,0,1526,1529,-3,2.0
+2021-09-04,Portugal,Qatar,3,1,1972,1663,309,2.0
+2021-09-05,Sweden,Uzbekistan,2,1,1820,1524,296,2.0
+2021-09-05,United States,Canada,1,1,1858,1784,74,1.0
+2021-09-05,Paraguay,Colombia,1,1,1729,1904,-175,1.0
+2021-09-05,Belgium,Czechia,3,0,2074,1833,241,2.0
+2021-09-06,South Africa,Ghana,1,0,1548,1600,-52,2.0
+2021-09-07,Iran,Iraq,3,0,1837,1551,286,2.0
+2021-09-07,Austria,Scotland,0,1,1730,1728,2,0.0
+2021-09-07,Netherlands,Turkey,6,1,1929,1726,203,2.0
+2021-09-08,Panama,Mexico,1,1,1627,1839,-212,1.0
+2021-09-09,Uruguay,Ecuador,1,0,1847,1849,-2,2.0
+2021-10-07,Saudi Arabia,Japan,1,0,1629,1760,-131,2.0
+2021-10-07,Mexico,Canada,1,1,1839,1784,55,1.0
+2021-10-07,Uruguay,Colombia,0,0,1847,1904,-57,1.0
+2021-10-07,Paraguay,Argentina,0,0,1729,2101,-372,1.0
+2021-10-07,France,Belgium,3,2,2114,2074,40,2.0
+2021-10-08,Turkey,Norway,1,1,1726,1733,-7,1.0
+2021-10-09,Portugal,Qatar,3,0,1972,1663,309,2.0
+2021-10-09,New Zealand,Curaçao,2,1,1528,1404,124,2.0
+2021-10-10,Panama,United States,1,0,1627,1858,-231,2.0
+2021-10-10,Argentina,Uruguay,3,0,2101,1847,254,2.0
+2021-10-10,Colombia,Brazil,0,0,1904,2149,-245,1.0
+2021-10-10,France,Spain,2,1,2114,2036,78,2.0
+2021-10-12,Japan,Australia,2,1,1760,1735,25,2.0
+2021-10-12,Iran,South Korea,1,1,1837,1788,49,1.0
+2021-10-12,Jordan,Uzbekistan,3,0,1529,1524,5,2.0
+2021-10-13,Canada,Panama,4,1,1784,1627,157,2.0
+2021-10-14,Brazil,Uruguay,4,1,2149,1847,302,2.0
+2021-10-14,Colombia,Ecuador,0,0,1904,1849,55,1.0
+2021-10-27,Ecuador,Mexico,3,2,1849,1839,10,2.0
+2021-11-11,Australia,Saudi Arabia,0,0,1735,1629,106,1.0
+2021-11-11,Brazil,Colombia,1,0,2149,1904,245,2.0
+2021-11-12,United States,Mexico,2,0,1858,1839,19,2.0
+2021-11-12,Uruguay,Argentina,0,1,1847,2101,-254,0.0
+2021-11-14,Ghana,South Africa,1,0,1600,1548,52,2.0
+2021-11-14,Spain,Sweden,1,0,2036,1820,216,2.0
+2021-11-16,South Korea,Iraq,3,0,1788,1551,237,2.0
+2021-11-16,Canada,Mexico,2,1,1784,1839,-55,2.0
+2021-11-16,Argentina,Brazil,0,0,2101,2149,-48,1.0
+2021-11-16,Colombia,Paraguay,0,0,1904,1729,175,1.0
+2021-11-16,Netherlands,Norway,2,0,1929,1733,196,2.0
+2021-12-01,Jordan,Saudi Arabia,1,0,1529,1629,-100,2.0
+2021-12-04,Morocco,Jordan,4,0,1764,1529,235,2.0
+2021-12-06,Qatar,Iraq,3,0,1663,1551,112,2.0
+2021-12-07,Morocco,Saudi Arabia,1,0,1764,1629,135,2.0
+2021-12-07,Algeria,Egypt,1,1,1799,1658,141,1.0
+2021-12-11,Egypt,Jordan,3,1,1658,1529,129,2.0
+2021-12-11,Algeria,Morocco,2,2,1799,1764,35,1.0
+2021-12-15,Qatar,Algeria,1,2,1663,1799,-136,0.0
+2021-12-15,Tunisia,Egypt,1,0,1638,1658,-20,2.0
+2021-12-18,Qatar,Egypt,0,0,1663,1658,5,1.0
+2021-12-18,Algeria,Tunisia,2,0,1799,1638,161,2.0
+2021-12-18,United States,Bosnia and Herzegovina,1,0,1858,1600,258,2.0
+2022-01-05,Algeria,Ghana,3,0,1704,1593,111,2.0
+2022-01-10,Morocco,Ghana,1,0,1866,1593,273,2.0
+2022-01-20,Ivory Coast,Algeria,3,1,1667,1704,-37,2.0
+2022-01-25,Senegal,Cape Verde,2,0,1745,1481,264,2.0
+2022-01-26,Egypt,Ivory Coast,0,0,1660,1667,-7,1.0
+2022-01-27,Iran,Iraq,1,0,1780,1575,205,2.0
+2022-01-27,Paraguay,Uruguay,0,1,1727,1904,-177,0.0
+2022-01-27,Ecuador,Brazil,1,1,1842,2133,-291,1.0
+2022-01-28,Jordan,New Zealand,3,1,1590,1527,63,2.0
+2022-01-30,Egypt,Morocco,2,1,1660,1866,-206,2.0
+2022-01-30,Canada,United States,2,0,1711,1817,-106,2.0
+2022-02-01,Japan,Saudi Arabia,2,0,1851,1644,207,2.0
+2022-02-01,Argentina,Colombia,1,0,2144,1919,225,2.0
+2022-02-01,Brazil,Paraguay,4,0,2133,1727,406,2.0
+2022-02-02,Mexico,Panama,1,0,1812,1646,166,2.0
+2022-02-06,Egypt,Senegal,0,0,1660,1745,-85,1.0
+2022-03-24,Australia,Japan,0,2,1773,1851,-78,0.0
+2022-03-24,South Korea,Iran,2,0,1788,1780,8,2.0
+2022-03-24,Mexico,United States,0,0,1812,1817,-5,1.0
+2022-03-24,Paraguay,Ecuador,3,1,1727,1842,-115,2.0
+2022-03-24,Sweden,Czechia,1,0,1757,1778,-21,2.0
+2022-03-24,Portugal,Turkey,3,1,1998,1711,287,2.0
+2022-03-25,Egypt,Senegal,1,0,1660,1745,-85,2.0
+2022-03-25,DR Congo,Morocco,1,1,1453,1866,-413,1.0
+2022-03-25,France,Ivory Coast,2,1,2081,1667,414,2.0
+2022-03-26,England,Switzerland,2,1,1966,1878,88,2.0
+2022-03-27,United States,Panama,5,1,1817,1646,171,2.0
+2022-03-29,Saudi Arabia,Australia,1,0,1644,1773,-129,2.0
+2022-03-29,Senegal,Egypt,1,0,1745,1660,85,2.0
+2022-03-29,France,South Africa,5,0,2081,1540,541,2.0
+2022-03-29,Morocco,DR Congo,4,1,1866,1453,413,2.0
+2022-03-29,England,Ivory Coast,3,0,1966,1667,299,2.0
+2022-03-29,Ecuador,Argentina,1,1,1842,2144,-302,1.0
+2022-03-29,Austria,Scotland,2,2,1751,1751,0,1.0
+2022-03-29,Netherlands,Germany,1,1,2073,1955,118,1.0
+2022-03-30,Panama,Canada,1,0,1646,1711,-65,2.0
+2022-06-01,Australia,Jordan,2,1,1773,1590,183,2.0
+2022-06-01,United States,Morocco,3,0,1817,1866,-49,2.0
+2022-06-02,Japan,Paraguay,4,1,1851,1727,124,2.0
+2022-06-02,South Korea,Brazil,1,5,1788,2133,-345,0.0
+2022-06-02,Uruguay,Mexico,3,0,1904,1812,92,2.0
+2022-06-02,Czechia,Switzerland,2,1,1778,1878,-100,2.0
+2022-06-02,Spain,Portugal,1,1,1996,1998,-2,1.0
+2022-06-03,Croatia,Austria,0,3,1950,1751,199,0.0
+2022-06-03,Belgium,Netherlands,1,4,1947,2073,-126,0.0
+2022-06-05,Colombia,Saudi Arabia,1,0,1919,1644,275,2.0
+2022-06-05,United States,Uruguay,0,0,1817,1904,-87,1.0
+2022-06-05,Ecuador,Mexico,0,0,1842,1812,30,1.0
+2022-06-05,Portugal,Switzerland,4,0,1998,1878,120,2.0
+2022-06-05,Sweden,Norway,1,2,1757,1754,3,0.0
+2022-06-05,Czechia,Spain,2,2,1778,1996,-218,1.0
+2022-06-06,Japan,Brazil,0,1,1851,2133,-282,0.0
+2022-06-06,Croatia,France,1,1,1950,2081,-131,1.0
+2022-06-07,Germany,England,1,1,1955,1966,-11,1.0
+2022-06-09,Morocco,South Africa,2,1,1866,1540,326,2.0
+2022-06-09,Canada,Curaçao,4,0,1711,1362,349,2.0
+2022-06-09,Switzerland,Spain,0,1,1878,1996,-118,0.0
+2022-06-09,Portugal,Czechia,2,0,1998,1778,220,2.0
+2022-06-10,Japan,Ghana,4,1,1851,1593,258,2.0
+2022-06-10,South Korea,Paraguay,2,2,1788,1727,61,1.0
+2022-06-10,Austria,France,1,1,1751,2081,-330,1.0
+2022-06-11,Ecuador,Cape Verde,1,0,1842,1481,361,2.0
+2022-06-11,Uruguay,Panama,5,0,1904,1646,258,2.0
+2022-06-12,Algeria,Iran,2,1,1704,1780,-76,2.0
+2022-06-12,Switzerland,Portugal,1,0,1878,1998,-120,2.0
+2022-06-12,Norway,Sweden,3,2,1754,1757,-3,2.0
+2022-06-12,Spain,Czechia,2,0,1996,1778,218,2.0
+2022-06-13,France,Croatia,0,1,2081,1950,131,0.0
+2022-06-14,Japan,Tunisia,0,3,1851,1745,106,0.0
+2022-06-14,South Korea,Egypt,4,1,1788,1660,128,2.0
+2022-07-27,Japan,South Korea,3,0,1851,1788,63,2.0
+2022-08-31,Paraguay,Mexico,1,0,1727,1812,-85,2.0
+2022-09-22,Australia,New Zealand,1,0,1773,1527,246,2.0
+2022-09-22,France,Austria,2,0,2081,1751,330,2.0
+2022-09-23,Japan,United States,2,0,1851,1817,34,2.0
+2022-09-23,Iran,Uruguay,1,0,1780,1904,-124,2.0
+2022-09-23,Ecuador,Saudi Arabia,0,0,1842,1644,198,1.0
+2022-09-23,Canada,Qatar,2,0,1711,1577,134,2.0
+2022-09-23,Brazil,Ghana,3,0,2133,1593,540,2.0
+2022-09-24,Spain,Switzerland,1,2,1996,1878,118,0.0
+2022-09-24,Czechia,Portugal,0,4,1778,1998,-220,0.0
+2022-09-25,New Zealand,Australia,0,2,1527,1773,-246,0.0
+2022-09-25,Austria,Croatia,1,3,1751,1950,-199,0.0
+2022-09-25,Netherlands,Belgium,1,0,2073,1947,126,2.0
+2022-09-26,England,Germany,3,3,1966,1955,11,1.0
+2022-09-27,Ecuador,Japan,0,0,1842,1851,-9,1.0
+2022-09-27,Iran,Senegal,1,1,1780,1745,35,1.0
+2022-09-27,Saudi Arabia,United States,0,0,1644,1817,-173,1.0
+2022-09-27,Brazil,Tunisia,5,1,2133,1745,388,2.0
+2022-09-27,Morocco,Paraguay,0,0,1866,1727,139,1.0
+2022-09-27,Uruguay,Canada,2,0,1904,1711,193,2.0
+2022-09-27,Colombia,Mexico,3,2,1919,1812,107,2.0
+2022-09-27,Switzerland,Czechia,2,1,1878,1778,100,2.0
+2022-09-27,Portugal,Spain,0,1,1998,1996,2,0.0
+2022-11-05,Qatar,Panama,2,1,1577,1646,-69,2.0
+2022-11-09,Mexico,Iraq,4,0,1812,1575,237,2.0
+2022-11-10,Panama,Saudi Arabia,1,1,1646,1644,2,1.0
+2022-11-12,Ecuador,Iraq,0,0,1842,1575,267,1.0
+2022-11-16,Tunisia,Iran,2,0,1745,1780,-35,2.0
+2022-11-16,Saudi Arabia,Croatia,0,1,1644,1950,-306,0.0
+2022-11-16,Sweden,Mexico,2,1,1757,1812,-55,2.0
+2022-11-16,Turkey,Scotland,2,1,1711,1751,-40,2.0
+2022-11-17,Canada,Japan,2,1,1711,1851,-140,2.0
+2022-11-17,Jordan,Spain,1,3,1590,1996,-406,0.0
+2022-11-17,Ghana,Switzerland,2,0,1593,1878,-285,2.0
+2022-11-18,Egypt,Belgium,2,1,1660,1947,-287,2.0
+2022-11-19,Sweden,Algeria,2,0,1757,1704,53,2.0
+2022-11-19,Colombia,Paraguay,2,0,1919,1727,192,2.0
+2022-11-19,Turkey,Czechia,2,1,1711,1778,-67,2.0
+2022-11-20,Qatar,Ecuador,0,2,1577,1842,-265,0.0
+2022-11-21,England,Iran,6,2,1966,1780,186,2.0
+2022-11-21,Netherlands,Senegal,2,0,2073,1745,328,2.0
+2022-11-22,France,Australia,4,1,2081,1773,308,2.0
+2022-11-22,Saudi Arabia,Argentina,2,1,1644,2144,-500,2.0
+2022-11-23,Japan,Germany,2,1,1851,1955,-104,2.0
+2022-11-23,Croatia,Morocco,0,0,1950,1866,84,1.0
+2022-11-23,Belgium,Canada,1,0,1947,1711,236,2.0
+2022-11-24,South Korea,Uruguay,0,0,1788,1904,-116,1.0
+2022-11-24,Portugal,Ghana,3,2,1998,1593,405,2.0
+2022-11-25,Qatar,Senegal,1,3,1577,1745,-168,0.0
+2022-11-25,England,United States,0,0,1966,1817,149,1.0
+2022-11-25,Ecuador,Netherlands,1,1,1842,2073,-231,1.0
+2022-11-26,Australia,Tunisia,1,0,1773,1745,28,2.0
+2022-11-26,Argentina,Mexico,2,0,2144,1812,332,2.0
+2022-11-27,Morocco,Belgium,2,0,1866,1947,-81,2.0
+2022-11-27,Croatia,Canada,4,1,1950,1711,239,2.0
+2022-11-27,Germany,Spain,1,1,1955,1996,-41,1.0
+2022-11-28,Ghana,South Korea,3,2,1593,1788,-195,2.0
+2022-11-28,Portugal,Uruguay,2,0,1998,1904,94,2.0
+2022-11-28,Brazil,Switzerland,1,0,2133,1878,255,2.0
+2022-11-29,United States,Iran,1,0,1817,1780,37,2.0
+2022-11-29,Qatar,Netherlands,0,2,1577,2073,-496,0.0
+2022-11-29,Senegal,Ecuador,2,1,1745,1842,-97,2.0
+2022-11-30,Mexico,Saudi Arabia,2,1,1812,1644,168,2.0
+2022-11-30,Tunisia,France,1,0,1745,2081,-336,2.0
+2022-12-01,Japan,Spain,2,1,1851,1996,-145,2.0
+2022-12-01,Morocco,Canada,2,1,1866,1711,155,2.0
+2022-12-01,Belgium,Croatia,0,0,1947,1950,-3,1.0
+2022-12-02,South Korea,Portugal,2,1,1788,1998,-210,2.0
+2022-12-02,Uruguay,Ghana,2,0,1904,1593,311,2.0
+2022-12-03,Argentina,Australia,2,1,2144,1773,371,2.0
+2022-12-03,Netherlands,United States,3,1,2073,1817,256,2.0
+2022-12-04,England,Senegal,3,0,1966,1745,221,2.0
+2022-12-05,Croatia,Japan,1,1,1950,1851,99,1.0
+2022-12-05,Brazil,South Korea,4,1,2133,1788,345,2.0
+2022-12-06,Morocco,Spain,0,0,1866,1996,-130,1.0
+2022-12-06,Portugal,Switzerland,6,1,1998,1878,120,2.0
+2022-12-09,Argentina,Netherlands,2,2,2144,2073,71,1.0
+2022-12-09,Brazil,Croatia,1,1,2133,1950,183,1.0
+2022-12-10,Morocco,Portugal,1,0,1866,1998,-132,2.0
+2022-12-10,France,England,2,1,2081,1966,115,2.0
+2022-12-13,Argentina,Croatia,3,0,2144,1950,194,2.0
+2022-12-14,France,Morocco,2,0,2081,1866,215,2.0
+2022-12-17,Croatia,Morocco,2,1,1950,1866,84,2.0
+2022-12-18,Argentina,France,3,3,2144,2081,63,1.0
+2023-01-09,Iraq,Saudi Arabia,2,0,1621,1586,35,2.0
+2023-01-16,Iraq,Qatar,2,1,1621,1534,87,2.0
+2023-01-28,United States,Colombia,0,0,1774,1984,-210,1.0
+2023-03-23,Argentina,Panama,2,0,2139,1765,374,2.0
+2023-03-24,Japan,Uruguay,1,1,1905,2006,-101,1.0
+2023-03-24,Australia,Ecuador,3,1,1784,1883,-99,2.0
+2023-03-24,South Korea,Colombia,2,2,1799,1984,-185,1.0
+2023-03-24,Sweden,Belgium,0,3,1691,1990,-299,0.0
+2023-03-24,France,Netherlands,4,0,2109,1970,139,2.0
+2023-03-25,Morocco,Brazil,2,1,1846,2011,-165,2.0
+2023-03-25,Curaçao,Canada,0,2,1337,1705,-368,0.0
+2023-03-25,Spain,Norway,3,0,2033,1755,278,2.0
+2023-03-28,Japan,Colombia,1,2,1905,1984,-79,0.0
+2023-03-28,Australia,Ecuador,1,2,1784,1883,-99,0.0
+2023-03-28,South Korea,Uruguay,1,2,1799,2006,-207,0.0
+2023-03-28,Argentina,Curaçao,7,0,2139,1337,802,2.0
+2023-03-28,Scotland,Spain,2,0,1800,2033,-233,2.0
+2023-03-28,Germany,Belgium,2,3,1885,1990,-105,0.0
+2023-03-28,Turkey,Croatia,0,2,1765,1951,-186,0.0
+2023-04-19,United States,Mexico,1,1,1774,1794,-20,1.0
+2023-06-12,Morocco,Cape Verde,0,0,1846,1479,367,1.0
+2023-06-14,Netherlands,Croatia,2,4,1970,1951,19,0.0
+2023-06-15,Argentina,Australia,2,0,2139,1784,355,2.0
+2023-06-15,United States,Mexico,3,0,1774,1794,-20,2.0
+2023-06-15,Canada,Panama,2,0,1705,1765,-60,2.0
+2023-06-16,Colombia,Iraq,1,0,1984,1621,363,2.0
+2023-06-16,Sweden,New Zealand,4,1,1691,1525,166,2.0
+2023-06-17,South Africa,Morocco,2,1,1486,1846,-360,2.0
+2023-06-17,Norway,Scotland,1,2,1755,1800,-45,0.0
+2023-06-17,Belgium,Austria,1,1,1990,1835,155,1.0
+2023-06-17,Portugal,Bosnia and Herzegovina,3,0,2032,1485,547,2.0
+2023-06-18,United States,Canada,2,0,1774,1705,69,2.0
+2023-06-18,Mexico,Panama,1,0,1794,1765,29,2.0
+2023-06-18,Croatia,Spain,0,0,1951,2033,-82,1.0
+2023-06-19,New Zealand,Qatar,1,0,1525,1534,-9,2.0
+2023-06-20,Uzbekistan,Iran,0,1,1643,1827,-184,0.0
+2023-06-20,Algeria,Tunisia,1,1,1723,1738,-15,1.0
+2023-06-20,Senegal,Brazil,4,2,1731,2011,-280,2.0
+2023-06-20,Germany,Colombia,0,2,1885,1984,-99,0.0
+2023-06-20,Austria,Sweden,2,0,1835,1691,144,2.0
+2023-06-25,Haiti,Qatar,2,1,1496,1534,-38,2.0
+2023-06-29,Mexico,Haiti,3,1,1794,1496,298,2.0
+2023-07-02,Qatar,Mexico,1,0,1534,1794,-260,2.0
+2023-07-08,Panama,Qatar,4,0,1765,1534,231,2.0
+2023-07-09,United States,Canada,2,2,1774,1705,69,1.0
+2023-07-12,United States,Panama,1,1,1774,1765,9,1.0
+2023-07-16,Mexico,Panama,1,0,1794,1765,29,2.0
+2023-09-07,Norway,Jordan,6,0,1755,1503,252,2.0
+2023-09-07,Argentina,Ecuador,1,0,2139,1883,256,2.0
+2023-09-09,Germany,Japan,1,4,1885,1905,-20,0.0
+2023-09-09,Australia,Mexico,2,2,1784,1794,-10,1.0
+2023-09-09,United States,Uzbekistan,3,0,1774,1643,131,2.0
+2023-09-12,Japan,Turkey,4,2,1905,1765,140,2.0
+2023-09-12,South Korea,Saudi Arabia,1,0,1799,1586,213,2.0
+2023-09-12,Mexico,Uzbekistan,3,3,1794,1643,151,1.0
+2023-09-12,Egypt,Tunisia,1,3,1684,1738,-54,0.0
+2023-09-12,South Africa,DR Congo,1,0,1486,1497,-11,2.0
+2023-09-12,Senegal,Algeria,0,1,1731,1723,8,0.0
+2023-09-12,Ecuador,Uruguay,2,1,1883,2006,-123,2.0
+2023-09-12,Scotland,England,1,3,1800,2014,-214,0.0
+2023-09-12,Sweden,Austria,1,3,1691,1835,-144,0.0
+2023-09-12,Germany,France,2,1,1885,2109,-224,2.0
+2023-10-12,Algeria,Cape Verde,5,1,1723,1479,244,2.0
+2023-10-12,Colombia,Uruguay,2,2,1984,2006,-22,1.0
+2023-10-12,Argentina,Paraguay,1,0,2139,1706,433,2.0
+2023-10-12,Spain,Scotland,2,0,2033,1800,233,2.0
+2023-10-12,Croatia,Turkey,0,1,1951,1765,186,0.0
+2023-10-13,Japan,Canada,4,1,1905,1705,200,2.0
+2023-10-13,England,Australia,1,0,2014,1784,230,2.0
+2023-10-13,Jordan,Iran,1,3,1503,1827,-324,0.0
+2023-10-13,South Korea,Tunisia,4,0,1799,1738,61,2.0
+2023-10-13,Iraq,Qatar,0,0,1621,1534,87,1.0
+2023-10-13,DR Congo,New Zealand,1,1,1497,1525,-28,1.0
+2023-10-13,Curaçao,Panama,1,2,1337,1765,-428,0.0
+2023-10-13,Austria,Belgium,2,3,1835,1990,-155,0.0
+2023-10-13,Netherlands,France,1,2,1970,2109,-139,0.0
+2023-10-14,Mexico,Ghana,2,0,1794,1548,246,2.0
+2023-10-14,Ivory Coast,Morocco,1,1,1642,1846,-204,1.0
+2023-10-14,United States,Germany,1,3,1774,1885,-111,0.0
+2023-10-15,Norway,Spain,0,1,1755,2033,-278,0.0
+2023-10-16,Algeria,Egypt,1,1,1723,1684,39,1.0
+2023-10-16,Belgium,Sweden,1,1,1990,1691,299,1.0
+2023-10-16,Bosnia and Herzegovina,Portugal,0,5,1485,2032,-547,0.0
+2023-10-17,Japan,Tunisia,2,0,1905,1738,167,2.0
+2023-10-17,Australia,New Zealand,2,0,1784,1525,259,2.0
+2023-10-17,Iran,Qatar,4,0,1827,1534,293,2.0
+2023-10-17,Jordan,Iraq,2,2,1503,1621,-118,1.0
+2023-10-17,Ivory Coast,South Africa,1,1,1642,1486,156,1.0
+2023-10-17,United States,Ghana,4,0,1774,1548,226,2.0
+2023-10-17,Germany,Mexico,2,2,1885,1794,91,1.0
+2023-10-17,Uruguay,Brazil,2,0,2006,2011,-5,2.0
+2023-10-17,Ecuador,Colombia,0,0,1883,1984,-101,1.0
+2023-10-17,France,Scotland,4,1,2109,1800,309,2.0
+2023-11-16,Argentina,Uruguay,0,2,2139,2006,133,0.0
+2023-11-16,Colombia,Brazil,2,1,1984,2011,-27,2.0
+2023-11-18,Germany,Turkey,2,3,1885,1765,120,0.0
+2023-11-19,Scotland,Norway,3,3,1800,1755,45,1.0
+2023-11-21,Uzbekistan,Iran,2,2,1643,1827,-184,1.0
+2023-11-21,Jordan,Saudi Arabia,0,2,1503,1586,-83,0.0
+2023-11-21,Brazil,Argentina,0,1,2011,2139,-128,0.0
+2023-11-21,Paraguay,Colombia,0,1,1706,1984,-278,0.0
+2023-11-21,Austria,Germany,2,0,1835,1885,-50,2.0
+2023-12-16,Colombia,Mexico,3,2,1984,1794,190,2.0
+2024-01-05,Qatar,Jordan,1,2,1524,1617,-93,0.0
+2024-01-06,South Korea,Iraq,1,0,1774,1584,190,2.0
+2024-01-09,Japan,Jordan,6,1,1889,1617,272,2.0
+2024-01-10,Tunisia,Cape Verde,2,0,1598,1472,126,2.0
+2024-01-14,Cape Verde,Ghana,2,1,1472,1429,43,2.0
+2024-01-18,Egypt,Ghana,2,2,1657,1429,228,1.0
+2024-01-19,Iraq,Japan,2,1,1584,1889,-305,2.0
+2024-01-20,Jordan,South Korea,2,2,1617,1774,-157,1.0
+2024-01-21,DR Congo,Morocco,1,1,1540,1802,-262,1.0
+2024-01-22,Cape Verde,Egypt,2,2,1472,1657,-185,1.0
+2024-01-23,Australia,Uzbekistan,1,1,1719,1684,35,1.0
+2024-01-24,South Africa,Tunisia,0,0,1576,1598,-22,1.0
+2024-01-28,DR Congo,Egypt,1,1,1540,1657,-117,1.0
+2024-01-29,Jordan,Iraq,3,2,1617,1584,33,2.0
+2024-01-29,Ivory Coast,Senegal,1,1,1579,1771,-192,1.0
+2024-01-30,Saudi Arabia,South Korea,1,1,1536,1774,-238,1.0
+2024-01-30,South Africa,Morocco,2,0,1576,1802,-226,2.0
+2024-02-02,South Korea,Australia,2,1,1774,1719,55,2.0
+2024-02-03,Iran,Japan,2,1,1838,1889,-51,2.0
+2024-02-03,Qatar,Uzbekistan,1,1,1524,1684,-160,1.0
+2024-02-03,Cape Verde,South Africa,0,0,1472,1576,-104,1.0
+2024-02-06,Jordan,South Korea,2,0,1617,1774,-157,2.0
+2024-02-07,Qatar,Iran,3,2,1524,1838,-314,2.0
+2024-02-07,Ivory Coast,DR Congo,1,0,1579,1540,39,2.0
+2024-02-10,Qatar,Jordan,3,1,1524,1617,-93,2.0
+2024-02-10,DR Congo,South Africa,0,0,1540,1576,-36,1.0
+2024-03-21,Portugal,Sweden,5,2,1993,1744,249,2.0
+2024-03-21,Mexico,Panama,3,0,1769,1726,43,2.0
+2024-03-22,Colombia,Spain,1,0,1977,2178,-201,2.0
+2024-03-22,Netherlands,Scotland,4,0,1938,1759,179,2.0
+2024-03-22,Norway,Czechia,1,2,1806,1753,53,0.0
+2024-03-22,Egypt,New Zealand,1,0,1657,1583,74,2.0
+2024-03-23,Croatia,Tunisia,0,0,1886,1598,288,1.0
+2024-03-23,England,Brazil,0,1,2006,1996,10,0.0
+2024-03-23,France,Germany,0,2,2055,1971,84,0.0
+2024-03-24,United States,Mexico,2,0,1758,1769,-11,2.0
+2024-03-26,Algeria,South Africa,3,3,1685,1576,109,1.0
+2024-03-26,Austria,Turkey,6,1,1871,1774,97,2.0
+2024-03-26,Ivory Coast,Uruguay,2,1,1579,1948,-369,2.0
+2024-03-26,Spain,Brazil,3,3,2178,1996,182,1.0
+2024-03-26,New Zealand,Tunisia,0,0,1583,1598,-15,1.0
+2024-03-26,Germany,Netherlands,2,1,1971,1938,33,2.0
+2024-03-26,England,Belgium,2,2,2006,1851,155,1.0
+2024-03-26,Egypt,Croatia,2,4,1657,1886,-229,0.0
+2024-06-03,England,Bosnia and Herzegovina,3,0,2006,1485,521,2.0
+2024-06-05,Uruguay,Mexico,4,0,1948,1769,179,2.0
+2024-06-06,Senegal,DR Congo,1,1,1771,1540,231,1.0
+2024-06-06,Netherlands,Canada,4,0,1938,1784,154,2.0
+2024-06-08,Portugal,Croatia,1,2,1993,1886,107,0.0
+2024-06-08,Switzerland,Austria,1,1,1814,1871,-57,1.0
+2024-06-08,United States,Colombia,1,5,1758,1977,-219,0.0
+2024-06-08,Brazil,Mexico,3,2,1996,1769,227,2.0
+2024-06-09,Argentina,Ecuador,1,0,2108,1910,198,2.0
+2024-06-09,France,Canada,0,0,2055,1784,271,1.0
+2024-06-11,Iran,Uzbekistan,0,0,1838,1684,154,1.0
+2024-06-11,Saudi Arabia,Jordan,1,2,1536,1617,-81,0.0
+2024-06-12,United States,Brazil,1,1,1758,1996,-238,1.0
+2024-06-14,Germany,Scotland,5,1,1971,1759,212,2.0
+2024-06-15,Spain,Croatia,3,0,2178,1886,292,2.0
+2024-06-16,Panama,Paraguay,0,1,1726,1775,-49,0.0
+2024-06-17,France,Austria,1,0,2055,1871,184,2.0
+2024-06-18,Portugal,Czechia,2,1,1993,1753,240,2.0
+2024-06-19,Scotland,Switzerland,1,1,1759,1814,-55,1.0
+2024-06-20,Argentina,Canada,2,0,2108,1784,324,2.0
+2024-06-21,France,Netherlands,0,0,2055,1938,117,1.0
+2024-06-22,Portugal,Turkey,3,0,1993,1774,219,2.0
+2024-06-23,Germany,Switzerland,1,1,1971,1814,157,1.0
+2024-06-23,Uruguay,Panama,3,1,1948,1726,222,2.0
+2024-06-24,Colombia,Paraguay,2,1,1977,1775,202,2.0
+2024-06-25,Austria,Netherlands,3,2,1871,1938,-67,2.0
+2024-06-26,Turkey,Czechia,2,1,1774,1753,21,2.0
+2024-06-27,United States,Panama,1,2,1758,1726,32,0.0
+2024-06-28,Brazil,Paraguay,4,1,1996,1775,221,2.0
+2024-06-30,Ecuador,Mexico,0,0,1910,1769,141,1.0
+2024-07-01,France,Belgium,1,0,2055,1851,204,2.0
+2024-07-01,United States,Uruguay,0,1,1758,1948,-190,0.0
+2024-07-02,Turkey,Austria,2,1,1774,1871,-97,2.0
+2024-07-02,Brazil,Colombia,1,1,1996,1977,19,1.0
+2024-07-04,Argentina,Ecuador,1,1,2108,1910,198,1.0
+2024-07-05,Germany,Spain,1,2,1971,2178,-207,0.0
+2024-07-05,France,Portugal,0,0,2055,1993,62,1.0
+2024-07-06,Netherlands,Turkey,2,1,1938,1774,164,2.0
+2024-07-06,England,Switzerland,1,1,2006,1814,192,1.0
+2024-07-06,Colombia,Panama,5,0,1977,1726,251,2.0
+2024-07-06,Brazil,Uruguay,0,0,1996,1948,48,1.0
+2024-07-09,Spain,France,2,1,2178,2055,123,2.0
+2024-07-09,Argentina,Canada,2,0,2108,1784,324,2.0
+2024-07-10,England,Netherlands,2,1,2006,1938,68,2.0
+2024-07-10,Colombia,Uruguay,1,0,1977,1948,29,2.0
+2024-07-13,Canada,Uruguay,2,2,1784,1948,-164,1.0
+2024-07-14,Spain,England,2,1,2178,2006,172,2.0
+2024-07-14,Argentina,Colombia,1,0,2108,1977,131,2.0
+2024-09-05,Portugal,Croatia,2,1,1993,1886,107,2.0
+2024-09-06,Egypt,Cape Verde,3,0,1657,1472,185,2.0
+2024-09-06,Uruguay,Paraguay,0,0,1948,1775,173,1.0
+2024-09-06,Brazil,Ecuador,1,0,1996,1910,86,2.0
+2024-09-07,Netherlands,Bosnia and Herzegovina,5,2,1938,1485,453,2.0
+2024-09-07,United States,Canada,1,2,1758,1784,-26,0.0
+2024-09-07,Mexico,New Zealand,3,0,1769,1583,186,2.0
+2024-09-08,Portugal,Scotland,2,1,1993,1759,234,2.0
+2024-09-08,Switzerland,Spain,1,4,1814,2178,-364,0.0
+2024-09-09,Norway,Austria,2,1,1806,1871,-65,2.0
+2024-09-09,France,Belgium,2,0,2055,1851,204,2.0
+2024-09-10,Colombia,Argentina,2,1,1977,2108,-131,2.0
+2024-09-10,Netherlands,Germany,2,2,1938,1971,-33,1.0
+2024-09-10,United States,New Zealand,1,1,1758,1583,175,1.0
+2024-09-10,Paraguay,Brazil,1,0,1775,1996,-221,2.0
+2024-09-10,Canada,Mexico,0,0,1784,1769,15,1.0
+2024-10-10,Ecuador,Paraguay,0,0,1910,1775,135,1.0
+2024-10-10,Uzbekistan,Iran,0,0,1684,1838,-154,1.0
+2024-10-10,Saudi Arabia,Japan,0,2,1536,1889,-353,0.0
+2024-10-10,Jordan,South Korea,0,2,1617,1774,-157,0.0
+2024-10-11,Bosnia and Herzegovina,Germany,1,2,1485,1971,-486,0.0
+2024-10-12,Croatia,Scotland,2,1,1886,1759,127,2.0
+2024-10-12,United States,Panama,2,0,1758,1726,32,2.0
+2024-10-13,Austria,Norway,5,1,1871,1806,65,2.0
+2024-10-14,Belgium,France,1,2,1851,2055,-204,0.0
+2024-10-14,Germany,Netherlands,1,0,1971,1938,33,2.0
+2024-10-15,Scotland,Portugal,0,0,1759,1993,-234,1.0
+2024-10-15,Uruguay,Ecuador,0,0,1948,1910,38,1.0
+2024-10-15,South Korea,Iraq,3,2,1774,1584,190,2.0
+2024-10-15,Japan,Australia,1,1,1889,1719,170,1.0
+2024-10-15,Iran,Qatar,4,1,1838,1524,314,2.0
+2024-10-15,Mexico,United States,2,0,1769,1758,11,2.0
+2024-10-15,Canada,Panama,2,1,1784,1726,58,2.0
+2024-11-14,Qatar,Uzbekistan,3,2,1524,1684,-160,2.0
+2024-11-14,Iraq,Jordan,0,0,1584,1617,-33,1.0
+2024-11-14,Australia,Saudi Arabia,0,0,1719,1536,183,1.0
+2024-11-14,Paraguay,Argentina,2,1,1775,2108,-333,2.0
+2024-11-15,Scotland,Croatia,1,0,1759,1886,-127,2.0
+2024-11-15,Uruguay,Colombia,3,2,1948,1977,-29,2.0
+2024-11-15,Cape Verde,Egypt,1,1,1472,1657,-185,1.0
+2024-11-16,Germany,Bosnia and Herzegovina,7,0,1971,1485,486,2.0
+2024-11-18,Croatia,Portugal,1,1,1886,1993,-107,1.0
+2024-11-18,Spain,Switzerland,3,2,2178,1814,364,2.0
+2024-11-19,Bosnia and Herzegovina,Netherlands,1,1,1485,1938,-453,1.0
+2024-11-19,Colombia,Ecuador,0,1,1977,1910,67,0.0
+2024-11-19,Brazil,Uruguay,1,1,1996,1948,48,1.0
+2024-12-28,Saudi Arabia,Iraq,3,1,1536,1584,-48,2.0
+2025-01-27,Jordan,Uzbekistan,0,0,1689,1735,-46,1.0
+2025-03-20,Croatia,France,2,0,1932,2062,-130,2.0
+2025-03-20,United States,Panama,0,1,1747,1742,5,0.0
+2025-03-20,Mexico,Canada,2,0,1835,1802,33,2.0
+2025-03-20,Brazil,Colombia,2,1,1978,1998,-20,2.0
+2025-03-20,Netherlands,Spain,2,2,1959,2172,-213,1.0
+2025-03-21,Uruguay,Argentina,0,1,1890,2113,-223,0.0
+2025-03-23,France,Croatia,2,0,2062,1932,130,2.0
+2025-03-23,Spain,Netherlands,3,3,2172,1959,213,1.0
+2025-03-23,United States,Canada,1,2,1747,1802,-55,0.0
+2025-03-23,Mexico,Panama,2,1,1835,1742,93,2.0
+2025-03-25,Iran,Uzbekistan,2,2,1755,1735,20,1.0
+2025-03-25,South Korea,Jordan,1,1,1784,1689,95,1.0
+2025-03-25,Japan,Saudi Arabia,0,0,1878,1592,286,1.0
+2025-03-25,Colombia,Paraguay,2,2,1998,1833,165,1.0
+2025-03-25,Argentina,Brazil,4,1,2113,1978,135,2.0
+2025-05-30,Saudi Arabia,Jordan,2,0,1592,1689,-97,2.0
+2025-06-04,Germany,Portugal,1,2,1910,1976,-66,0.0
+2025-06-05,Paraguay,Uruguay,2,0,1833,1890,-57,2.0
+2025-06-05,Spain,France,5,4,2172,2062,110,2.0
+2025-06-05,Australia,Japan,1,0,1774,1878,-104,2.0
+2025-06-05,Iraq,South Korea,0,2,1582,1784,-202,0.0
+2025-06-05,Qatar,Iran,1,0,1425,1755,-330,2.0
+2025-06-05,Ecuador,Brazil,0,0,1933,1978,-45,1.0
+2025-06-06,Morocco,Tunisia,2,0,1840,1615,225,2.0
+2025-06-07,New Zealand,Ivory Coast,1,0,1585,1627,-42,2.0
+2025-06-07,Switzerland,Mexico,4,2,1897,1835,62,2.0
+2025-06-07,United States,Turkey,1,2,1747,1880,-133,0.0
+2025-06-08,Portugal,Spain,2,2,1976,2172,-196,1.0
+2025-06-08,Germany,France,0,2,1910,2062,-152,0.0
+2025-06-09,Croatia,Czechia,5,1,1932,1731,201,2.0
+2025-06-10,Jordan,Iraq,0,1,1689,1582,107,0.0
+2025-06-10,Saudi Arabia,Australia,1,2,1592,1774,-182,0.0
+2025-06-10,Uzbekistan,Qatar,3,0,1735,1425,310,2.0
+2025-06-10,Brazil,Paraguay,1,0,1978,1833,145,2.0
+2025-06-10,Argentina,Colombia,1,1,2113,1998,115,1.0
+2025-06-10,Curaçao,Haiti,5,1,1466,1542,-76,2.0
+2025-06-10,United States,Switzerland,0,4,1747,1897,-150,0.0
+2025-06-10,Sweden,Algeria,4,3,1660,1757,-97,2.0
+2025-06-10,Mexico,Turkey,1,0,1835,1880,-45,2.0
+2025-06-10,England,Senegal,1,3,2042,1807,235,0.0
+2025-06-10,Canada,Ivory Coast,0,0,1802,1627,175,1.0
+2025-06-15,Saudi Arabia,Haiti,1,0,1592,1542,50,2.0
+2025-06-19,United States,Saudi Arabia,1,0,1747,1592,155,2.0
+2025-06-21,Canada,Curaçao,1,1,1802,1466,336,1.0
+2025-06-22,United States,Haiti,2,1,1747,1542,205,2.0
+2025-06-28,Mexico,Saudi Arabia,2,0,1835,1592,243,2.0
+2025-07-06,United States,Mexico,1,2,1747,1835,-88,0.0
+2025-07-15,South Korea,Japan,0,1,1784,1878,-94,0.0
+2025-09-04,Paraguay,Ecuador,0,0,1833,1933,-100,1.0
+2025-09-05,Australia,New Zealand,1,0,1774,1585,189,2.0
+2025-09-06,United States,South Korea,0,2,1747,1784,-37,0.0
+2025-09-06,Japan,Mexico,0,0,1878,1835,43,1.0
+2025-09-07,Turkey,Spain,0,6,1880,2172,-292,0.0
+2025-09-08,Uzbekistan,Iran,1,0,1735,1755,-20,2.0
+2025-09-08,Czechia,Saudi Arabia,1,1,1731,1592,139,1.0
+2025-09-09,Bosnia and Herzegovina,Austria,1,2,1572,1818,-246,0.0
+2025-09-09,Ecuador,Argentina,1,0,1933,2113,-180,2.0
+2025-09-09,DR Congo,Senegal,2,3,1657,1807,-150,0.0
+2025-09-09,United States,Japan,2,0,1747,1878,-131,2.0
+2025-09-09,New Zealand,Australia,1,3,1585,1774,-189,0.0
+2025-09-09,Mexico,South Korea,2,2,1835,1784,51,1.0
+2025-10-09,Czechia,Croatia,0,0,1731,1932,-201,1.0
+2025-10-10,Sweden,Switzerland,0,2,1660,1897,-237,0.0
+2025-10-10,Canada,Australia,0,1,1802,1774,28,0.0
+2025-10-10,Japan,Paraguay,2,2,1878,1833,45,1.0
+2025-10-10,South Korea,Brazil,0,5,1784,1978,-194,0.0
+2025-10-10,United States,Ecuador,1,1,1747,1933,-186,1.0
+2025-10-11,Colombia,Mexico,4,0,1998,1835,163,2.0
+2025-10-13,Uruguay,Uzbekistan,2,1,1890,1735,155,2.0
+2025-10-14,Saudi Arabia,Iraq,0,0,1592,1582,10,1.0
+2025-10-14,South Korea,Paraguay,2,0,1784,1833,-49,2.0
+2025-10-14,Norway,New Zealand,1,1,1922,1585,337,1.0
+2025-10-14,Japan,Brazil,3,2,1878,1978,-100,2.0
+2025-10-14,United States,Australia,2,1,1747,1774,-27,2.0
+2025-10-14,Mexico,Ecuador,1,1,1835,1933,-98,1.0
+2025-10-14,Canada,Colombia,0,0,1802,1998,-196,1.0
+2025-11-13,Cape Verde,Iran,0,0,1561,1755,-194,1.0
+2025-11-13,Canada,Ecuador,0,0,1802,1933,-131,1.0
+2025-11-14,Japan,Ghana,2,0,1878,1509,369,2.0
+2025-11-14,Saudi Arabia,Ivory Coast,1,0,1592,1627,-35,2.0
+2025-11-14,Tunisia,Jordan,3,2,1615,1689,-74,2.0
+2025-11-14,Uzbekistan,Egypt,2,0,1735,1622,113,2.0
+2025-11-15,Switzerland,Sweden,4,1,1897,1660,237,2.0
+2025-11-15,Brazil,Senegal,2,0,1978,1807,171,2.0
+2025-11-15,United States,Paraguay,2,1,1747,1833,-86,2.0
+2025-11-15,Mexico,Uruguay,0,0,1835,1890,-55,1.0
+2025-11-15,Colombia,New Zealand,2,1,1998,1585,413,2.0
+2025-11-17,Cape Verde,Egypt,1,1,1561,1622,-61,1.0
+2025-11-18,Spain,Turkey,2,2,2172,1880,292,1.0
+2025-11-18,United States,Uruguay,5,1,1747,1890,-143,2.0
+2025-11-18,South Korea,Ghana,1,0,1784,1509,275,2.0
+2025-11-18,Saudi Arabia,Algeria,0,2,1592,1757,-165,0.0
+2025-11-18,Iran,Uzbekistan,0,0,1755,1735,20,1.0
+2025-11-18,Brazil,Tunisia,1,1,1978,1615,363,1.0
+2025-11-18,Austria,Bosnia and Herzegovina,1,1,1818,1572,246,1.0
+2025-11-18,Paraguay,Mexico,2,1,1833,1835,-2,2.0
+2025-11-18,Ecuador,New Zealand,2,0,1933,1585,348,2.0
+2025-11-18,Colombia,Australia,3,0,1998,1774,224,2.0
+2025-12-07,Qatar,Tunisia,0,3,1425,1615,-190,0.0
+2025-12-08,Morocco,Saudi Arabia,1,0,1840,1592,248,2.0
+2025-12-09,Jordan,Egypt,3,0,1689,1622,67,2.0
+2025-12-09,Algeria,Iraq,2,0,1757,1582,175,2.0
+2025-12-12,Jordan,Iraq,1,0,1689,1582,107,2.0
+2025-12-15,Jordan,Saudi Arabia,1,0,1689,1592,97,2.0
+2025-12-18,Morocco,Jordan,3,2,1840,1689,151,2.0
+2025-12-26,Egypt,South Africa,1,0,1622,1550,72,2.0
+2025-12-27,DR Congo,Senegal,1,1,1657,1807,-150,1.0
+2026-01-06,Algeria,DR Congo,1,0,1743,1655,88,2.0
+2026-01-10,Egypt,Ivory Coast,3,2,1689,1676,13,2.0
+2026-01-14,Senegal,Egypt,1,0,1878,1689,189,2.0
+2026-01-18,Morocco,Senegal,0,1,1822,1878,-56,0.0
+2026-01-22,Panama,Mexico,0,1,1737,1860,-123,0.0
+2026-03-26,France,Brazil,2,1,2081,1984,97,2.0
+2026-03-26,Croatia,Colombia,2,1,1930,1975,-45,2.0
+2026-03-27,Austria,Ghana,5,1,1827,1503,324,2.0
+2026-03-27,Switzerland,Germany,3,4,1889,1923,-34,0.0
+2026-03-27,South Africa,Panama,1,1,1524,1737,-213,1.0
+2026-03-27,Saudi Arabia,Egypt,0,4,1568,1689,-121,0.0
+2026-03-27,Netherlands,Norway,2,1,1961,1912,49,2.0
+2026-03-27,England,Uruguay,1,1,2020,1892,128,1.0
+2026-03-27,Ecuador,Morocco,1,1,1933,1822,111,1.0
+2026-03-28,Ivory Coast,South Korea,4,0,1676,1752,-76,2.0
+2026-03-28,Scotland,Japan,0,1,1767,1904,-137,0.0
+2026-03-28,United States,Belgium,2,5,1721,1867,-146,0.0
+2026-03-28,Mexico,Portugal,0,0,1860,1984,-124,1.0
+2026-03-28,Tunisia,Haiti,1,0,1636,1532,104,2.0
+2026-03-29,France,Colombia,3,1,2081,1975,106,2.0
+2026-03-30,Germany,Ghana,2,1,1923,1503,420,2.0
+2026-03-31,Australia,Curaçao,5,1,1783,1436,347,2.0
+2026-03-31,Algeria,Uruguay,0,0,1743,1892,-149,1.0
+2026-03-31,Austria,South Korea,1,0,1827,1752,75,2.0
+2026-03-31,Brazil,Croatia,3,1,1984,1930,54,2.0
+2026-03-31,United States,Portugal,0,2,1721,1984,-263,0.0
+2026-03-31,Spain,Egypt,0,0,2165,1689,476,1.0
+2026-03-31,South Africa,Panama,1,2,1524,1737,-213,0.0
+2026-03-31,Norway,Switzerland,0,0,1912,1889,23,1.0
+2026-03-31,Netherlands,Ecuador,1,1,1961,1933,28,1.0
+2026-03-31,Ivory Coast,Scotland,1,0,1676,1767,-91,2.0
+2026-03-31,England,Japan,0,1,2020,1904,116,0.0
+2026-03-31,Morocco,Paraguay,2,1,1822,1833,-11,2.0
+2026-03-31,Belgium,Mexico,1,1,1867,1860,7,1.0
+2026-03-31,Canada,Tunisia,0,0,1784,1636,148,1.0
+2026-05-22,Mexico,Ghana,2,0,1860,1503,357,2.0
+2026-05-30,Scotland,Curaçao,4,1,1767,1436,331,2.0
+2026-05-30,Ecuador,Saudi Arabia,2,1,1933,1568,365,2.0
+2026-05-30,Mexico,Australia,1,0,1860,1783,77,2.0
+2026-05-31,United States,Senegal,3,2,1721,1878,-157,2.0
+2026-05-31,Switzerland,Jordan,4,1,1889,1690,199,2.0
+2026-05-31,Brazil,Panama,6,2,1984,1737,247,2.0
+2026-06-01,Norway,Sweden,3,1,1912,1719,193,2.0
+2026-06-01,Austria,Tunisia,1,0,1827,1636,191,2.0
+2026-06-01,Canada,Uzbekistan,2,0,1784,1727,57,2.0
+2026-06-02,Croatia,Belgium,0,2,1930,1867,63,0.0
+2026-06-02,Haiti,New Zealand,4,0,1532,1585,-53,2.0
+2026-06-03,Netherlands,Algeria,0,1,1961,1743,218,0.0
+2026-06-04,France,Ivory Coast,1,2,2081,1676,405,0.0
+2026-06-04,Spain,Iraq,1,1,2165,1607,558,1.0
+2026-06-06,Belgium,Tunisia,5,0,1867,1636,231,2.0
+2026-06-06,Bosnia and Herzegovina,Panama,1,1,1594,1737,-143,1.0
+2026-06-06,Australia,Switzerland,1,1,1783,1889,-106,1.0
+2026-06-06,United States,Germany,1,2,1721,1923,-202,0.0
+2026-06-06,England,New Zealand,1,0,2020,1585,435,2.0
+2026-06-06,Brazil,Egypt,2,1,1984,1689,295,2.0
+2026-06-07,Colombia,Jordan,2,0,1975,1690,285,2.0
+2026-06-07,Morocco,Norway,1,1,1822,1912,-90,1.0
+2026-06-08,Netherlands,Uzbekistan,2,1,1961,1727,234,2.0
+2026-06-09,Saudi Arabia,Senegal,0,0,1568,1878,-310,1.0
